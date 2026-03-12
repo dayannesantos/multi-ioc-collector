@@ -1,0 +1,36 @@
+name: Daily IOC Collection
+
+on:
+  schedule:
+    - cron: '0 8 * * *'    # roda todo dia às 8h (horário de Brasília)
+  workflow_dispatch:       # permite você rodar manualmente quando quiser
+
+jobs:
+  collect-iocs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+      
+      - name: Create .env
+        run: |
+          echo "OTX_API_KEY=${{ secrets.OTX_API_KEY }}" >> .env
+          echo "ABUSE_AUTH_KEY=${{ secrets.ABUSE_AUTH_KEY }}" >> .env
+      
+      - name: Run Collector
+        run: python multi_ioc_collector.py
+      
+      - name: Commit and push new IOCs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "action@github.com"
+          git add iocs_coletados/
+          git commit -m "📊 IOCs atualizados - $(date)" || echo "No changes"
+          git push
