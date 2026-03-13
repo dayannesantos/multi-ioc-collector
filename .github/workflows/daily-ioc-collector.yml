@@ -2,8 +2,15 @@ name: Daily IOC Collection
 
 on:
   schedule:
-    - cron: '0 8 * * *'    # roda todo dia às 8h (horário de Brasília)
-  workflow_dispatch:       # permite você rodar manualmente quando quiser
+    - cron: '0 8 * * *'    # todo dia às 8h (horário de Brasília)
+  workflow_dispatch:
+
+# === CORREÇÕES IMPORTANTES ===
+permissions:
+  contents: write          # ← resolve o erro 128 do git push
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← resolve o aviso do Node.js
 
 jobs:
   collect-iocs:
@@ -14,7 +21,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.13'     # sua versão local
       
       - name: Install dependencies
         run: pip install requests python-dotenv
