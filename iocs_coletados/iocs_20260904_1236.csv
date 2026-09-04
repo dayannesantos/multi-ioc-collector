@@ -1,0 +1,1466 @@
+type,value,source,date,extra
+url,http://117.201.224.34:59464/i,URLhaus,2026-09-04 12:26:05 UTC,"{""threat"": ""malware_download""}"
+url,http://62.60.226.140/files/6306648329/ZO7FDgg.exe,URLhaus,2026-09-04 12:15:05 UTC,"{""threat"": ""malware_download""}"
+url,http://180.244.61.239:60849/bin.sh,URLhaus,2026-09-04 12:07:17 UTC,"{""threat"": ""malware_download""}"
+url,http://124.6.169.46:58258/i,URLhaus,2026-09-04 12:03:12 UTC,"{""threat"": ""malware_download""}"
+url,http://117.201.224.34:59464/bin.sh,URLhaus,2026-09-04 11:54:12 UTC,"{""threat"": ""malware_download""}"
+url,http://219.157.22.221:59560/i,URLhaus,2026-09-04 11:40:16 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.3.1:35468/i,URLhaus,2026-09-04 11:31:17 UTC,"{""threat"": ""malware_download""}"
+url,http://filecon.sbs//driver.jpg,URLhaus,2026-09-04 11:17:08 UTC,"{""threat"": ""malware_download""}"
+url,http://filecon.sbs//pas.jpg,URLhaus,2026-09-04 11:17:08 UTC,"{""threat"": ""malware_download""}"
+url,http://filecon.sbs//bk.jpg,URLhaus,2026-09-04 11:17:06 UTC,"{""threat"": ""malware_download""}"
+url,http://ccoffice.site//pas.jpg,URLhaus,2026-09-04 11:17:04 UTC,"{""threat"": ""malware_download""}"
+url,http://ccoffice.site//bk.jpg,URLhaus,2026-09-04 11:17:04 UTC,"{""threat"": ""malware_download""}"
+url,http://ccoffice.site//driver.jpg,URLhaus,2026-09-04 11:17:04 UTC,"{""threat"": ""malware_download""}"
+url,http://209.141.57.138:8000/p.sh?t=bfd56e5e,URLhaus,2026-09-04 11:17:04 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.3.1:35468/bin.sh,URLhaus,2026-09-04 11:01:18 UTC,"{""threat"": ""malware_download""}"
+url,http://42.233.190.252:58887/i,URLhaus,2026-09-04 10:01:54 UTC,"{""threat"": ""malware_download""}"
+url,http://112.248.110.76:56451/bin.sh,URLhaus,2026-09-04 10:01:52 UTC,"{""threat"": ""malware_download""}"
+url,http://182.126.124.244:57970/i,URLhaus,2026-09-04 10:01:45 UTC,"{""threat"": ""malware_download""}"
+url,http://113.221.26.56:55726/i,URLhaus,2026-09-04 10:01:44 UTC,"{""threat"": ""malware_download""}"
+url,http://113.228.158.110:48412/i,URLhaus,2026-09-04 10:01:43 UTC,"{""threat"": ""malware_download""}"
+url,http://112.248.110.76:56451/i,URLhaus,2026-09-04 10:01:43 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.238.67:49003/i,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://182.112.30.71:38364/bin.sh,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://42.226.68.209:53631/i,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://193.90.12.80/aminer.gz,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://123.190.28.100:58407/bin.sh,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.238.67:49003/bin.sh,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://182.117.68.170:45884/i,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://42.55.48.13:57019/i,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://113.237.97.124:52097/bin.sh,URLhaus,2026-09-04 10:01:42 UTC,"{""threat"": ""malware_download""}"
+url,http://115.57.12.233:39540/i,URLhaus,2026-09-04 10:01:41 UTC,"{""threat"": ""malware_download""}"
+url,http://183.12.173.166:35769/i,URLhaus,2026-09-04 10:01:41 UTC,"{""threat"": ""malware_download""}"
+url,http://219.157.183.84:33148/i,URLhaus,2026-09-04 10:01:40 UTC,"{""threat"": ""malware_download""}"
+url,http://123.190.28.100:58407/i,URLhaus,2026-09-04 10:01:40 UTC,"{""threat"": ""malware_download""}"
+url,http://219.157.167.99:33777/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://42.234.154.126:44038/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://113.221.46.118:58353/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://39.90.144.82:53918/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://115.57.212.85:32888/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://183.23.136.171:35951/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://60.19.172.59:40959/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://222.127.68.115:42552/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://222.127.77.227:56952/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://180.245.27.20:35852/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://42.55.48.13:57019/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://182.127.115.197:36152/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://60.23.237.100:57013/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://182.127.160.17:58026/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://182.127.115.197:36152/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://119.180.244.119:42792/bin.sh,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://115.48.238.241:42081/i,URLhaus,2026-09-04 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://42.234.208.5:59424/bin.sh,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://123.188.64.71:51051/bin.sh,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://42.226.68.209:53631/bin.sh,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://27.44.144.48:40959/Mozi.m,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://113.231.108.98:55031/i,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://39.87.50.123:44919/bin.sh,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://112.238.131.128:59841/i,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://218.72.34.168:44366/bin.sh,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://83.228.109.209:52087/i,URLhaus,2026-09-04 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://182.126.93.152:58339/Mozi.m,URLhaus,2026-09-04 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://114.228.186.181:50519/bin.sh,URLhaus,2026-09-04 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://42.177.187.195:44672/bin.sh,URLhaus,2026-09-04 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://42.52.38.254:43443/bin.sh,URLhaus,2026-09-04 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://123.132.245.94:33681/i,URLhaus,2026-09-04 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://123.132.245.94:33681/bin.sh,URLhaus,2026-09-04 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://112.238.131.128:59841/bin.sh,URLhaus,2026-09-04 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://118.145.196.225:800/yy7atflk/v6kyo484,URLhaus,2026-09-04 10:01:30 UTC,"{""threat"": ""malware_download""}"
+url,http://221.14.171.98:54946/i,URLhaus,2026-09-04 10:01:30 UTC,"{""threat"": ""malware_download""}"
+url,http://175.165.85.107:52429/i,URLhaus,2026-09-04 10:01:30 UTC,"{""threat"": ""malware_download""}"
+url,http://175.175.60.81:49613/i,URLhaus,2026-09-04 10:01:30 UTC,"{""threat"": ""malware_download""}"
+url,http://80.67.33.209:44819/i,URLhaus,2026-09-04 10:01:30 UTC,"{""threat"": ""malware_download""}"
+url,http://219.155.201.95:50456/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://42.52.38.254:43443/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://61.53.151.142:41245/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://125.40.113.33:33011/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://45.172.218.181:57007/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://113.221.26.56:55726/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://27.207.224.176:37565/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://175.174.73.39:53343/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://175.175.104.106:36206/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://103.68.21.2:59852/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://113.221.46.118:58353/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://80.67.33.209:44819/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://219.157.167.99:33777/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://175.175.104.106:36206/bin.sh,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://42.234.208.5:59424/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://69.173.180.110:39821/i,URLhaus,2026-09-04 10:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://41.201.226.25:47650/i,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://103.49.130.10/y,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://95.252.95.65:46882/bin.sh,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://180.191.40.108:46389/bin.sh,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://42.226.65.151:47848/i,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://113.231.218.166:36150/bin.sh,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://182.117.116.35:48461/i,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://180.191.40.108:46389/i,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://175.174.73.39:53343/bin.sh,URLhaus,2026-09-04 10:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://27.207.224.176:37565/i,URLhaus,2026-09-04 10:01:27 UTC,"{""threat"": ""malware_download""}"
+url,http://123.14.181.201:56377/bin.sh,URLhaus,2026-09-04 10:01:27 UTC,"{""threat"": ""malware_download""}"
+url,http://123.14.181.201:56377/i,URLhaus,2026-09-04 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://193.90.12.80/oto,URLhaus,2026-09-04 10:01:22 UTC,"{""threat"": ""malware_download""}"
+url,http://114.226.24.72:49152/bin.sh,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://221.200.114.91:44385/i,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://113.221.46.119:40057/bin.sh,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://193.90.12.80/install.tgz,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://113.231.218.166:36150/i,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://115.48.238.241:42081/bin.sh,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://115.57.212.85:32888/i,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://119.180.244.119:42792/i,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://183.23.136.171:35951/bin.sh,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://180.245.27.20:35852/i,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://60.23.195.26:37226/i,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://42.226.65.151:47848/bin.sh,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://115.50.24.135:45123/bin.sh,URLhaus,2026-09-04 10:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://116.2.43.97:35984/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://112.198.186.249:39708/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.247.123:40822/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://182.127.160.17:58026/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://222.127.77.227:56952/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://218.13.149.41:37161/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://116.140.163.110:48770/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://113.237.108.77:48836/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://116.139.32.60:57947/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://95.252.95.65:46882/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://42.239.191.16:51243/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://114.228.186.181:50519/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://218.13.149.41:37161/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://175.165.87.225:47117/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://39.65.202.109:51237/bin.sh,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://103.44.137.13:43346/i,URLhaus,2026-09-04 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://113.236.71.127:57756/bin.sh,URLhaus,2026-09-04 10:01:19 UTC,"{""threat"": ""malware_download""}"
+url,http://202.107.97.225:51514/bin.sh,URLhaus,2026-09-04 10:01:19 UTC,"{""threat"": ""malware_download""}"
+url,http://42.233.106.146:44703/i,URLhaus,2026-09-04 10:01:19 UTC,"{""threat"": ""malware_download""}"
+url,http://218.72.34.168:44366/i,URLhaus,2026-09-04 10:01:17 UTC,"{""threat"": ""malware_download""}"
+url,http://116.140.163.110:48770/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://61.52.157.237:52221/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://175.9.166.233:50484/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://182.117.68.170:45884/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://182.112.30.71:38364/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://222.127.68.115:42552/Mozi.m,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://103.160.130.178:33661/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://42.85.203.26:39846/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://116.139.143.144:37047/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://113.236.71.127:57756/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://39.90.144.82:53918/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://118.145.196.225:800/yy7atflk/5x2b96g7,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://123.12.31.141:60566/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://182.117.116.35:48461/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://42.239.191.16:51243/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://202.107.97.225:51514/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://123.159.143.54:48887/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://125.41.3.254:40527/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://125.41.3.254:40527/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://219.155.201.95:50456/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.247.123:40822/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://42.234.154.126:44038/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://122.139.18.141:39877/i,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://121.61.49.44:46204/bin.sh,URLhaus,2026-09-04 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://46.236.65.106:52182/Mozi.m,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://193.90.12.80/ns3.jpg,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://193.31.201.20:38137/bin.sh,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://193.90.12.80/ns1.jpg,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://193.31.201.20:38137/i,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://95.56.232.109:45950/bin.sh,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://43.252.159.76:37873/i,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://103.160.130.178:33661/bin.sh,URLhaus,2026-09-04 10:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://31.148.198.190:53900/bin.sh,URLhaus,2026-09-04 10:01:05 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.mips,URLhaus,2026-09-04 09:51:07 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.ppc,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.arc,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.arm7,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.mpsl,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.x86_64,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.m68k,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.arm5,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.sh4,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.i686,URLhaus,2026-09-04 09:50:09 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.x86,URLhaus,2026-09-04 09:50:06 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.spc,URLhaus,2026-09-04 09:50:06 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.aarch64,URLhaus,2026-09-04 09:50:06 UTC,"{""threat"": ""malware_download""}"
+url,http://180.93.111.142/00101010101001/morte.arm,URLhaus,2026-09-04 09:50:06 UTC,"{""threat"": ""malware_download""}"
+url,http://42.55.28.227:38296/i,URLhaus,2026-09-04 09:33:23 UTC,"{""threat"": ""malware_download""}"
+url,http://42.55.28.227:38296/bin.sh,URLhaus,2026-09-04 09:31:21 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/xfsaild_sda,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/scsi_tmf_0,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/jbd2_sda1d,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/zswap_shrinkd,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/kblockd0,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/edac_polld,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/ecryptfsd,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/bioset0,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/kswapd0,URLhaus,2026-09-04 09:27:29 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/cfg80211d,URLhaus,2026-09-04 09:27:28 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/devfreq_wq,URLhaus,2026-09-04 09:27:28 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/rcuop_0,URLhaus,2026-09-04 09:27:28 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/ksoftirqd0,URLhaus,2026-09-04 09:27:25 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.189/bins/kworker_u8,URLhaus,2026-09-04 09:27:22 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.107/mips,URLhaus,2026-09-04 09:26:18 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.107/mipsle,URLhaus,2026-09-04 09:26:18 UTC,"{""threat"": ""malware_download""}"
+url,https://192.159.99.212/bin/support.client.exe,URLhaus,2026-09-04 09:23:09 UTC,"{""threat"": ""malware_download""}"
+url,https://192.159.99.212/Bin/ScreenConnect.ClientSetup.exe,URLhaus,2026-09-04 09:23:09 UTC,"{""threat"": ""malware_download""}"
+url,http://42.53.3.150:57366/i,URLhaus,2026-09-04 09:09:24 UTC,"{""threat"": ""malware_download""}"
+url,http://182.119.116.53:60344/i,URLhaus,2026-09-04 09:05:11 UTC,"{""threat"": ""malware_download""}"
+url,http://219.156.181.248:55088/i,URLhaus,2026-09-04 08:02:10 UTC,"{""threat"": ""malware_download""}"
+url,http://219.156.181.248:55088/bin.sh,URLhaus,2026-09-04 07:46:19 UTC,"{""threat"": ""malware_download""}"
+url,http://113.230.81.174:54479/i,URLhaus,2026-09-04 07:45:21 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.215.5:47336/i,URLhaus,2026-09-04 07:37:10 UTC,"{""threat"": ""malware_download""}"
+url,http://105.156.34.74:44658/i,URLhaus,2026-09-04 07:35:23 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.215.5:47336/bin.sh,URLhaus,2026-09-04 07:33:21 UTC,"{""threat"": ""malware_download""}"
+url,http://113.230.81.174:54479/bin.sh,URLhaus,2026-09-04 07:24:17 UTC,"{""threat"": ""malware_download""}"
+url,https://megawrzuta.pl/9kemnpak,URLhaus,2026-09-04 07:21:05 UTC,"{""threat"": ""malware_download""}"
+url,https://chiroartist.com/Hora/C8U/adb_setup_vn.bat,URLhaus,2026-09-04 07:20:17 UTC,"{""threat"": ""malware_download""}"
+url,https://pub-77d009eac01a41e0a84eaf9d00acd597.r2.dev/Access.msi,URLhaus,2026-09-04 07:20:15 UTC,"{""threat"": ""malware_download""}"
+url,http://105.156.34.74:44658/bin.sh,URLhaus,2026-09-04 07:12:34 UTC,"{""threat"": ""malware_download""}"
+url,http://196.191.231.12:52779/i,URLhaus,2026-09-04 06:49:24 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/blaoso/alOffic.zip,URLhaus,2026-09-04 06:44:33 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/ffice.zip,URLhaus,2026-09-04 06:44:30 UTC,"{""threat"": ""malware_download""}"
+url,http://113.255.196.148:47674/Mozi.m,URLhaus,2026-09-04 06:44:30 UTC,"{""threat"": ""malware_download""}"
+url,http://45.94.31.205:5050/files/7408d8876d767e4b8dac35ffcedac09926062e7856d4edbb40f7bda8f00c6d37/x.zip,URLhaus,2026-09-04 06:44:26 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/lose.zip,URLhaus,2026-09-04 06:44:26 UTC,"{""threat"": ""malware_download""}"
+url,http://194.59.31.57:62123/b/kswpad,URLhaus,2026-09-04 06:44:21 UTC,"{""threat"": ""malware_download""}"
+url,http://194.59.31.57:62123/b/kal64,URLhaus,2026-09-04 06:44:21 UTC,"{""threat"": ""malware_download""}"
+url,http://194.59.31.57:62123/b/amd64,URLhaus,2026-09-04 06:44:21 UTC,"{""threat"": ""malware_download""}"
+url,https://cloudeliveryenterprise.com/skjsadfi123uv12/,URLhaus,2026-09-04 06:44:16 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/kasf/spsx.vbs,URLhaus,2026-09-04 06:44:13 UTC,"{""threat"": ""malware_download""}"
+url,https://bvaco.com/images/optimized_MSI.png,URLhaus,2026-09-04 06:44:13 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/blaoso/ljwnsm.vbs,URLhaus,2026-09-04 06:44:12 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/lwo.png,URLhaus,2026-09-04 06:44:09 UTC,"{""threat"": ""malware_download""}"
+url,http://2.26.124.67:889/agustin51,URLhaus,2026-09-04 06:44:08 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/blaoso/owpa.txt,URLhaus,2026-09-04 06:44:08 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/cwaz/lwjw.vbs,URLhaus,2026-09-04 06:44:07 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/kasf/opuac.pdf,URLhaus,2026-09-04 06:44:06 UTC,"{""threat"": ""malware_download""}"
+url,https://baolongwes.oss-ap-southeast-1.aliyuncs.com/kmws.pdf,URLhaus,2026-09-04 06:44:06 UTC,"{""threat"": ""malware_download""}"
+url,http://196.190.133.180:34930/i,URLhaus,2026-09-04 06:33:07 UTC,"{""threat"": ""malware_download""}"
+url,http://196.191.231.12:52779/bin.sh,URLhaus,2026-09-04 06:31:21 UTC,"{""threat"": ""malware_download""}"
+url,http://60.212.67.158:56245/i,URLhaus,2026-09-04 06:26:13 UTC,"{""threat"": ""malware_download""}"
+url,http://114.228.141.185:33800/i,URLhaus,2026-09-04 06:25:26 UTC,"{""threat"": ""malware_download""}"
+url,http://182.112.9.189:52829/i,URLhaus,2026-09-04 06:24:17 UTC,"{""threat"": ""malware_download""}"
+url,http://60.212.67.158:56245/bin.sh,URLhaus,2026-09-04 06:19:21 UTC,"{""threat"": ""malware_download""}"
+url,http://182.112.9.189:52829/bin.sh,URLhaus,2026-09-04 06:15:09 UTC,"{""threat"": ""malware_download""}"
+url,https://141.98.11.63/Bin/ScreenConnect.ClientSetup.exe,URLhaus,2026-09-04 06:10:21 UTC,"{""threat"": ""malware_download""}"
+url,http://196.190.133.180:34930/bin.sh,URLhaus,2026-09-04 06:09:14 UTC,"{""threat"": ""malware_download""}"
+url,http://123.5.152.25:42329/bin.sh,URLhaus,2026-09-04 06:04:20 UTC,"{""threat"": ""malware_download""}"
+url,http://8.209.229.51:7777/a,URLhaus,2026-09-04 06:01:07 UTC,"{""threat"": ""malware_download""}"
+url,http://222.142.227.31:39111/i,URLhaus,2026-09-04 05:56:19 UTC,"{""threat"": ""malware_download""}"
+url,http://124.198.132.220/Bin/ScreenConnect.ClientSetup.exe,URLhaus,2026-09-04 05:56:08 UTC,"{""threat"": ""malware_download""}"
+url,http://124.198.132.220/bin/support.client.exe,URLhaus,2026-09-04 05:56:06 UTC,"{""threat"": ""malware_download""}"
+url,http://114.228.141.185:33800/bin.sh,URLhaus,2026-09-04 05:49:40 UTC,"{""threat"": ""malware_download""}"
+url,http://91.92.241.187/PrintSpoofer64.exe,URLhaus,2026-09-04 05:48:07 UTC,"{""threat"": ""malware_download""}"
+url,http://91.92.241.184/PrintSpoofer64.exe,URLhaus,2026-09-04 05:47:09 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.137/payloads.sh,URLhaus,2026-09-04 05:46:10 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.137/bins/c2_server,URLhaus,2026-09-04 05:46:10 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.x86,URLhaus,2026-09-04 05:46:10 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/c2_server,URLhaus,2026-09-04 05:45:21 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.arm6,URLhaus,2026-09-04 05:45:20 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.arm,URLhaus,2026-09-04 05:45:20 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.mips,URLhaus,2026-09-04 05:45:20 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/payloads.sh,URLhaus,2026-09-04 05:45:19 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.136/android-arm,URLhaus,2026-09-04 05:45:16 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.arm7,URLhaus,2026-09-04 05:45:15 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.x86_64,URLhaus,2026-09-04 05:45:15 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.mpsl,URLhaus,2026-09-04 05:45:15 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.136/android-arm64,URLhaus,2026-09-04 05:45:15 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.88/bins/reaver.arm5,URLhaus,2026-09-04 05:45:15 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.x86,URLhaus,2026-09-04 05:44:18 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.mips,URLhaus,2026-09-04 05:44:18 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.x86_64,URLhaus,2026-09-04 05:44:18 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.69/android-arm64,URLhaus,2026-09-04 05:44:18 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.69/android-arm,URLhaus,2026-09-04 05:44:18 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/payloads.sh,URLhaus,2026-09-04 05:44:17 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_m68k,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_ppc,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_arm5,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_x86_64,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_mpsl,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_arm,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_x86,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.arm6,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_arm6,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_arm7,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.arm5,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.arm,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/c2_server,URLhaus,2026-09-04 05:43:21 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_sh4,URLhaus,2026-09-04 05:43:20 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.208/main_mips,URLhaus,2026-09-04 05:43:20 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.mpsl,URLhaus,2026-09-04 05:43:20 UTC,"{""threat"": ""malware_download""}"
+url,http://94.154.43.190/bins/reaver.arm7,URLhaus,2026-09-04 05:43:20 UTC,"{""threat"": ""malware_download""}"
+url,http://120.28.194.30:38048/i,URLhaus,2026-09-04 05:23:10 UTC,"{""threat"": ""malware_download""}"
+url,http://61.52.63.2:39218/bin.sh,URLhaus,2026-09-04 05:17:06 UTC,"{""threat"": ""malware_download""}"
+url,http://36.64.184.26:37777/i,URLhaus,2026-09-04 04:57:06 UTC,"{""threat"": ""malware_download""}"
+url,http://120.28.194.30:38048/bin.sh,URLhaus,2026-09-04 04:47:14 UTC,"{""threat"": ""malware_download""}"
+url,http://36.64.184.26:37777/bin.sh,URLhaus,2026-09-04 04:46:05 UTC,"{""threat"": ""malware_download""}"
+url,http://39.86.247.62:38819/i,URLhaus,2026-09-04 04:46:05 UTC,"{""threat"": ""malware_download""}"
+url,http://125.45.49.209:37734/i,URLhaus,2026-09-04 04:42:21 UTC,"{""threat"": ""malware_download""}"
+url,http://62.60.226.140/files/6306648329/iywiPj8.exe,URLhaus,2026-09-04 04:30:06 UTC,"{""threat"": ""malware_download""}"
+url,http://94.244.36.34:34585/i,URLhaus,2026-09-04 04:23:20 UTC,"{""threat"": ""malware_download""}"
+url,http://60.23.236.254:49388/bin.sh,URLhaus,2026-09-04 04:22:23 UTC,"{""threat"": ""malware_download""}"
+url,http://94.244.36.34:34585/bin.sh,URLhaus,2026-09-04 03:59:07 UTC,"{""threat"": ""malware_download""}"
+url,http://115.57.80.149:55734/bin.sh,URLhaus,2026-09-04 03:56:35 UTC,"{""threat"": ""malware_download""}"
+url,http://115.58.91.176:40931/i,URLhaus,2026-09-04 03:41:32 UTC,"{""threat"": ""malware_download""}"
+url,http://186.149.204.12:55751/i,URLhaus,2026-09-04 03:22:31 UTC,"{""threat"": ""malware_download""}"
+url,http://77.53.43.110:47947/i,URLhaus,2026-09-04 02:51:17 UTC,"{""threat"": ""malware_download""}"
+url,http://61.52.63.2:39218/i,URLhaus,2026-09-04 02:46:29 UTC,"{""threat"": ""malware_download""}"
+url,http://182.116.50.129:44212/bin.sh,URLhaus,2026-09-04 02:42:19 UTC,"{""threat"": ""malware_download""}"
+url,http://219.155.200.201:43937/i,URLhaus,2026-09-04 02:29:23 UTC,"{""threat"": ""malware_download""}"
+url,http://186.149.204.12:55751/bin.sh,URLhaus,2026-09-04 02:25:31 UTC,"{""threat"": ""malware_download""}"
+url,http://115.58.91.176:40931/bin.sh,URLhaus,2026-09-04 02:11:27 UTC,"{""threat"": ""malware_download""}"
+url,http://125.40.113.33:33011/i,URLhaus,2026-09-04 02:11:10 UTC,"{""threat"": ""malware_download""}"
+url,http://219.155.200.201:43937/bin.sh,URLhaus,2026-09-04 02:05:36 UTC,"{""threat"": ""malware_download""}"
+url,http://42.58.172.216:34835/i,URLhaus,2026-09-04 02:02:05 UTC,"{""threat"": ""malware_download""}"
+url,http://105.186.70.178:51723/i,URLhaus,2026-09-04 01:59:21 UTC,"{""threat"": ""malware_download""}"
+url,http://222.113.196.55:59598/i,URLhaus,2026-09-04 01:52:06 UTC,"{""threat"": ""malware_download""}"
+url,http://125.43.39.192:56239/i,URLhaus,2026-09-04 01:46:44 UTC,"{""threat"": ""malware_download""}"
+url,http://105.186.70.178:51723/bin.sh,URLhaus,2026-09-04 01:34:18 UTC,"{""threat"": ""malware_download""}"
+url,http://42.7.139.85:48486/bin.sh,URLhaus,2026-09-04 01:27:25 UTC,"{""threat"": ""malware_download""}"
+url,http://222.113.196.55:59598/bin.sh,URLhaus,2026-09-04 01:26:15 UTC,"{""threat"": ""malware_download""}"
+url,http://90.153.177.144:40805/i,URLhaus,2026-09-04 01:11:32 UTC,"{""threat"": ""malware_download""}"
+url,http://120.84.212.216:51284/i,URLhaus,2026-09-04 01:05:23 UTC,"{""threat"": ""malware_download""}"
+url,http://36.70.196.73:60650/bin.sh,URLhaus,2026-09-04 00:50:11 UTC,"{""threat"": ""malware_download""}"
+url,http://115.49.216.36:38767/bin.sh,URLhaus,2026-09-04 00:49:26 UTC,"{""threat"": ""malware_download""}"
+url,http://42.226.206.74:44992/i,URLhaus,2026-09-04 00:19:25 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.96.59:53899/i,URLhaus,2026-09-04 00:04:17 UTC,"{""threat"": ""malware_download""}"
+url,http://103.164.128.184:47430/bin.sh,URLhaus,2026-09-04 00:02:14 UTC,"{""threat"": ""malware_download""}"
+url,http://114.226.24.72:49152/i,URLhaus,2026-09-03 23:50:12 UTC,"{""threat"": ""malware_download""}"
+url,http://113.228.158.111:40769/i,URLhaus,2026-09-03 23:46:21 UTC,"{""threat"": ""malware_download""}"
+url,http://115.48.54.18:60813/i,URLhaus,2026-09-03 23:22:07 UTC,"{""threat"": ""malware_download""}"
+url,http://115.48.54.18:60813/bin.sh,URLhaus,2026-09-03 23:16:06 UTC,"{""threat"": ""malware_download""}"
+url,http://112.230.155.183:39618/bin.sh,URLhaus,2026-09-03 22:46:40 UTC,"{""threat"": ""malware_download""}"
+url,http://61.176.69.173:36353/bin.sh,URLhaus,2026-09-03 22:02:11 UTC,"{""threat"": ""malware_download""}"
+url,http://173.92.213.119:52110/bin.sh,URLhaus,2026-09-03 21:48:34 UTC,"{""threat"": ""malware_download""}"
+url,http://182.126.93.33:37461/i,URLhaus,2026-09-03 21:44:34 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.254.3:36720/i,URLhaus,2026-09-03 21:34:12 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.254.3:36720/bin.sh,URLhaus,2026-09-03 21:08:30 UTC,"{""threat"": ""malware_download""}"
+url,http://122.241.130.212:45870/i,URLhaus,2026-09-03 21:05:29 UTC,"{""threat"": ""malware_download""}"
+url,http://66.212.173.225:46177/i,URLhaus,2026-09-03 20:49:29 UTC,"{""threat"": ""malware_download""}"
+url,http://115.57.80.149:55734/i,URLhaus,2026-09-03 20:35:23 UTC,"{""threat"": ""malware_download""}"
+url,http://66.212.173.225:46177/bin.sh,URLhaus,2026-09-03 20:25:21 UTC,"{""threat"": ""malware_download""}"
+url,http://91.92.242.236/files-129312398/files/file_f560a93d91a75b5c.exe,URLhaus,2026-09-03 20:19:30 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/arm7,URLhaus,2026-09-03 20:19:28 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/android-arm64,URLhaus,2026-09-03 20:19:25 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/or1k,URLhaus,2026-09-03 20:19:25 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/working.Services.apk,URLhaus,2026-09-03 20:19:25 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.x86_64,URLhaus,2026-09-03 20:19:25 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/persist.arm7,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.sh4,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.arm,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/android-arm,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/android-arm64,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/x86_64,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/android-arm,URLhaus,2026-09-03 20:19:24 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/mips,URLhaus,2026-09-03 20:19:23 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/x86,URLhaus,2026-09-03 20:19:23 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.arm5,URLhaus,2026-09-03 20:19:23 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/riscv64,URLhaus,2026-09-03 20:19:23 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.arm7,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.x86,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/juan.apk,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/riscv32,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.mpsl,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/ppc64,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.m68k,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/arm,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/arm6,URLhaus,2026-09-03 20:19:22 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/mips64,URLhaus,2026-09-03 20:19:21 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/arm5,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/riscv64,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/arm7,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.spc,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/s390x,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.arc,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/x86,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/ppc64,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/ppc,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/arm8,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/mipsel,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/s390x,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.mips,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/mips,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/ppc,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/mips64,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/arm5,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/arm6,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.i686,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/mipsel,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/m68k,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/or1k,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/arm,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/m68k,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/hiddenbin/reflect.ppc,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/reflect/x86_64,URLhaus,2026-09-03 20:19:20 UTC,"{""threat"": ""malware_download""}"
+url,https://captainx-download.captainleontian.workers.dev/,URLhaus,2026-09-03 20:19:07 UTC,"{""threat"": ""malware_download""}"
+url,https://claude-exporter-license.nikogdanekupluslona.workers.dev/,URLhaus,2026-09-03 20:19:05 UTC,"{""threat"": ""malware_download""}"
+url,http://b2b.jewmailer.net/Services.apk,URLhaus,2026-09-03 20:18:21 UTC,"{""threat"": ""malware_download""}"
+url,http://91.92.242.236/files-129312398/files/file_4c3e2c2458e5e43b.exe,URLhaus,2026-09-03 20:18:17 UTC,"{""threat"": ""malware_download""}"
+url,https://round-breeze-3e9d.jay-e45.workers.dev/,URLhaus,2026-09-03 20:18:05 UTC,"{""threat"": ""malware_download""}"
+url,https://counterscale.jean-r-mi-larcelet-prost.workers.dev/,URLhaus,2026-09-03 20:18:05 UTC,"{""threat"": ""malware_download""}"
+url,https://fancy-rain-e484.0xwilliamortiz.workers.dev/,URLhaus,2026-09-03 20:18:05 UTC,"{""threat"": ""malware_download""}"
+url,https://www.dropbox.com/scl/fi/ba93r9ez5c00fap694aa6/bundle.zip?rlkey=mpxhfmkb4g2adcermiywlc115&st=9twn3jrx&dl=1,URLhaus,2026-09-03 20:18:05 UTC,"{""threat"": ""malware_download""}"
+url,http://182.112.7.122:58694/i,URLhaus,2026-09-03 20:13:24 UTC,"{""threat"": ""malware_download""}"
+url,http://122.241.130.212:45870/bin.sh,URLhaus,2026-09-03 20:04:28 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.69.192:57870/i,URLhaus,2026-09-03 19:26:15 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.69.192:57870/bin.sh,URLhaus,2026-09-03 19:13:18 UTC,"{""threat"": ""malware_download""}"
+url,http://61.176.69.173:36353/i,URLhaus,2026-09-03 19:12:07 UTC,"{""threat"": ""malware_download""}"
+url,http://42.59.71.140:35247/i,URLhaus,2026-09-03 18:49:18 UTC,"{""threat"": ""malware_download""}"
+url,http://179.108.90.55:44298/i,URLhaus,2026-09-03 18:46:11 UTC,"{""threat"": ""malware_download""}"
+url,http://42.59.71.140:35247/bin.sh,URLhaus,2026-09-03 18:20:14 UTC,"{""threat"": ""malware_download""}"
+url,http://179.108.90.55:44298/bin.sh,URLhaus,2026-09-03 18:18:10 UTC,"{""threat"": ""malware_download""}"
+url,http://105.225.48.83:57349/i,URLhaus,2026-09-03 18:04:21 UTC,"{""threat"": ""malware_download""}"
+url,http://119.117.177.176:57366/bin.sh,URLhaus,2026-09-03 17:51:09 UTC,"{""threat"": ""malware_download""}"
+url,http://105.225.46.244:56367/i,URLhaus,2026-09-03 17:50:20 UTC,"{""threat"": ""malware_download""}"
+url,http://125.41.75.42:36742/i,URLhaus,2026-09-03 17:38:18 UTC,"{""threat"": ""malware_download""}"
+url,http://39.52.44.227:52719/i,URLhaus,2026-09-03 17:01:21 UTC,"{""threat"": ""malware_download""}"
+url,http://39.52.44.227:52719/bin.sh,URLhaus,2026-09-03 16:33:20 UTC,"{""threat"": ""malware_download""}"
+url,http://125.110.49.63:54807/i,URLhaus,2026-09-03 15:47:08 UTC,"{""threat"": ""malware_download""}"
+url,http://125.160.139.10:40058/i,URLhaus,2026-09-03 15:33:27 UTC,"{""threat"": ""malware_download""}"
+url,http://209.81.111.104:55587/i,URLhaus,2026-09-03 14:19:17 UTC,"{""threat"": ""malware_download""}"
+url,https://communication-hub.vg/,URLhaus,2026-09-03 13:40:06 UTC,"{""threat"": ""malware_download""}"
+url,http://103.18.14.116:37000/Mozi.m,URLhaus,2026-09-03 13:23:22 UTC,"{""threat"": ""malware_download""}"
+url,https://infocardphoto.info/n?id=hsezigwn,URLhaus,2026-09-03 13:02:08 UTC,"{""threat"": ""malware_download""}"
+url,https://infocardphoto.info/,URLhaus,2026-09-03 12:57:05 UTC,"{""threat"": ""malware_download""}"
+url,https://lively-fog-af49.pablosoftwareplus.workers.dev/vMmrQ,URLhaus,2026-09-03 12:44:12 UTC,"{""threat"": ""malware_download""}"
+url,https://cyclograph.xyz/process/logs/img_132736.png,URLhaus,2026-09-03 12:44:12 UTC,"{""threat"": ""malware_download""}"
+url,https://cdn.discordapp.com/attachments/1544901906462281769/1545042621699985479/tio8EV7mMMeI3uW.exe?ex=6a9ab492&is=6a996312&hm=a8f90c2bc0c13763a16e0840ec6d5b1202da152374a1b49bd0ee0a85d41f4d16&,URLhaus,2026-09-03 12:44:09 UTC,"{""threat"": ""malware_download""}"
+url,https://one-graup.com/LXX.js,URLhaus,2026-09-03 12:35:09 UTC,"{""threat"": ""malware_download""}"
+url,https://tuiskr.com/cjr1.jpg,URLhaus,2026-09-03 12:26:09 UTC,"{""threat"": ""malware_download""}"
+url,https://tuiskr.com/,URLhaus,2026-09-03 12:26:09 UTC,"{""threat"": ""malware_download""}"
+url,https://togethers.tv/Togethers.exe,URLhaus,2026-09-03 12:22:51 UTC,"{""threat"": ""malware_download""}"
+url,http://175.175.192.169:54382/i,URLhaus,2026-09-03 11:39:11 UTC,"{""threat"": ""malware_download""}"
+url,http://115.50.89.87:44040/bin.sh,URLhaus,2026-09-03 11:27:20 UTC,"{""threat"": ""malware_download""}"
+url,http://175.175.192.169:54382/bin.sh,URLhaus,2026-09-03 11:07:20 UTC,"{""threat"": ""malware_download""}"
+url,https://nonspamplsgood.vercel.app/?download=1,URLhaus,2026-09-03 10:14:08 UTC,"{""threat"": ""malware_download""}"
+url,http://124.6.167.121:45202/Mozi.m,URLhaus,2026-09-03 10:02:19 UTC,"{""threat"": ""malware_download""}"
+url,http://112.198.186.249:39708/i,URLhaus,2026-09-03 10:01:54 UTC,"{""threat"": ""malware_download""}"
+url,http://113.228.253.15:50802/bin.sh,URLhaus,2026-09-03 10:01:40 UTC,"{""threat"": ""malware_download""}"
+url,http://27.215.84.25:44698/bin.sh,URLhaus,2026-09-03 10:01:40 UTC,"{""threat"": ""malware_download""}"
+url,http://220.177.11.172:54471/i,URLhaus,2026-09-03 10:01:39 UTC,"{""threat"": ""malware_download""}"
+url,http://182.126.201.152:43849/bin.sh,URLhaus,2026-09-03 10:01:38 UTC,"{""threat"": ""malware_download""}"
+url,http://175.150.74.42:43235/i,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://42.224.78.23:39508/bin.sh,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://112.248.108.140:41002/bin.sh,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://61.144.102.183:42035/bin.sh,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://37.34.242.99:41845/bin.sh,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://182.120.43.111:47591/i,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://112.198.130.112:42547/bin.sh,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://130.12.209.147:43312/i,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://124.234.200.151:54858/bin.sh,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://182.126.201.152:43849/i,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://123.189.150.115:50311/i,URLhaus,2026-09-03 10:01:37 UTC,"{""threat"": ""malware_download""}"
+url,http://114.226.120.28:35996/bin.sh,URLhaus,2026-09-03 10:01:36 UTC,"{""threat"": ""malware_download""}"
+url,http://182.119.68.47:43814/bin.sh,URLhaus,2026-09-03 10:01:36 UTC,"{""threat"": ""malware_download""}"
+url,http://113.237.54.47:52447/bin.sh,URLhaus,2026-09-03 10:01:36 UTC,"{""threat"": ""malware_download""}"
+url,http://116.138.189.67:59950/bin.sh,URLhaus,2026-09-03 10:01:36 UTC,"{""threat"": ""malware_download""}"
+url,http://179.108.89.220:35169/i,URLhaus,2026-09-03 10:01:36 UTC,"{""threat"": ""malware_download""}"
+url,http://36.70.196.73:60650/i,URLhaus,2026-09-03 10:01:35 UTC,"{""threat"": ""malware_download""}"
+url,http://60.18.8.218:39736/i,URLhaus,2026-09-03 10:01:34 UTC,"{""threat"": ""malware_download""}"
+url,http://222.137.175.220:33354/i,URLhaus,2026-09-03 10:01:34 UTC,"{""threat"": ""malware_download""}"
+url,http://27.193.158.205:55721/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://66.212.186.193:57081/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://60.23.159.201:59783/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://202.1.26.13:41939/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://202.110.2.191:50033/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://60.18.10.146:45922/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://182.124.20.96:57190/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://103.203.210.102:46614/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.236.55:53616/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://123.10.225.139:46476/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://42.7.139.85:48486/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://175.174.46.121:40584/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://120.28.201.138:57662/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://60.18.8.218:39736/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://116.2.43.97:35984/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://217.25.229.189:54559/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://175.147.156.105:33491/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://60.23.72.121:51494/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://114.226.120.28:35996/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://220.177.11.172:54471/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://222.127.50.102:51464/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://115.63.84.231:59738/bin.sh,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://115.63.84.231:59738/i,URLhaus,2026-09-03 10:01:33 UTC,"{""threat"": ""malware_download""}"
+url,http://42.235.84.132:35722/i,URLhaus,2026-09-03 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://115.51.63.21:33583/bin.sh,URLhaus,2026-09-03 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://42.54.13.17:37031/bin.sh,URLhaus,2026-09-03 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://115.62.181.25:57183/bin.sh,URLhaus,2026-09-03 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://43.252.159.101:46184/i,URLhaus,2026-09-03 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.236.55:53616/i,URLhaus,2026-09-03 10:01:32 UTC,"{""threat"": ""malware_download""}"
+url,http://123.188.64.71:51051/i,URLhaus,2026-09-03 10:01:31 UTC,"{""threat"": ""malware_download""}"
+url,http://182.119.183.62:55474/i,URLhaus,2026-09-03 10:01:30 UTC,"{""threat"": ""malware_download""}"
+url,http://175.165.84.83:51621/bin.sh,URLhaus,2026-09-03 10:01:25 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.173.148:44037/i,URLhaus,2026-09-03 10:01:25 UTC,"{""threat"": ""malware_download""}"
+url,http://182.119.183.62:55474/bin.sh,URLhaus,2026-09-03 10:01:25 UTC,"{""threat"": ""malware_download""}"
+url,http://175.174.46.121:40584/bin.sh,URLhaus,2026-09-03 10:01:25 UTC,"{""threat"": ""malware_download""}"
+url,http://120.84.214.205:39378/i,URLhaus,2026-09-03 10:01:25 UTC,"{""threat"": ""malware_download""}"
+url,http://112.230.155.183:39618/i,URLhaus,2026-09-03 10:01:25 UTC,"{""threat"": ""malware_download""}"
+url,http://123.189.134.98:40664/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://113.221.76.194:54955/Mozi.m,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://61.53.88.100:45611/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://179.108.89.220:35169/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.244.240:35253/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://221.1.226.106:47537/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://182.121.224.68:40372/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://120.28.161.11:57965/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://47.215.224.64:41098/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://42.235.84.132:35722/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://42.52.200.244:35103/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://180.191.32.197:49164/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://42.54.13.17:37031/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://96.125.128.2:35375/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://116.138.189.67:59950/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://60.215.197.174:38401/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://194.59.31.57:62123/s/kswpad,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://175.9.166.233:50484/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://180.191.32.197:49164/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://105.184.46.169:45057/bin.sh,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://105.184.46.169:45057/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://2.187.98.47:58030/i,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://114.228.186.181:50519/Mozi.a,URLhaus,2026-09-03 10:01:24 UTC,"{""threat"": ""malware_download""}"
+url,http://194.59.31.57:62123/s/amd64,URLhaus,2026-09-03 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://125.46.234.68:43013/i,URLhaus,2026-09-03 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://42.87.168.173:55988/bin.sh,URLhaus,2026-09-03 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://999.34c9f78b4ef541baac4a6e84d4f832a7.lol:37641/lin.sh,URLhaus,2026-09-03 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://115.62.181.25:57183/i,URLhaus,2026-09-03 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://125.43.45.149:33353/bin.sh,URLhaus,2026-09-03 10:01:23 UTC,"{""threat"": ""malware_download""}"
+url,http://112.113.68.159:41597/i,URLhaus,2026-09-03 10:01:22 UTC,"{""threat"": ""malware_download""}"
+url,http://113.236.67.209:54189/bin.sh,URLhaus,2026-09-03 10:01:22 UTC,"{""threat"": ""malware_download""}"
+url,http://45.231.145.15:38791/bin.sh,URLhaus,2026-09-03 10:01:20 UTC,"{""threat"": ""malware_download""}"
+url,http://42.224.78.23:39508/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://194.59.31.57:62123/s/kal64,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://113.231.108.98:55031/bin.sh,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://182.121.224.68:40372/bin.sh,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://219.156.112.101:58252/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://123.5.152.25:42329/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://60.23.159.201:59783/bin.sh,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://112.113.68.159:41597/bin.sh,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://115.51.63.21:33583/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://124.6.169.46:58258/bin.sh,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://182.117.76.31:58204/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://218.58.146.50:57477/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://42.227.179.13:32824/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://182.127.152.170:43722/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://42.232.90.35:46437/i,URLhaus,2026-09-03 10:01:15 UTC,"{""threat"": ""malware_download""}"
+url,http://202.163.107.242:56480/bin.sh,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://42.224.127.169:33756/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://60.19.172.59:40959/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://120.28.161.11:57965/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://191.37.19.74:52135/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://42.87.168.173:55988/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://221.1.226.106:47537/bin.sh,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://115.58.135.65:49632/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.221.28:43660/bin.sh,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://125.43.8.244:34827/bin.sh,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://221.203.86.144:41208/bin.sh,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://27.193.158.205:55721/bin.sh,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.244.240:35253/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://112.198.130.112:42547/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://113.228.253.15:50802/i,URLhaus,2026-09-03 10:01:14 UTC,"{""threat"": ""malware_download""}"
+url,http://182.120.43.111:47591/bin.sh,URLhaus,2026-09-03 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://37.34.242.99:41845/i,URLhaus,2026-09-03 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://112.248.108.140:41002/i,URLhaus,2026-09-03 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://123.14.81.41:47055/i,URLhaus,2026-09-03 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://113.237.54.47:52447/i,URLhaus,2026-09-03 10:01:13 UTC,"{""threat"": ""malware_download""}"
+url,http://222.139.34.67:44511/i,URLhaus,2026-09-03 09:56:06 UTC,"{""threat"": ""malware_download""}"
+url,http://124.129.61.14:55301/i,URLhaus,2026-09-03 09:55:20 UTC,"{""threat"": ""malware_download""}"
+url,https://rusa-inion24-novst.vercel.app/?download=1,URLhaus,2026-09-03 09:53:07 UTC,"{""threat"": ""malware_download""}"
+url,http://222.139.34.67:44511/bin.sh,URLhaus,2026-09-03 09:52:07 UTC,"{""threat"": ""malware_download""}"
+url,http://216.126.86.154:38351/i,URLhaus,2026-09-03 09:50:21 UTC,"{""threat"": ""malware_download""}"
+url,http://216.126.86.154:38351/bin.sh,URLhaus,2026-09-03 09:24:24 UTC,"{""threat"": ""malware_download""}"
+url,http://125.46.234.68:43013/bin.sh,URLhaus,2026-09-03 09:01:28 UTC,"{""threat"": ""malware_download""}"
+url,http://115.54.133.39:59395/i,URLhaus,2026-09-03 08:22:08 UTC,"{""threat"": ""malware_download""}"
+url,http://37.48.158.158:56014/i,URLhaus,2026-09-03 08:20:22 UTC,"{""threat"": ""malware_download""}"
+url,http://37.48.158.158:56014/bin.sh,URLhaus,2026-09-03 08:16:20 UTC,"{""threat"": ""malware_download""}"
+url,http://112.93.137.152:51284/i,URLhaus,2026-09-03 08:08:09 UTC,"{""threat"": ""malware_download""}"
+url,http://182.127.31.85:47759/bin.sh,URLhaus,2026-09-03 07:57:25 UTC,"{""threat"": ""malware_download""}"
+url,https://aetherone.su/downloads/meta-loader.exe,URLhaus,2026-09-03 07:47:09 UTC,"{""threat"": ""malware_download""}"
+url,https://kjjt.pages.dev/download/001365-Screenshot-Uploader-portable.exe,URLhaus,2026-09-03 07:46:15 UTC,"{""threat"": ""malware_download""}"
+url,http://61.53.151.142:41245/i,URLhaus,2026-09-03 07:25:25 UTC,"{""threat"": ""malware_download""}"
+url,https://www.dropbox.com/scl/fi/ba93r9ez5c00fap694aa6/bundle.zip?rlkey=mpxhfmkb4g2adcermiywlc115&st=8p4van4p&dl=1,URLhaus,2026-09-03 07:11:25 UTC,"{""threat"": ""malware_download""}"
+url,http://87.15.14.109:59208/i,URLhaus,2026-09-03 06:59:24 UTC,"{""threat"": ""malware_download""}"
+url,https://vintageeventos.com.mx/CHAPO/CHAPO2.exe,URLhaus,2026-09-03 06:40:14 UTC,"{""threat"": ""malware_download""}"
+url,https://pub-f36b05599c3043ddb16520acf6cc3cce.r2.dev/core_131541.iso,URLhaus,2026-09-03 06:37:07 UTC,"{""threat"": ""malware_download""}"
+url,http://221.15.20.208:44679/Mozi.m,URLhaus,2026-09-03 06:33:23 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.218/bins/sora.arc,URLhaus,2026-09-03 06:31:15 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.218/bins/sora.mips64,URLhaus,2026-09-03 06:31:15 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.218/bins/sora.sparc,URLhaus,2026-09-03 06:31:15 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.218/bins/sora.i586,URLhaus,2026-09-03 06:31:15 UTC,"{""threat"": ""malware_download""}"
+url,http://45.135.193.113/m-6.8-k.ISIS,URLhaus,2026-09-03 06:31:15 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.218/bins/sora.x86_64,URLhaus,2026-09-03 06:31:15 UTC,"{""threat"": ""malware_download""}"
+url,http://haiiiihello.top/a/recon.sh,URLhaus,2026-09-03 06:30:07 UTC,"{""threat"": ""malware_download""}"
+url,http://198.23.144.123/doog/crypted.ps1,URLhaus,2026-09-03 06:12:08 UTC,"{""threat"": ""malware_download""}"
+url,http://196.188.141.17:53709/i,URLhaus,2026-09-03 06:07:13 UTC,"{""threat"": ""malware_download""}"
+url,http://110.139.35.220:38827/i,URLhaus,2026-09-03 05:57:23 UTC,"{""threat"": ""malware_download""}"
+url,http://175.173.116.250:57573/bin.sh,URLhaus,2026-09-03 05:56:10 UTC,"{""threat"": ""malware_download""}"
+url,https://storage.bunnycdn.com/sdfzf/Miercoles.iso?accessKey=3858e0c5-2e43-4342-93f929eb5220-a783-4064&download,URLhaus,2026-09-03 05:38:07 UTC,"{""threat"": ""malware_download""}"
+url,http://196.188.141.17:53709/bin.sh,URLhaus,2026-09-03 05:37:19 UTC,"{""threat"": ""malware_download""}"
+url,https://fern-plume.com/curl/z203ezo8/zbxc4p9j8emx1yoy9x.txt,URLhaus,2026-09-03 05:34:08 UTC,"{""threat"": ""malware_download""}"
+url,https://abonent-app.ru/abonent.apk,URLhaus,2026-09-03 05:34:08 UTC,"{""threat"": ""malware_download""}"
+url,http://118.145.196.225:800/yy7atflk/obn2b6lh,URLhaus,2026-09-03 05:34:07 UTC,"{""threat"": ""malware_download""}"
+url,http://91.92.242.236/files-129312398/files/file_54a0ab1b1cd5298b.exe,URLhaus,2026-09-03 05:34:05 UTC,"{""threat"": ""malware_download""}"
+url,http://91.92.242.236/files-129312398/files/file_37b3ca809d232f85.exe,URLhaus,2026-09-03 05:34:05 UTC,"{""threat"": ""malware_download""}"
+url,https://node-slate.com/api/metrics/run?event=pasted,URLhaus,2026-09-03 05:34:05 UTC,"{""threat"": ""malware_download""}"
+url,https://fern-plume.com/zyeMb6slon_3VWVlkSkdiJurcyhY5cFNtchnavRnMgU/hiddenfix/update,URLhaus,2026-09-03 05:34:05 UTC,"{""threat"": ""malware_download""}"
+url,http://176.65.139.206/loader.sh,URLhaus,2026-09-03 05:34:04 UTC,"{""threat"": ""malware_download""}"
+url,http://110.139.35.220:38827/bin.sh,URLhaus,2026-09-03 05:31:30 UTC,"{""threat"": ""malware_download""}"
+url,http://175.168.197.209:56392/i,URLhaus,2026-09-03 05:25:19 UTC,"{""threat"": ""malware_download""}"
+url,http://196.190.105.170:60678/i,URLhaus,2026-09-03 05:07:10 UTC,"{""threat"": ""malware_download""}"
+url,http://105.184.31.171:41073/i,URLhaus,2026-09-03 04:46:07 UTC,"{""threat"": ""malware_download""}"
+url,http://196.190.105.170:60678/bin.sh,URLhaus,2026-09-03 04:43:20 UTC,"{""threat"": ""malware_download""}"
+url,http://115.49.216.36:38767/i,URLhaus,2026-09-03 04:31:06 UTC,"{""threat"": ""malware_download""}"
+url,http://42.7.152.135:42403/i,URLhaus,2026-09-03 04:07:06 UTC,"{""threat"": ""malware_download""}"
+url,http://196.190.10.252:46868/bin.sh,URLhaus,2026-09-03 04:05:23 UTC,"{""threat"": ""malware_download""}"
+url,http://222.138.78.232:52468/i,URLhaus,2026-09-03 04:03:24 UTC,"{""threat"": ""malware_download""}"
+url,http://175.150.74.42:43235/bin.sh,URLhaus,2026-09-03 04:01:27 UTC,"{""threat"": ""malware_download""}"
+url,http://182.126.122.180:45536/i,URLhaus,2026-09-03 03:57:26 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.251.19:34111/i,URLhaus,2026-09-03 03:52:28 UTC,"{""threat"": ""malware_download""}"
+url,http://119.109.212.54:35441/i,URLhaus,2026-09-03 03:33:22 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.9.27:53134/i,URLhaus,2026-09-03 03:33:21 UTC,"{""threat"": ""malware_download""}"
+url,http://119.179.251.19:34111/bin.sh,URLhaus,2026-09-03 03:15:22 UTC,"{""threat"": ""malware_download""}"
+url,http://61.144.102.183:42035/i,URLhaus,2026-09-03 03:09:23 UTC,"{""threat"": ""malware_download""}"
+url,http://119.109.212.54:35441/bin.sh,URLhaus,2026-09-03 03:09:22 UTC,"{""threat"": ""malware_download""}"
+url,http://180.191.228.111:33120/i,URLhaus,2026-09-03 03:01:29 UTC,"{""threat"": ""malware_download""}"
+url,http://120.28.193.113:56751/i,URLhaus,2026-09-03 02:54:23 UTC,"{""threat"": ""malware_download""}"
+url,http://27.215.84.25:44698/i,URLhaus,2026-09-03 02:36:19 UTC,"{""threat"": ""malware_download""}"
+url,http://180.191.228.111:33120/bin.sh,URLhaus,2026-09-03 02:22:07 UTC,"{""threat"": ""malware_download""}"
+url,http://122.233.29.62:38332/i,URLhaus,2026-09-03 02:12:22 UTC,"{""threat"": ""malware_download""}"
+url,http://27.12.96.57:58619/i,URLhaus,2026-09-03 01:55:13 UTC,"{""threat"": ""malware_download""}"
+url,http://105.186.83.56:41911/bin.sh,URLhaus,2026-09-03 01:39:16 UTC,"{""threat"": ""malware_download""}"
+url,http://202.163.107.242:56480/i,URLhaus,2026-09-03 01:39:16 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.62.144:54772/i,URLhaus,2026-09-03 01:36:06 UTC,"{""threat"": ""malware_download""}"
+url,http://117.252.240.213:32809/i,URLhaus,2026-09-03 01:34:17 UTC,"{""threat"": ""malware_download""}"
+url,http://153.117.37.210:34796/Mozi.m,URLhaus,2026-09-03 01:22:25 UTC,"{""threat"": ""malware_download""}"
+url,http://223.123.126.197:38745/Mozi.m,URLhaus,2026-09-03 01:22:20 UTC,"{""threat"": ""malware_download""}"
+url,http://198-144-179-82-host.colocrossing.com/1.sh,URLhaus,2026-09-03 01:22:06 UTC,"{""threat"": ""malware_download""}"
+url,http://115.54.97.201:46845/i,URLhaus,2026-09-03 01:11:15 UTC,"{""threat"": ""malware_download""}"
+url,http://115.54.97.201:46845/bin.sh,URLhaus,2026-09-03 01:01:12 UTC,"{""threat"": ""malware_download""}"
+url,http://196.189.98.110:58835/i,URLhaus,2026-09-03 01:01:05 UTC,"{""threat"": ""malware_download""}"
+url,http://191.37.19.74:52135/bin.sh,URLhaus,2026-09-03 00:53:19 UTC,"{""threat"": ""malware_download""}"
+url,http://115.55.62.144:54772/bin.sh,URLhaus,2026-09-03 00:47:06 UTC,"{""threat"": ""malware_download""}"
+url,http://124.66.99.102:55875/bin.sh,URLhaus,2026-09-03 00:42:18 UTC,"{""threat"": ""malware_download""}"
+url,http://115.58.80.45:58927/i,URLhaus,2026-09-03 00:32:16 UTC,"{""threat"": ""malware_download""}"
+url,http://39.74.18.45:57987/bin.sh,URLhaus,2026-09-03 00:22:16 UTC,"{""threat"": ""malware_download""}"
+url,http://96.245.232.83:44492/i,URLhaus,2026-09-03 00:18:22 UTC,"{""threat"": ""malware_download""}"
+url,http://115.54.104.9:47974/i,URLhaus,2026-09-03 00:17:17 UTC,"{""threat"": ""malware_download""}"
+url,http://182.118.244.54:49806/bin.sh,URLhaus,2026-09-03 00:00:13 UTC,"{""threat"": ""malware_download""}"
+hash,0f07126e64d4a5767d18484ce920ce96abfde57dc5e89fadbbd417d039f080da,MalwareBazaar,2026-09-04 12:33:38 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""202606230029750.pdf.js""}"
+hash,2deccf4d047ace7faa8b5b304fc07e02500228cb067cdec6e7816727efde82ab,MalwareBazaar,2026-09-04 12:33:30 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""xDzmlkxwtW.js""}"
+hash,226aed4d99c5a4631a088107d395924f69e7baf7e2ab26a5e6721b366397aa78,MalwareBazaar,2026-09-04 12:33:09 UTC,"{""signature"": ""XWorm"", ""file_name"": ""PURCHASE ORDER-PO-04867.js""}"
+hash,19c85e2440604567a7c527f9c04595188dfde96ad16d59aadb2837ea7fbd83a4,MalwareBazaar,2026-09-04 12:31:15 UTC,"{""signature"": ""XWorm"", ""file_name"": ""\u4e09\u83f1UFJ\u30d5\u30a3\u30ca\u30f3\u30b7\u30e3\u30eb\u30fb\u30b0\u30eb\u30fc\u30d7 \u9280\u884c \u6ce8\u6587\u66f8\u756a\u53f7 JP250-409-26.js""}"
+hash,c92bf5e0c31662ae68e0cdaecd29782ec91b870bfc655c87bfa9c9d2aaa4e7a5,MalwareBazaar,2026-09-04 12:29:54 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""task.js""}"
+hash,1d53bde14b5d49b3f5ff04c9137bd2eb8ce0c7fe733f271eb1ce59f7585db175,MalwareBazaar,2026-09-04 12:08:31 UTC,"{""signature"": ""OffLoader"", ""file_name"": ""1d53bde14b5d49b3f5ff04c9137bd2eb8ce0c7fe733f271eb1ce59f7585db175""}"
+hash,83272fd3adbddcdf1ffb022d442383b9e9bf2e66fa0a4847b2a9825b37fbf84b,MalwareBazaar,2026-09-04 12:05:46 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""83272fd3adbddcdf1ffb022d442383b9e9bf2e66fa0a4847b2a9825b37fbf84b""}"
+hash,93ad82dac79025bf842b385b082cee6607b0c3afcdd28d3b1532222954e55d5c,MalwareBazaar,2026-09-04 12:03:08 UTC,"{""signature"": ""AgentTesla"", ""file_name"": ""ps_9EO6rbtDnhzz_1788491724115.ps1""}"
+hash,91bb0fdd551a23bd3cefb00f93e3559d64103596a63969245451babb97a9cbae,MalwareBazaar,2026-09-04 11:57:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""bin.sh""}"
+hash,51473dd2b6ac0bfc7beae6bdddfd49a55465cd51b9a62383b2b7dc3867bf5e9b,MalwareBazaar,2026-09-04 11:50:06 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""WBOMRQRB_629720855.vbs""}"
+hash,c1f13e6e6b4f9f3e43c31c875986de20359ed364c5bc346b54ce7ddf7d36c01b,MalwareBazaar,2026-09-04 11:43:15 UTC,"{""signature"": ""OffLoader"", ""file_name"": ""c1f13e6e6b4f9f3e43c31c875986de20359ed364c5bc346b54ce7ddf7d36c01b""}"
+hash,91847a5075fd0e938f4aec3a23a4437c6445f4eefc201fa288e0d1513edf0561,MalwareBazaar,2026-09-04 11:39:15 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""118.exe""}"
+hash,aa8bf93029edf167b6eaa0cfbf2b60490da8f9e5788e871ffe9c363d45683988,MalwareBazaar,2026-09-04 11:38:37 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""118.exe""}"
+hash,76c0ad403195981d47f0425cd0668b417a265ed1612b4192aa187f833b12c111,MalwareBazaar,2026-09-04 11:32:33 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""cx-programmer 9.1 free download full.exe""}"
+hash,6fe35b4897ca9e1d38a9ddf40701e475462ac30803f92b743d5afefdc0e0bf36,MalwareBazaar,2026-09-04 11:32:32 UTC,"{""signature"": ""MassLogger"", ""file_name"": ""QUOTE-058-2026.pdf.hta""}"
+hash,78cb23c739d24513b25f477183566c9fce0b329696e05482065f1bf01629c606,MalwareBazaar,2026-09-04 11:27:21 UTC,"{""signature"": ""BadPaw"", ""file_name"": ""InitTest.dll""}"
+hash,b33b0d83240d52322ba7317b41318ab64aa6834ca60f8c48dfc329008f14be18,MalwareBazaar,2026-09-04 11:27:16 UTC,"{""signature"": ""Stealc"", ""file_name"": ""b33b0d83240d52322ba7317b41318ab64aa6834ca60f8c48dfc329008f14be18""}"
+hash,177f291a6b1e2889f75bc2ed3683f5e7ef8cc41cc320928c075fd7e7e350805d,MalwareBazaar,2026-09-04 11:09:41 UTC,"{""signature"": ""AndyDesk"", ""file_name"": ""177f291a6b1e2889f75bc2ed3683f5e7ef8cc41cc320928c075fd7e7e350805d""}"
+hash,a17a231160061cbcbe283178ae0046253bcfb0199041305f888d6b2a126e3de4,MalwareBazaar,2026-09-04 11:09:34 UTC,"{""signature"": ""AndyDesk"", ""file_name"": ""a17a231160061cbcbe283178ae0046253bcfb0199041305f888d6b2a126e3de4""}"
+hash,fc94fb43815cfaaec99f14f7fcbd7ad26c8b99fd449e9eaa43996419af53825a,MalwareBazaar,2026-09-04 11:09:26 UTC,"{""signature"": ""AndyDesk"", ""file_name"": ""fc94fb43815cfaaec99f14f7fcbd7ad26c8b99fd449e9eaa43996419af53825a""}"
+hash,271aa48e3bea2f472a6039f0bca6e70abfda1c5abdfcccdfccd18e0dd515b15e,MalwareBazaar,2026-09-04 11:09:19 UTC,"{""signature"": ""AndyDesk"", ""file_name"": ""271aa48e3bea2f472a6039f0bca6e70abfda1c5abdfcccdfccd18e0dd515b15e""}"
+hash,a61a51ddcd88162bec985efffaf7577c2b1a663ac3969b4d009b256d8ea733a5,MalwareBazaar,2026-09-04 11:09:09 UTC,"{""signature"": ""Vidar"", ""file_name"": ""a61a51ddcd88162bec985efffaf7577c2b1a663ac3969b4d009b256d8ea733a5""}"
+hash,42f2f118c669f07f7a7f0b0834cc53d2800f01ab39304694c32bb06859ca6b23,MalwareBazaar,2026-09-04 11:09:01 UTC,"{""signature"": ""Vidar"", ""file_name"": ""42f2f118c669f07f7a7f0b0834cc53d2800f01ab39304694c32bb06859ca6b23""}"
+hash,c9f156cb719e0a71e4087ae26b108ad3745d14ed1d06314596acb929d8bc8a5f,MalwareBazaar,2026-09-04 11:08:46 UTC,"{""signature"": ""Stealc"", ""file_name"": ""c9f156cb719e0a71e4087ae26b108ad3745d14ed1d06314596acb929d8bc8a5f""}"
+hash,2639905ed481e042aecb7b82ab285014593674814487f9004bc438918aaa6cab,MalwareBazaar,2026-09-04 11:08:14 UTC,"{""signature"": ""Stealc"", ""file_name"": ""2639905ed481e042aecb7b82ab285014593674814487f9004bc438918aaa6cab""}"
+hash,5df6445476b01e76fb7f17298d333f04356553880a61e54b0d9f01e1dca2c63d,MalwareBazaar,2026-09-04 11:07:59 UTC,"{""signature"": ""OffLoader"", ""file_name"": ""5df6445476b01e76fb7f17298d333f04356553880a61e54b0d9f01e1dca2c63d""}"
+hash,37c2c5d56cc763a7731523541ea9b206beb80dace89e1615b0cab7d5afa1ffe5,MalwareBazaar,2026-09-04 11:00:15 UTC,"{""signature"": ""SnakeKeylogger"", ""file_name"": ""Payment Slip PDF.bat""}"
+hash,6fab10a28e140639c224e5c0a4a01bc7a7b8d80c681426de911e7125de61106e,MalwareBazaar,2026-09-04 10:45:43 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sh4""}"
+hash,2b619dc0b6f585f22c37d32e53d72871ad473b50d24e16f8578504886a0c3675,MalwareBazaar,2026-09-04 10:37:42 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""2b619dc0b6f585f22c37d32e53d72871ad473b50d24e16f8578504886a0c3675.exe""}"
+hash,71a85b9aef05a19affe70d33f63f920c61a7ec4cbc725e435900fa53f83f8aba,MalwareBazaar,2026-09-04 10:36:12 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""Installer.exe""}"
+hash,f66fe201289db260631146fdc8f457622ea25fdb937e63be6358d763a9d827b2,MalwareBazaar,2026-09-04 10:26:42 UTC,"{""signature"": ""PavinLoader"", ""file_name"": ""payload_decrypted.zip""}"
+hash,a2ec6b5836353d275f96021bd670e8a91266bcda87b3885e09f317bd95c6d7c0,MalwareBazaar,2026-09-04 10:25:44 UTC,"{""signature"": ""Vidar"", ""file_name"": ""nw_elf.dll""}"
+hash,24e162bf8b9fa1ef211db5ada3063104dfa4abae3512372eb1a58c54221f53e1,MalwareBazaar,2026-09-04 10:24:31 UTC,"{""signature"": ""Vidar"", ""file_name"": ""#Pa$$w0rD__2024--0pe\u0274_Set-Up!.zip""}"
+hash,68a2d5de4a2240a09ed82156804af48daeb00a32c9cb72eb5b43e0665ab7b35b,MalwareBazaar,2026-09-04 10:22:49 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""Download_Movie_Maker_2.6_For_Windows_7.exe""}"
+hash,d1c8802f142e81bfce348f12fdc835321eea4476db475925e81689b3a45ef142,MalwareBazaar,2026-09-04 10:22:17 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""cx-programmer 9.1 free download full.7z""}"
+hash,6c45b608c7f6366434ba90e2c6c254a66a9fe8f018620e943db9744101855dc7,MalwareBazaar,2026-09-04 10:06:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""v6kyo484""}"
+hash,5d8190adb31800ecfcd1668fce995fc89c19c58869556dc0e717f9724dc1baee,MalwareBazaar,2026-09-04 10:06:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""5x2b96g7""}"
+hash,2d9dcf915d0ad99f33c051fa908081a948593bf4763a00a436e740b5ffb13d5d,MalwareBazaar,2026-09-04 10:00:38 UTC,"{""signature"": ""DCAgentRMM"", ""file_name"": ""lwjw.vbs""}"
+hash,f348ecd809cf4663af8eec9373b57efcb807ec949134de96bfa3f055f6486b44,MalwareBazaar,2026-09-04 09:54:43 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.mips""}"
+hash,579f6321bc4b7db08932c8e3b84f8ec54cf898d35c3dda976b062a923d377190,MalwareBazaar,2026-09-04 09:52:42 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.i686""}"
+hash,7f2877c0400dcaf354e7de2848461abd959ad5d56f86d0e69fa7644ffa1287da,MalwareBazaar,2026-09-04 09:52:41 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.arm5""}"
+hash,1db8123fc4841223d6a5fb9b08368ad7d67ab5d6d6c9f89e234bcb08b4706f2b,MalwareBazaar,2026-09-04 09:52:40 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.m68k""}"
+hash,be1446c301864eec216c8c8743beba0f256e69b3777d641a43d155146ce3507d,MalwareBazaar,2026-09-04 09:52:38 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.x86_64""}"
+hash,969dddce3ec20d51407ed27ed133622f8b650539d46d44b685e8b33e42335fae,MalwareBazaar,2026-09-04 09:52:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.mpsl""}"
+hash,5196899532a56e73454398678e30c3f4d1091f084a861d36b6213b0a529e4c4f,MalwareBazaar,2026-09-04 09:52:36 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.arm7""}"
+hash,8f7791b74e0b504e7c62fc6a8211eb222957d33a1f264189e421269bbe0004cb,MalwareBazaar,2026-09-04 09:52:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.arc""}"
+hash,f4eecad1c42f85b730e07959ade99e821d4b827cc77d0be9d76d0e34fd9fc7d8,MalwareBazaar,2026-09-04 09:52:33 UTC,"{""signature"": ""Mirai"", ""file_name"": ""morte.ppc""}"
+hash,0947a9428b88899e5b5febf7b9feab7782e156d9bbf8b5b64a863b3c461c688e,MalwareBazaar,2026-09-04 09:48:54 UTC,"{""signature"": ""Vidar"", ""file_name"": ""0947a9428b88899e5b5febf7b9feab7782e156d9bbf8b5b64a863b3c461c688e.bin""}"
+hash,0793dc07e21086ad333b830c2aa39fd61ed7c2bc957b41c12e9997665c89062d,MalwareBazaar,2026-09-04 09:48:51 UTC,"{""signature"": ""Vidar"", ""file_name"": ""0793dc07e21086ad333b830c2aa39fd61ed7c2bc957b41c12e9997665c89062d.bin""}"
+hash,016c75e8c1956e4829f60ad86d5026ffd5ca153da114ada8d3f9c4ab3c94f4f8,MalwareBazaar,2026-09-04 09:23:50 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mipsle""}"
+hash,86fcaaddc87ded3edc8d6d33e424689bfb6ae057f3b446548e8887974036e0d8,MalwareBazaar,2026-09-04 09:23:47 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,97f981464e79696b84dce45f7427ab5b2323cb4ed8ca30321efe139cee64c2e4,MalwareBazaar,2026-09-04 09:19:22 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""ordine _76644.js""}"
+hash,96fb88a2ae4f7a93b343f333548b1f3235909b14b8f391a9fea1fa858ea7df19,MalwareBazaar,2026-09-04 09:18:07 UTC,"{""signature"": ""Vidar"", ""file_name"": ""96fb88a2ae4f7a93b343f333548b1f3235909b14b8f391a9fea1fa858ea7df19.bin""}"
+hash,c17b94f6982afb3f5502c92c6a23cd61cb56c70962fa81b73cb836ca48ec20f5,MalwareBazaar,2026-09-04 09:17:36 UTC,"{""signature"": ""Prometei"", ""file_name"": ""c17b94f6982afb3f5502c92c6a23cd61cb56c70962fa81b73cb836ca48ec20f5""}"
+hash,c2e9fbca414575d5c080d97f378024a4d131d6e1262112aebaa96eafa3592381,MalwareBazaar,2026-09-04 09:12:05 UTC,"{""signature"": ""XWorm"", ""file_name"": ""ErmWhatsWrongWithMyPC.exe""}"
+hash,1159cff4969f8e7f7454e6fe8a97aa0a73b455460e2abf0c87f1343972d58a9a,MalwareBazaar,2026-09-04 08:57:37 UTC,"{""signature"": ""VenomRAT"", ""file_name"": ""1159cff4969f8e7f7454e6fe8a97aa0a73b455460e2abf0c87f1343972d58a9a.exe""}"
+hash,08295c1247b7ce6dc020bfba5ba75540e3b5c98665ba99f2f73b37016811f47c,MalwareBazaar,2026-09-04 08:37:39 UTC,"{""signature"": ""VenomRAT"", ""file_name"": ""08295c1247b7ce6dc020bfba5ba75540e3b5c98665ba99f2f73b37016811f47c.exe""}"
+hash,391892d080b4a9fc3925068f77c917d6b60560d6f22281ca7302c0ff958a46d4,MalwareBazaar,2026-09-04 08:20:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm5""}"
+hash,a01ff2bc22326ab8d47d2d7119a0051097537ff6f8032ea6d60ee678f52dbdfa,MalwareBazaar,2026-09-04 08:20:21 UTC,"{""signature"": ""Mirai"", ""file_name"": ""all.sh""}"
+hash,8e12f99e646ff3821af7248ed3e68ea47895a8b9b8898b278a056de3d301c1c5,MalwareBazaar,2026-09-04 08:19:32 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""ScreenConnect.ClientSetup.exe""}"
+hash,922de4f9be3408f33b555027cc0fea9a769b1eb098ae781639da0dcec14cd344,MalwareBazaar,2026-09-04 08:19:30 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""support.client.exe""}"
+hash,aeee59e8cbfa37cd0336e595a0e6b3b3cd59323c87a1d603fcde358491001c8a,MalwareBazaar,2026-09-04 08:17:37 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""aeee59e8cbfa37cd0336e595a0e6b3b3cd59323c87a1d603fcde358491001c8a.exe""}"
+hash,b26bf6ba1b6a75a236e94a74b30c804df628fa4662bbbe8962c955d3c5502e94,MalwareBazaar,2026-09-04 08:13:23 UTC,"{""signature"": ""CountLoader"", ""file_name"": ""Journal_Daily_v3.3.ps1""}"
+hash,433030e45751b1919bf58c0028296e94e3b6da8a1a059716208ab7943fedd0eb,MalwareBazaar,2026-09-04 08:09:19 UTC,"{""signature"": ""Vidar"", ""file_name"": ""433030e45751b1919bf58c0028296e94e3b6da8a1a059716208ab7943fedd0eb.bin""}"
+hash,8ee0e1f223f578cbaa63028cc6f70eab0ac5eb858169f168d525a1b0d71977f5,MalwareBazaar,2026-09-04 07:58:19 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android_arm64""}"
+hash,1fcc31906c391dc3f7d1e239c66fe1fb595065d46eff693fefba859f712c43b6,MalwareBazaar,2026-09-04 07:41:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""bins.sh""}"
+hash,ed6585c0ce967cfeaf497b8f06c15591b00110073686c73bec7ff05abdead620,MalwareBazaar,2026-09-04 07:40:16 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""Access.msi""}"
+hash,a2daf5a37aff430055e7d30ca6e5428d941ed19a2c4d12ff0833812a668ba0a4,MalwareBazaar,2026-09-04 07:34:31 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm6""}"
+hash,92ad27531df11d88a313573da42427bcbb3e6cef9bbf9e84202e68a7368afd1b,MalwareBazaar,2026-09-04 07:26:32 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""adb_setup_vn.bat""}"
+hash,27e91f9d674323b32ad4a3d5482945172f5f09e946e1d613f3bf25f21ccbf5f1,MalwareBazaar,2026-09-04 07:22:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv7l""}"
+hash,ff2af1bee37dabe5002e041af32916b011df23ae472a428f5b5056c984795d91,MalwareBazaar,2026-09-04 07:18:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""amd64""}"
+hash,ea742f219642d77bb4a6e9ebd32152e9f0aad49a2600b8d2c612558456bc720b,MalwareBazaar,2026-09-04 07:16:53 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm64""}"
+hash,6c722b2c97d522a5244558afd06c5d40148c60bf448f078e7e447b3cf0da5585,MalwareBazaar,2026-09-04 07:04:59 UTC,"{""signature"": ""Prometei"", ""file_name"": ""6c722b2c97d522a5244558afd06c5d40148c60bf448f078e7e447b3cf0da5585""}"
+hash,72132935414eded9ba3f60a5f64259fa3be2164c8bf33bd40f585d144ce955b3,MalwareBazaar,2026-09-04 06:59:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86""}"
+hash,6b6171ac841b522ea3933d8c6965c737c1ade64270b56b97c1c6e27e9a7772c5,MalwareBazaar,2026-09-04 06:53:36 UTC,"{""signature"": ""Vidar"", ""file_name"": ""6b6171ac841b522ea3933d8c6965c737c1ade64270b56b97c1c6e27e9a7772c5.bin""}"
+hash,a120203700369c2bb7ca8abd7d49a89070d73b4c0625203539c4fd47dc2231b9,MalwareBazaar,2026-09-04 06:46:11 UTC,"{""signature"": ""BlackBasta"", ""file_name"": ""1.bin""}"
+hash,958ebd65f2915e6aeae945ea6ea90a663ea6d429e8a0c3d8be1d9ef14b3c71aa,MalwareBazaar,2026-09-04 06:45:06 UTC,"{""signature"": ""NanoCore"", ""file_name"": ""E03944D56F67A14D11547DD3ACE97B66.exe""}"
+hash,21dd3eb10681d40ce6fa4d8f3102b80eb3ab294a595635a9bb3f97e31e02d29c,MalwareBazaar,2026-09-04 06:11:29 UTC,"{""signature"": ""XWorm"", ""file_name"": ""Remittance Advice_03_09_2026.pdf.js""}"
+hash,464c40860c4425c3603ea2f02f411e993451c4ee1667e952e8cc6f2652b87e57,MalwareBazaar,2026-09-04 06:10:08 UTC,"{""signature"": ""MassLogger"", ""file_name"": ""jli.dll""}"
+hash,6dcaa210185e2e359d001b03f76c94b16f612d375e8aa775033da1ff304bc0c7,MalwareBazaar,2026-09-04 06:07:02 UTC,"{""signature"": ""Vidar"", ""file_name"": ""6dcaa210185e2e359d001b03f76c94b16f612d375e8aa775033da1ff304bc0c7.bin""}"
+hash,e490fc1f6a3114f2231bf172c5de58de5c0b3905baf6b041fd404cdac2dc33f3,MalwareBazaar,2026-09-04 05:53:46 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""ScreenConnect.ClientSetup.exe""}"
+hash,cb3e729fe3cd8e698cf3fe6e1117cf98fcf4bb0af611cfc719d87e599d600640,MalwareBazaar,2026-09-04 05:53:36 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""support.client.exe""}"
+hash,fee671621d2777c19edfb9c2268b4df2bc81077fc2fdbb09a1be8ab07aa344cd,MalwareBazaar,2026-09-04 05:49:52 UTC,"{""signature"": ""Vidar"", ""file_name"": ""fee671621d2777c19edfb9c2268b4df2bc81077fc2fdbb09a1be8ab07aa344cd.bin""}"
+hash,ccff931426c9e8dfe730757a587445c89126e94a90e8ff9a453c412ca11882d8,MalwareBazaar,2026-09-04 05:45:47 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86_64""}"
+hash,539da2c5a98a8beac608a1f283dac94e0a904e44c6d24f415e7ecce537987f53,MalwareBazaar,2026-09-04 05:45:44 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mpsl""}"
+hash,932891873b815a9ca6d5144d7c64f6c832a32fc1eeaada5ae8ac3c818bdb697a,MalwareBazaar,2026-09-04 05:45:42 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mips""}"
+hash,152e02086c4daba9777fe84252dcf276e9131d72c97781700daac43ed32b0690,MalwareBazaar,2026-09-04 05:45:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86""}"
+hash,2bb7247751df9d9b81f19b0360e2c47270c63867d502ed5645677702f04c5d6e,MalwareBazaar,2026-09-04 05:45:36 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm6""}"
+hash,26c10bfa736736ae1b912d568da9dc81a157f18686730a312a8a563388365cc7,MalwareBazaar,2026-09-04 05:45:33 UTC,"{""signature"": ""Mirai"", ""file_name"": ""c2_server""}"
+hash,f6447a8d34794e24ea9b498f8813ecc052003f2944717555153dde7e57500927,MalwareBazaar,2026-09-04 05:44:40 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm""}"
+hash,0f0201896ca793a03a245dc238ac0a17f0b08b3cf99878015dd31fb37069e700,MalwareBazaar,2026-09-04 05:44:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86_64""}"
+hash,672882fe8809ba6691cefe9e4e3203cf9d0a5d0bc6422f8203ee8f8310271e51,MalwareBazaar,2026-09-04 05:44:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mpsl""}"
+hash,bbf7c8702886ba4c9c404c6ca3d78b7581f63f20378675883658f6b9fde79360,MalwareBazaar,2026-09-04 05:44:38 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mips""}"
+hash,eaa4dc19523ae0f7d2cdbdb812ada21063e5578f5896b13ed6da1c6ab0b8ae25,MalwareBazaar,2026-09-04 05:44:38 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm5""}"
+hash,7b877456005b3f0071a54e07dfd142c7b02ea087d1497b80ca3cd48c91f4902a,MalwareBazaar,2026-09-04 05:44:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86""}"
+hash,7c27409347518d9e5ceb47113608e9dd00bdfc8300bbe99fd3a304c68d79855d,MalwareBazaar,2026-09-04 05:44:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm6""}"
+hash,985892c1ea2193bce28d7fa18ae06ba1c56c35e49c17a92c79c47eecb5e8edaf,MalwareBazaar,2026-09-04 05:44:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""c2_server""}"
+hash,f035a83212aa502e31e705f27d7a5426081a038fcf27e7d9081a739f75c44d02,MalwareBazaar,2026-09-04 05:44:04 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android-arm""}"
+hash,404c9774f76484e16110e9db27a5e9be8b394b86b13e9163571f6f2f3c2bd247,MalwareBazaar,2026-09-04 05:44:03 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android-arm64""}"
+hash,3e83a25bf0b86357191b483f14c0f046024fe8f9acf0acc860c49f3f5fde4f2d,MalwareBazaar,2026-09-04 05:43:44 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android-arm""}"
+hash,06f07c9a35c568893f0ca1af67f6e789ccb56a019a809bc0a82f39902e54517f,MalwareBazaar,2026-09-04 05:43:41 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android-arm64""}"
+hash,1b121d9579069e23539d9f9d10d7ff6348e91250e6ca2ae31a1d7b0eea29e644,MalwareBazaar,2026-09-04 05:43:36 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86_64""}"
+hash,df7ce6e3dc6a7a36b236ce659c2546ab0bc24c2fa891716c6638dd2f3103568b,MalwareBazaar,2026-09-04 05:43:34 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86""}"
+hash,f0ff800817c74fc1d3816c1bf1501ffc1ce08e887a7a68b69768f23e8ce36cab,MalwareBazaar,2026-09-04 05:43:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mpsl""}"
+hash,94e3c877d8677d02a5d187c83e63a40d4012e142334f2f8b59eeada55e1b9d1f,MalwareBazaar,2026-09-04 05:43:30 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mips""}"
+hash,ff68d38fd4dbe15b6ce75fa4e2e08f7d6dbd1dc26cad680aaaff5557b5f8f417,MalwareBazaar,2026-09-04 05:43:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""c2_server""}"
+hash,e5b22aa62200c03c95b495fe2f2ea44e29be756d83159af0a5b2e0e6799a64e9,MalwareBazaar,2026-09-04 05:43:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm7""}"
+hash,7bceaf1bf441e6f01618f388b9bf5b51e3c797803a8d494211fd4a47c4991414,MalwareBazaar,2026-09-04 05:42:57 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86_64""}"
+hash,e41d9e02554248852c9688c8340bcb5ddc895e0030f44034ec4cb584a0d4ed82,MalwareBazaar,2026-09-04 05:42:56 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.x86""}"
+hash,c53fae4e35618ce85dae00d2bf1fc41bf804fcec1a2b89ba855abd349162bf5d,MalwareBazaar,2026-09-04 05:42:56 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mpsl""}"
+hash,3bd86dbee8b9351ae9cc2cdca941710d59625e630469800d373acaeecee8a161,MalwareBazaar,2026-09-04 05:42:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.mips""}"
+hash,f89724b79fffc8e66509b7e34151518bdb62588ce2790ac75e349a271b07dbfe,MalwareBazaar,2026-09-04 05:42:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm5""}"
+hash,ab7529d1242004f99c6c6440e076dcd0df2b5f61e6a62b179bd88e85d254a2f0,MalwareBazaar,2026-09-04 05:42:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""c2_server""}"
+hash,79697df542fe2fc1eea05a1f846e7afef89de2d91a792d7b4d6c2c1a91b1ba2f,MalwareBazaar,2026-09-04 05:42:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm""}"
+hash,2c4f0dd1489ade8388236c56bd7433a4a097dd85f9a7e971e54105716567eeec,MalwareBazaar,2026-09-04 05:42:54 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reaver.arm7""}"
+hash,54c51dabd0df58fc9684a80fe674b16f311317ac82c004cf533b02944a901950,MalwareBazaar,2026-09-04 05:40:31 UTC,"{""signature"": ""Vidar"", ""file_name"": ""54c51dabd0df58fc9684a80fe674b16f311317ac82c004cf533b02944a901950.bin""}"
+hash,7c9035d46693b106274c14ad3987f94651cf847a3415ca6d55ca3cd91ccd06a6,MalwareBazaar,2026-09-04 05:25:04 UTC,"{""signature"": ""Mirai"", ""file_name"": ""m68k""}"
+hash,06875f1f3d4dd52d71daafa23acc52a0d897bc495bfa3c4e381f20ae8d4d7390,MalwareBazaar,2026-09-04 04:57:34 UTC,"{""signature"": ""Vidar"", ""file_name"": ""file""}"
+hash,03f470bf77190e63d201d938cfb6229a876b072c3d18fb66c2c68ee20f689da4,MalwareBazaar,2026-09-04 04:43:19 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""FedEx_Shipment_Document.js""}"
+hash,948435372615e8fcd975eb30e921851be5396ae6238986ea782b0ae1743ffb44,MalwareBazaar,2026-09-04 04:40:16 UTC,"{""signature"": ""Vidar"", ""file_name"": ""948435372615e8fcd975eb30e921851be5396ae6238986ea782b0ae1743ffb44.bin""}"
+hash,2d8f5d005671ea3d53be84782493fddb3fd75c496ab712a15a88707cc84e2f82,MalwareBazaar,2026-09-04 03:48:06 UTC,"{""signature"": ""Hajime"", ""file_name"": "".i""}"
+hash,9cc59a6e37685c6b866e2dc8e2b21569a218915e2ea224e6f43207928838521e,MalwareBazaar,2026-09-04 03:31:07 UTC,"{""signature"": ""Vidar"", ""file_name"": ""9cc59a6e37685c6b866e2dc8e2b21569a218915e2ea224e6f43207928838521e.bin""}"
+hash,912cb2fd882c70b7f8bcf2fa377740ed8b23e13f1c9a63df37350d8a62a613fc,MalwareBazaar,2026-09-04 03:14:25 UTC,"{""signature"": ""AgentTesla"", ""file_name"": ""NEW_ORDER13470_QUOTATION_FORM.js""}"
+hash,a90bceeb8cd9c5978939ed48fd545cc3ac98b8831a1e7a9438b3795372f4d4a6,MalwareBazaar,2026-09-04 03:07:46 UTC,"{""signature"": ""CoinMiner"", ""file_name"": "".X0-lock_x86_64""}"
+hash,a6451ad4f82ed52fdb02fd705438fe1dfc0fcc3b27e4ff3943413fa1e4dcd13e,MalwareBazaar,2026-09-04 02:12:32 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""a6451ad4f82ed52fdb02fd705438fe1dfc0fcc3b27e4ff3943413fa1e4dcd13e.exe""}"
+hash,5dd3e4893fdfc14725eaf22eee3fcf35517cf5f9c71b371632b221daa16f073b,MalwareBazaar,2026-09-04 01:13:02 UTC,"{""signature"": ""Vidar"", ""file_name"": ""5dd3e4893fdfc14725eaf22eee3fcf35517cf5f9c71b371632b221daa16f073b.bin""}"
+hash,af3b02f403d1c158b5bf6a0c8c3297b6c98bd665f76a1714220241f88c29c19c,MalwareBazaar,2026-09-04 01:13:00 UTC,"{""signature"": ""Vidar"", ""file_name"": ""af3b02f403d1c158b5bf6a0c8c3297b6c98bd665f76a1714220241f88c29c19c.bin""}"
+hash,e8ea06ea59484643d43227b3ceb46a914e214ff5744d80c0324b80cf5afbb954,MalwareBazaar,2026-09-04 01:12:58 UTC,"{""signature"": ""Vidar"", ""file_name"": ""e8ea06ea59484643d43227b3ceb46a914e214ff5744d80c0324b80cf5afbb954.bin""}"
+hash,1f38faff67a42b61ebd3fd6dfe2d5cffcd612336d7a6ec4e6dd491322fedd2e3,MalwareBazaar,2026-09-04 00:09:30 UTC,"{""signature"": ""Vidar"", ""file_name"": ""1f38faff67a42b61ebd3fd6dfe2d5cffcd612336d7a6ec4e6dd491322fedd2e3.bin""}"
+hash,6dc13963c781c3adb3a3b4bc264ee1370ea2c914ca8d728d7d3c740b8375fbeb,MalwareBazaar,2026-09-04 00:09:27 UTC,"{""signature"": ""Vidar"", ""file_name"": ""6dc13963c781c3adb3a3b4bc264ee1370ea2c914ca8d728d7d3c740b8375fbeb.bin""}"
+hash,534f3a82e34e3ac9a8254229595be2a4e8b07e2373c6a5314f4d1f1b16cf988b,MalwareBazaar,2026-09-03 23:33:18 UTC,"{""signature"": ""a310Logger"", ""file_name"": ""Nuevo pedido.exe""}"
+hash,510b4341c6763d5bf045973f4f9832cb8b66a414abda634d4fafed05cba03058,MalwareBazaar,2026-09-03 22:53:10 UTC,"{""signature"": ""Vidar"", ""file_name"": ""510b4341c6763d5bf045973f4f9832cb8b66a414abda634d4fafed05cba03058.exe""}"
+hash,446cd26639c2d1e09dd9d9edebbd7150d6d5c0f40a4f63c534430c5974a95879,MalwareBazaar,2026-09-03 22:53:07 UTC,"{""signature"": ""Vidar"", ""file_name"": ""446cd26639c2d1e09dd9d9edebbd7150d6d5c0f40a4f63c534430c5974a95879.exe""}"
+hash,10c378d0449cf7055587933980da9a48ad35a9f71543276573318a6b898c5734,MalwareBazaar,2026-09-03 22:44:01 UTC,"{""signature"": ""Vidar"", ""file_name"": ""10c378d0449cf7055587933980da9a48ad35a9f71543276573318a6b898c5734.bin""}"
+hash,c2673f1f23d1d4e65091b266a84020252600f71f1469f3bbce928f0ffb2468ce,MalwareBazaar,2026-09-03 22:43:59 UTC,"{""signature"": ""Vidar"", ""file_name"": ""c2673f1f23d1d4e65091b266a84020252600f71f1469f3bbce928f0ffb2468ce.bin""}"
+hash,23343f092bcd84f3781c7946aa827dcaf19beedcf09d72358bcbff6d203a4190,MalwareBazaar,2026-09-03 22:43:51 UTC,"{""signature"": ""Vidar"", ""file_name"": ""23343f092bcd84f3781c7946aa827dcaf19beedcf09d72358bcbff6d203a4190.bin""}"
+hash,b84f28bf2872715a977aafd9215358d078ae942c6e8ab1c5b397c189c9f5f970,MalwareBazaar,2026-09-03 22:03:23 UTC,"{""signature"": ""Vidar"", ""file_name"": ""b84f28bf2872715a977aafd9215358d078ae942c6e8ab1c5b397c189c9f5f970.bin""}"
+hash,f0ceeb924803c55384a7491af8af5e229bf25e7e9864e3a94f5eaad4a07d925d,MalwareBazaar,2026-09-03 22:03:20 UTC,"{""signature"": ""Vidar"", ""file_name"": ""f0ceeb924803c55384a7491af8af5e229bf25e7e9864e3a94f5eaad4a07d925d.bin""}"
+hash,56b77af451ae0a131689e1cb3a8964b210403cded8d5ea67fa2b6ec24edabab7,MalwareBazaar,2026-09-03 22:03:12 UTC,"{""signature"": ""Vidar"", ""file_name"": ""56b77af451ae0a131689e1cb3a8964b210403cded8d5ea67fa2b6ec24edabab7.bin""}"
+hash,593b391a23ff56696eb2ba54a45ec5eb9c6c574d2b45f5da8ef324cfa3dca95e,MalwareBazaar,2026-09-03 22:03:05 UTC,"{""signature"": ""Vidar"", ""file_name"": ""593b391a23ff56696eb2ba54a45ec5eb9c6c574d2b45f5da8ef324cfa3dca95e.bin""}"
+hash,f5c154134bce86beb4386680a8b5ae47dde22bbba2de5930451a4799c84ed9a8,MalwareBazaar,2026-09-03 21:47:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ok""}"
+hash,74405a7d486faf2f6f860ea2ef655057ff24ed4291f8f6f5fae1476438cf83ec,MalwareBazaar,2026-09-03 21:38:21 UTC,"{""signature"": ""Hajime"", ""file_name"": "".i""}"
+hash,6e5096f66eb3085ec5d46ddf615298155ef1c46190d56b049fc1c58a145a96b5,MalwareBazaar,2026-09-03 21:11:51 UTC,"{""signature"": ""Hajime"", ""file_name"": "".i""}"
+hash,cd4fe48bb85f3614623571ffbdc253e6b6d3fec7d90f45fe70febbeff2df3a5b,MalwareBazaar,2026-09-03 20:48:52 UTC,"{""signature"": ""CoinMiner"", ""file_name"": "".X0-lock_x86_64""}"
+hash,1c8be957532c4c60de31a897fe0555388e6c1e87ff22199d45ddcbbeee65203c,MalwareBazaar,2026-09-03 20:48:13 UTC,"{""signature"": ""Vidar"", ""file_name"": ""1c8be957532c4c60de31a897fe0555388e6c1e87ff22199d45ddcbbeee65203c.bin""}"
+hash,0b3c50255286e9484b4cc1dadad98849d3f5aeb3de6d69345a7786c441473b89,MalwareBazaar,2026-09-03 20:48:11 UTC,"{""signature"": ""Vidar"", ""file_name"": ""0b3c50255286e9484b4cc1dadad98849d3f5aeb3de6d69345a7786c441473b89.bin""}"
+hash,704dcac75a1ac1d08bc97d3c837a9cd4dc5f7b3ba84056b2557dcf4063638640,MalwareBazaar,2026-09-03 20:37:55 UTC,"{""signature"": ""Ladvix"", ""file_name"": ""main""}"
+hash,306ce2d64f3741554000297cc8b8f7ace47c03691e2ec1ee8c5fb4032457430a,MalwareBazaar,2026-09-03 20:34:59 UTC,"{""signature"": ""Ladvix"", ""file_name"": ""boss""}"
+hash,f7362f301153af7d0d5007ccee3c134e4558f561a3331df84de7ae39d0b16587,MalwareBazaar,2026-09-03 20:22:44 UTC,"{""signature"": ""DarkCloud"", ""file_name"": ""PAGO (FACTURAS VENCIDAS).js""}"
+hash,5086b7c16787a690f8f37ca6c99424e8f469c994d9129abdc81a798602de07f7,MalwareBazaar,2026-09-03 20:12:07 UTC,"{""signature"": ""Formbook"", ""file_name"": ""ps_LdSxTLJsoHK1_1780649359263.ps1""}"
+hash,9e42364846f90f1d69fa58908a3fda721d82673a46bba32a971c6e8d0096ec85,MalwareBazaar,2026-09-03 20:12:01 UTC,"{""signature"": ""Formbook"", ""file_name"": ""ps_fVCnsMA0wimh_1780714347070.ps1""}"
+hash,896d7475d148a41cc8975671a96501aa53dc0eab1066b61180d1a21287fa00c4,MalwareBazaar,2026-09-03 20:11:52 UTC,"{""signature"": ""Formbook"", ""file_name"": ""ps_bG5HYG6hsI6T_1780650001945.ps1""}"
+hash,b2660a2e88514b6fe1ff2f776c96ab852b0ce563c5a2258a199a2eb2bdb19a1d,MalwareBazaar,2026-09-03 20:11:32 UTC,"{""signature"": ""AveMariaRAT"", ""file_name"": ""BJ8HSYL8.ps1""}"
+hash,2faf35c81460f594d5471186c8a9be65c004c92c5f3968a67e8e88c11a35d347,MalwareBazaar,2026-09-03 20:10:19 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""1582E41E322D062A5DF941B89184047F.dll""}"
+hash,52e889aa77ee3e84835f700f19ea091d48b7e0682c13cba6941129cdf9de27ba,MalwareBazaar,2026-09-03 20:10:13 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""CD4F959C7AAC421945DD04A12535941C.exe""}"
+hash,64d8f6456140746ac1e5131ab8ada166c62893d53e7daf3d6a829292a7cfefd8,MalwareBazaar,2026-09-03 20:10:07 UTC,"{""signature"": ""njrat"", ""file_name"": ""743759338B45950208EA9D6CB6A99AA1.exe""}"
+hash,e3fc2840cec07dff9c35f528bbe7b3efbe1d60d9a8de9d1467a47cfa7016c278,MalwareBazaar,2026-09-03 20:07:35 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""e3fc2840cec07dff9c35f528bbe7b3efbe1d60d9a8de9d1467a47cfa7016c278.exe""}"
+hash,6173641022865c703539ad968331c59f1d5da03add825a79b6d0719bf7c07ed1,MalwareBazaar,2026-09-03 19:36:32 UTC,"{""signature"": ""Vidar"", ""file_name"": ""6173641022865c703539ad968331c59f1d5da03add825a79b6d0719bf7c07ed1.bin""}"
+hash,bec2b8cf49b15d40abc3d0f8d36ee3a2282928f36250278b1f27d9236e0d90db,MalwareBazaar,2026-09-03 19:36:31 UTC,"{""signature"": ""Formbook"", ""file_name"": ""Ref 2026093-2694.exe""}"
+hash,1465f0a6ed279e87983f39f9b81e989eb0e92898e21a364ab7fc17a84c808079,MalwareBazaar,2026-09-03 19:36:29 UTC,"{""signature"": ""Vidar"", ""file_name"": ""1465f0a6ed279e87983f39f9b81e989eb0e92898e21a364ab7fc17a84c808079.bin""}"
+hash,0f08da5bc3d2c32bd0367d586279d4c7cfc7d35d7ac97cd2ead4b7f4327a8a3a,MalwareBazaar,2026-09-03 19:36:21 UTC,"{""signature"": ""Vidar"", ""file_name"": ""0f08da5bc3d2c32bd0367d586279d4c7cfc7d35d7ac97cd2ead4b7f4327a8a3a.bin""}"
+hash,ffb3eacf4164d66a8d5e591c043f3f86d599e8d39384417d6fdf78796ae18a84,MalwareBazaar,2026-09-03 18:38:25 UTC,"{""signature"": ""RustyStealer"", ""file_name"": ""file""}"
+hash,117e2c3d3b40a2b2cbb2001fa0c1109e51cdec777672d5b325e7edecac442fdd,MalwareBazaar,2026-09-03 18:25:10 UTC,"{""signature"": ""Vidar"", ""file_name"": ""117e2c3d3b40a2b2cbb2001fa0c1109e51cdec777672d5b325e7edecac442fdd.bin""}"
+hash,cfad7093da1fc7ac1ea128ce094bad881aa0efae772ed7e19dc915baaae41ae6,MalwareBazaar,2026-09-03 17:19:24 UTC,"{""signature"": ""Vidar"", ""file_name"": ""cfad7093da1fc7ac1ea128ce094bad881aa0efae772ed7e19dc915baaae41ae6.bin""}"
+hash,fd4958729e313d36cb6073de5bbf2e3958d22cb6164e724bd62f6ecd08d1b6f8,MalwareBazaar,2026-09-03 17:19:16 UTC,"{""signature"": ""Vidar"", ""file_name"": ""fd4958729e313d36cb6073de5bbf2e3958d22cb6164e724bd62f6ecd08d1b6f8.bin""}"
+hash,303c0c4820a3b87f871a11c375b710841db12a436274481c4268150aba9c684a,MalwareBazaar,2026-09-03 17:19:14 UTC,"{""signature"": ""Vidar"", ""file_name"": ""303c0c4820a3b87f871a11c375b710841db12a436274481c4268150aba9c684a.bin""}"
+hash,282b9ca1179778a4fd508369f34eb5d7f89db4c657923990291a508bd34c7502,MalwareBazaar,2026-09-03 17:19:06 UTC,"{""signature"": ""Vidar"", ""file_name"": ""282b9ca1179778a4fd508369f34eb5d7f89db4c657923990291a508bd34c7502.bin""}"
+hash,e9cbdf075ce85bfcfe248335ecbd64d99e8335db88bbf3d7016e1f52c8bce72d,MalwareBazaar,2026-09-03 17:19:03 UTC,"{""signature"": ""Vidar"", ""file_name"": ""e9cbdf075ce85bfcfe248335ecbd64d99e8335db88bbf3d7016e1f52c8bce72d.bin""}"
+hash,f8ca909c103deea084f14d8d9361b783b75f18b73107863f6105ab5037ef8d54,MalwareBazaar,2026-09-03 17:18:53 UTC,"{""signature"": ""Vidar"", ""file_name"": ""f8ca909c103deea084f14d8d9361b783b75f18b73107863f6105ab5037ef8d54.bin""}"
+hash,fcfe6b8eb9523a107d294f79f65a66995cc6237985f89db67f4cd7ce9264243e,MalwareBazaar,2026-09-03 17:18:45 UTC,"{""signature"": ""Vidar"", ""file_name"": ""fcfe6b8eb9523a107d294f79f65a66995cc6237985f89db67f4cd7ce9264243e.bin""}"
+hash,239e0d138b7d137ae4f76476fdf2ba10d17dcf0b40a5d818b7e01612ac69dcb2,MalwareBazaar,2026-09-03 17:17:12 UTC,"{""signature"": ""Vidar"", ""file_name"": ""239e0d138b7d137ae4f76476fdf2ba10d17dcf0b40a5d818b7e01612ac69dcb2.bin""}"
+hash,9ac9ca5ebfe5c1cba3785c7666bf58420a06b1e41796d3f137289b7d528c71bd,MalwareBazaar,2026-09-03 16:42:41 UTC,"{""signature"": ""Vidar"", ""file_name"": ""9ac9ca5ebfe5c1cba3785c7666bf58420a06b1e41796d3f137289b7d528c71bd.bin""}"
+hash,995e67cd9eac426284a4b701380a5e675e6459ea47cace9cfd5b8cc87a2ebbf2,MalwareBazaar,2026-09-03 16:42:39 UTC,"{""signature"": ""Vidar"", ""file_name"": ""995e67cd9eac426284a4b701380a5e675e6459ea47cace9cfd5b8cc87a2ebbf2.bin""}"
+hash,b88e9c5d6268063be3dfa3733aeb93eb9b870e0258b14f4053882b06df3ea556,MalwareBazaar,2026-09-03 16:42:29 UTC,"{""signature"": ""Vidar"", ""file_name"": ""b88e9c5d6268063be3dfa3733aeb93eb9b870e0258b14f4053882b06df3ea556.bin""}"
+hash,7ffa4d58aa67ca311d69caad07f12bff4c15a27990f25cbbb95d88cbd420730a,MalwareBazaar,2026-09-03 16:42:14 UTC,"{""signature"": ""Vidar"", ""file_name"": ""7ffa4d58aa67ca311d69caad07f12bff4c15a27990f25cbbb95d88cbd420730a.bin""}"
+hash,8209ba55fba69a2f7de4657af9ebea2ce3500ba9510fcacf67a05b74c8a5ecad,MalwareBazaar,2026-09-03 16:42:02 UTC,"{""signature"": ""Vidar"", ""file_name"": ""8209ba55fba69a2f7de4657af9ebea2ce3500ba9510fcacf67a05b74c8a5ecad.bin""}"
+hash,35916e16c0296d4d2d74927710e7a29796a1aaca98bb37225b7265696ccd8200,MalwareBazaar,2026-09-03 16:40:35 UTC,"{""signature"": ""Vidar"", ""file_name"": ""35916e16c0296d4d2d74927710e7a29796a1aaca98bb37225b7265696ccd8200.bin""}"
+hash,3b8ded2f1ee256b99296ef86d74a270e735e4181425f04772701b3fcee16998d,MalwareBazaar,2026-09-03 16:37:24 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""install_q2.0.17.exe""}"
+hash,ee4feaed8563112f59a2cdc2519e84937de269725e4abb2789aa39652579f390,MalwareBazaar,2026-09-03 16:36:16 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""ec069fb673638ae26592fd7bdf4f8b07.exe""}"
+hash,bcec0dee5fd43ed238a5c3b781ad3bb3e2104b41904070e0823c9ddf79b08794,MalwareBazaar,2026-09-03 16:35:25 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""aagregatorhast.exe""}"
+hash,255cdacde3f3951fc41cad1d6a248f0bf27ae7aa4fa5b058848b3a1cb93533c4,MalwareBazaar,2026-09-03 16:34:48 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""979298b2781780176dbcaa81dd421525.exe""}"
+hash,7b693ae6ed452fd1a584b321d236ce7305e3281b55497e5963060bd0d5db2ac4,MalwareBazaar,2026-09-03 16:33:51 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""2026.9.03\u88c1\u5458\u540d\u5355\u53ca\u8865\u507f\u65b9\u6848_SUTE.exe""}"
+hash,bbba40d2bf3c25acd2449271c6b4e7ed2edeb2b022f2498480b6e25f2f443b14,MalwareBazaar,2026-09-03 16:33:08 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""2026.09.02\u4eba\u5458\u540d\u5355yioabcasdhqwiqgfj123222.exe""}"
+hash,bfd58bd43ba3879d118f928374d9c00bd0f1c0f22d7c1543cf806aee5ac431cd,MalwareBazaar,2026-09-03 16:23:18 UTC,"{""signature"": ""Vidar"", ""file_name"": ""5fe1055c8dff5c3dcacfd42eb6424ebfc9db7b12def00a5c8d287425403ac67b.exe""}"
+hash,5fe1055c8dff5c3dcacfd42eb6424ebfc9db7b12def00a5c8d287425403ac67b,MalwareBazaar,2026-09-03 16:22:30 UTC,"{""signature"": ""Vidar"", ""file_name"": ""5fe1055c8dff5c3dcacfd42eb6424ebfc9db7b12def00a5c8d287425403ac67b.exe""}"
+hash,0609c009923388373186e55f39bfdea92229aba80c160a11bf5ec66e12f2b353,MalwareBazaar,2026-09-03 16:15:47 UTC,"{""signature"": ""VIPKeylogger"", ""file_name"": ""GMC Product Inquiry datasheet 8830975000.js""}"
+hash,b0c1031ea7d8f98db85e9461f660ceabd4a81ad8fef588498c8a1e34090fd1cb,MalwareBazaar,2026-09-03 16:08:51 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""task.vbs""}"
+hash,25b5c7f85cae8d847cf73df5086b1c05b5e200460a7c2d2cc04d89273208f297,MalwareBazaar,2026-09-03 15:33:57 UTC,"{""signature"": ""MassLogger"", ""file_name"": ""Bank slip.exe""}"
+hash,7937d585aed491145ca99319a4946be7e3a9dc37d299a57e66f391c53d60cc2b,MalwareBazaar,2026-09-03 15:04:33 UTC,"{""signature"": ""VIPKeylogger"", ""file_name"": ""Purchase order no 0085 PDF.js""}"
+hash,32431111b40d7b556a58822361a83566f2fd7dd8270dc58b9f7698cac7ff0f21,MalwareBazaar,2026-09-03 14:34:31 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""32431111b40d7b556a58822361a83566f2fd7dd8270dc58b9f7698cac7ff0f21.exe""}"
+hash,5479dcd030b2c9fd2d990dbab36ceda46570890afa19da42a8f0c6e57b1b39be,MalwareBazaar,2026-09-03 14:02:33 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""5479dcd030b2c9fd2d990dbab36ceda46570890afa19da42a8f0c6e57b1b39be.exe""}"
+hash,517a6bc726a83b3e44aa25569bdf2317a0eca7e9d5879a8218258d3d38ba09f0,MalwareBazaar,2026-09-03 13:54:49 UTC,"{""signature"": ""Vidar"", ""file_name"": ""517a6bc726a83b3e44aa25569bdf2317a0eca7e9d5879a8218258d3d38ba09f0.bin""}"
+hash,4349adc6fb585f01474232cef3923d0c74677b6ba9445d2eb5d8294981f5955e,MalwareBazaar,2026-09-03 13:54:38 UTC,"{""signature"": ""Vidar"", ""file_name"": ""4349adc6fb585f01474232cef3923d0c74677b6ba9445d2eb5d8294981f5955e.bin""}"
+hash,9d5762e75acb432a1e370c3660f5a1f48165e787c2b5386ee4b4dfd1145b4cd2,MalwareBazaar,2026-09-03 13:54:25 UTC,"{""signature"": ""Vidar"", ""file_name"": ""9d5762e75acb432a1e370c3660f5a1f48165e787c2b5386ee4b4dfd1145b4cd2.bin""}"
+hash,8b972e0131c4f7160a3a60f0d1a57c9bba4db6e205bd9fe2a72755879cef9f5e,MalwareBazaar,2026-09-03 13:39:43 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""SecuriteInfo.com.Trojan.PackedNET.3632.7263.1970""}"
+hash,0b00260fcd78004dc04227c0885007572b9c592bfd81758977c60101e4c93d5e,MalwareBazaar,2026-09-03 13:03:22 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""Installer.exe""}"
+hash,c8964811b0a9c4443e9e44f2113263bce0f92e88a493af39214cdb55c4f362cb,MalwareBazaar,2026-09-03 12:55:51 UTC,"{""signature"": ""ValleyRAT"", ""file_name"": ""App_setup_starter_v26.8.7.exe""}"
+hash,72f9149a13822fb42eb1b3a4075fb5f42be7474875814405ee46e402e062985c,MalwareBazaar,2026-09-03 12:53:52 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""Setup.exe""}"
+hash,f6abab0a0c4bfb923dfa750ab928ccdf8f4a147c6185c832afa7ec22236a6cee,MalwareBazaar,2026-09-03 12:33:48 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""DOCUMENT4541334152662FEDEX.xls""}"
+hash,77b3de2e3995a4d701395c06bc17bd9dd0eeddb90fed18412e9532bea2e5a19a,MalwareBazaar,2026-09-03 12:33:10 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""K-2-1-13ab-Coal Mill Grinding Rings.js""}"
+hash,64773e9b66825e3e3d653b730f2994eac6635d8166707d076371bb2ff2f7f434,MalwareBazaar,2026-09-03 12:31:36 UTC,"{""signature"": ""ACRStealer"", ""file_name"": ""WTSAPI32.DLL""}"
+hash,9b05f1ec83e0f252043c75ebefe40ee640e9f3aaf9e141c27b0bab0dbfab7142,MalwareBazaar,2026-09-03 12:30:47 UTC,"{""signature"": ""ACRStealer"", ""file_name"": ""SETUP.zip""}"
+hash,d7a1cbe50f85236cbcd00fe2aeb64dbe12ec5614b745a437b835fb1b9d7be35d,MalwareBazaar,2026-09-03 12:28:08 UTC,"{""signature"": ""CNBackdoor"", ""file_name"": ""Installer41809.exe""}"
+hash,461ec124b1c62766b6216f21dadb8be215a1a261638a93a0340d1b97e0780232,MalwareBazaar,2026-09-03 12:27:37 UTC,"{""signature"": ""CNBackdoor"", ""file_name"": ""Installer.iso""}"
+hash,94c3a0a28b10c54661d13a1ae3bc6e55676cbaf20dd143d21e77ad7693b0afd0,MalwareBazaar,2026-09-03 12:26:28 UTC,"{""signature"": ""Vidar"", ""file_name"": ""Qt5Core.dll""}"
+hash,394b415859c18c3aab01d28745744544307ced89fc8176df2046b090414aa06d,MalwareBazaar,2026-09-03 12:25:14 UTC,"{""signature"": ""Vidar"", ""file_name"": ""#Pa$$w0rD__2024--0pe\u0274_Set-Up!.zip""}"
+hash,09dc920440c44799eca2afdd6203e4c336d6c02d61132951a05e69b401a95aea,MalwareBazaar,2026-09-03 12:22:20 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""Download_Movie_Maker_2.6_For_Windows_7.exe""}"
+hash,a1c9f2ad378b80cece5b79f6d7f50bf66eac217d233e69101ab53d80bfde75a6,MalwareBazaar,2026-09-03 12:21:41 UTC,"{""signature"": ""njrat"", ""file_name"": ""cx-programmer 9.1 free download full_patched.exe""}"
+hash,6e7b5a9d400b328dc41b8e4adfce4ff12de3a11a744616049dfee06acfec09e3,MalwareBazaar,2026-09-03 12:20:59 UTC,"{""signature"": ""njrat"", ""file_name"": ""cx-programmer 9.1 free download full.7z""}"
+hash,cde92e9ca1dc1bfb35887ed5fb85f408c41059ff08f1815ac2d5196fa57fd1d0,MalwareBazaar,2026-09-03 12:18:25 UTC,"{""signature"": ""Formbook"", ""file_name"": ""ps_1db7RuhWwos8_1788401544737.ps1""}"
+hash,e867b0be156bb86bc0e3f0248c9762b6b9f7078a7de536a35036e09d7e68c663,MalwareBazaar,2026-09-03 12:14:47 UTC,"{""signature"": ""Formbook"", ""file_name"": ""L3F4N91B.ps1""}"
+hash,4a7f7061ebce6c4c089dfcdfa33f05a3f90aa7cebef216ba8f2a3cf289410846,MalwareBazaar,2026-09-03 12:00:49 UTC,"{""signature"": ""Formbook"", ""file_name"": ""ps_yxBv3pbyrIcj_1788430580401.ps1""}"
+hash,2e818316247e6ebaf479babfdbb0bcc646fb53eaa2b4a8b1730969299a704abf,MalwareBazaar,2026-09-03 11:59:26 UTC,"{""signature"": ""QuasarRAT"", ""file_name"": ""tmp22A1.tmp.ps1""}"
+hash,0121895d877ef567d3a49f8e6737c9b79fd8ecc50fa7cca165d3f0998e7fafb7,MalwareBazaar,2026-09-03 11:59:21 UTC,"{""signature"": ""QuasarRAT"", ""file_name"": ""meu_script_gerado.bat""}"
+hash,3229113222e651706c19599c149228eef4b1120c1f9f84495781477a8f653d04,MalwareBazaar,2026-09-03 11:52:03 UTC,"{""signature"": ""GCleaner"", ""file_name"": ""setup_euone.bin""}"
+hash,f70fe1090f8a5ec4c419c24b8dc5bf4f3395e732e948eedc78e6dfabfd7edc27,MalwareBazaar,2026-09-03 11:15:30 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""a""}"
+hash,e76d28e648a606ad7e0427b533845a49cf240f44c1ad03ed5ead35cff33d6537,MalwareBazaar,2026-09-03 11:02:10 UTC,"{""signature"": ""MassLogger"", ""file_name"": ""e-dekont.vbs""}"
+hash,98fbe0ec86f383e0647f7091db91ed0f2c64c5217f86c88f659f38dcf156e3f9,MalwareBazaar,2026-09-03 10:52:45 UTC,"{""signature"": ""QuasarRAT"", ""file_name"": ""FAC1T.js""}"
+hash,32f1aa19cc37dcae9ac0eeb546db7c198d0fe7486f1f907f9da65929b45c3ae7,MalwareBazaar,2026-09-03 10:16:36 UTC,"{""signature"": ""Vidar"", ""file_name"": ""32f1aa19cc37dcae9ac0eeb546db7c198d0fe7486f1f907f9da65929b45c3ae7.bin""}"
+hash,0c032c29315593bbb966bc35e5acbb1691b615a9bdc73e88561f7ada19cf9139,MalwareBazaar,2026-09-03 10:16:28 UTC,"{""signature"": ""Vidar"", ""file_name"": ""0c032c29315593bbb966bc35e5acbb1691b615a9bdc73e88561f7ada19cf9139.bin""}"
+hash,1d790ac65d0fdd5266f14a43ca85a711400434892430acf0d1b27e6f3e97071c,MalwareBazaar,2026-09-03 10:16:21 UTC,"{""signature"": ""Vidar"", ""file_name"": ""1d790ac65d0fdd5266f14a43ca85a711400434892430acf0d1b27e6f3e97071c.bin""}"
+hash,1752987851a02b4fd0c10430add08254151c44d4fd9c97a0bab0ccf8e53e61fc,MalwareBazaar,2026-09-03 10:16:14 UTC,"{""signature"": ""Vidar"", ""file_name"": ""1752987851a02b4fd0c10430add08254151c44d4fd9c97a0bab0ccf8e53e61fc.bin""}"
+hash,9a29e6db3657e48e78985e39c9871fad84e5ca302b4136a494fdd21a9452bd05,MalwareBazaar,2026-09-03 10:15:54 UTC,"{""signature"": ""WannaCry"", ""file_name"": ""9a29e6db3657e48e78985e39c9871fad84e5ca302b4136a494fdd21a9452bd05""}"
+hash,e3ca3a6b8a308747dfdf3e1b8cad46bbe8b850a265e0025f90cee069a50f66e0,MalwareBazaar,2026-09-03 10:15:36 UTC,"{""signature"": ""Formbook"", ""file_name"": ""BS_HAIPHONG_VESSEL_FULL_INFORMATIONpdf.js""}"
+hash,be39b9ebf30ed481a28d75dddf5a15f8212de445de7e459e1846875f67ba8bf5,MalwareBazaar,2026-09-03 10:04:56 UTC,"{""signature"": ""Tofsee"", ""file_name"": ""be39b9ebf30ed481a28d75dddf5a15f8212de445de7e459e1846875f67ba8bf5""}"
+hash,d09fdae7f6e7b170094ea36a602d6c2f830933c368b43fa49dadce5c3f3fd0c4,MalwareBazaar,2026-09-03 09:58:50 UTC,"{""signature"": ""RemusStealer"", ""file_name"": ""Zapret.exe""}"
+hash,c54cc3b21cd6de32aa94b56a0a43fd14fbda8465081ffc5117ad24c9276c204a,MalwareBazaar,2026-09-03 09:15:58 UTC,"{""signature"": ""Vidar"", ""file_name"": ""c54cc3b21cd6de32aa94b56a0a43fd14fbda8465081ffc5117ad24c9276c204a.bin""}"
+hash,ed397f1a6b2c2569b7e3b4a4bed79bd30c569dd885657d619763be01345f2c1b,MalwareBazaar,2026-09-03 09:15:56 UTC,"{""signature"": ""Vidar"", ""file_name"": ""ed397f1a6b2c2569b7e3b4a4bed79bd30c569dd885657d619763be01345f2c1b.bin""}"
+hash,62d0ca3e2f36aead50705eb1f824ef925d49bf9a4a6dd657979035184ca2eb60,MalwareBazaar,2026-09-03 08:51:40 UTC,"{""signature"": ""PureLogsStealer"", ""file_name"": ""fedex7070806656755.js""}"
+hash,c147d9261f740184280f61c8c22f5aa59c29755aafb06978a887586d74abe91e,MalwareBazaar,2026-09-03 08:48:53 UTC,"{""signature"": ""Prometei"", ""file_name"": ""c147d9261f740184280f61c8c22f5aa59c29755aafb06978a887586d74abe91e""}"
+hash,23941ba3bd87dd02dcc6cc0f36c7d690d7c5a693ff6a2b97c897b20bac878240,MalwareBazaar,2026-09-03 08:47:45 UTC,"{""signature"": ""Prometei"", ""file_name"": ""23941ba3bd87dd02dcc6cc0f36c7d690d7c5a693ff6a2b97c897b20bac878240""}"
+hash,3ccbad7dd7fbb5383c96afbbb21f91cb5423f1ccb2019781ab943d7971bff2a0,MalwareBazaar,2026-09-03 08:21:38 UTC,"{""signature"": ""Vidar"", ""file_name"": ""file""}"
+hash,1ac7aa362b8d9494c7ceb54032ac614b498e4fb5bad9154047b6e21ba3c97cc7,MalwareBazaar,2026-09-03 08:07:57 UTC,"{""signature"": ""Vidar"", ""file_name"": ""1ac7aa362b8d9494c7ceb54032ac614b498e4fb5bad9154047b6e21ba3c97cc7.bin""}"
+hash,e7b0c848daf7c63ec9f9afc6d4e6c26aec72fb216dfbe0083ec2c969515fef4f,MalwareBazaar,2026-09-03 08:07:48 UTC,"{""signature"": ""Vidar"", ""file_name"": ""e7b0c848daf7c63ec9f9afc6d4e6c26aec72fb216dfbe0083ec2c969515fef4f.bin""}"
+hash,714b9bf949c12a76d47fadad0f1999bb25535cfd1b8392d7dc971eb9525185a5,MalwareBazaar,2026-09-03 07:57:24 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""714b9bf949c12a76d47fadad0f1999bb25535cfd1b8392d7dc971eb9525185a5.exe""}"
+hash,a263b8211a66fb845f6243ef58d408fb43bd8e654475c0a37abd64bbc0fc8a96,MalwareBazaar,2026-09-03 07:37:34 UTC,"{""signature"": ""Vidar"", ""file_name"": ""a263b8211a66fb845f6243ef58d408fb43bd8e654475c0a37abd64bbc0fc8a96.bin""}"
+hash,a4a65e265ee3974c553aa410b625e4c13108d9e27430f070a6d5d6a9d84a11d2,MalwareBazaar,2026-09-03 07:35:15 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""SecuriteInfo.com.BackDoor.Remcos.729.27529.4472""}"
+hash,3f3521d1d3f6183820f607e760d428fad60940373e0ac9bc554b890060078f13,MalwareBazaar,2026-09-03 07:07:20 UTC,"{""signature"": ""Vidar"", ""file_name"": ""3f3521d1d3f6183820f607e760d428fad60940373e0ac9bc554b890060078f13.bin""}"
+hash,472883cf5b21f2040ecba8364a14802c654a618e1d89e1ca21ea4db48e4d10d5,MalwareBazaar,2026-09-03 07:07:11 UTC,"{""signature"": ""Vidar"", ""file_name"": ""472883cf5b21f2040ecba8364a14802c654a618e1d89e1ca21ea4db48e4d10d5.bin""}"
+hash,49b6fd5f35958e4a8d22c42a10bfabd8dcd2319d1a57b69861a5332783c17337,MalwareBazaar,2026-09-03 07:07:03 UTC,"{""signature"": ""Vidar"", ""file_name"": ""49b6fd5f35958e4a8d22c42a10bfabd8dcd2319d1a57b69861a5332783c17337.bin""}"
+hash,84706c26fd802c9c1f2e85a52903d4653f965c1b5ddd4d071a8fe01b686a71ca,MalwareBazaar,2026-09-03 07:06:56 UTC,"{""signature"": ""Vidar"", ""file_name"": ""84706c26fd802c9c1f2e85a52903d4653f965c1b5ddd4d071a8fe01b686a71ca.bin""}"
+hash,7a3386e9a2ab57a3307d6c079f7548cf3cc6df45ae703947cb60d1157c1e90a4,MalwareBazaar,2026-09-03 06:35:56 UTC,"{""signature"": ""Hajime"", ""file_name"": ""i""}"
+hash,2ca24f488a10fff34fbfcf2d52543872c644690e9a21dfd62583f9c2149e9878,MalwareBazaar,2026-09-03 06:29:14 UTC,"{""signature"": ""PhantomStealer"", ""file_name"": ""TM520505_051518A.vbe""}"
+hash,32b5f247fd580b4893423096805dd927f43c01c6e722ca850119a729caa075d4,MalwareBazaar,2026-09-03 06:29:09 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""RFQ_Materiales_y_Muestras_de_Productos_pdf.vbs""}"
+hash,b783a981a31c5c85a77ccf4b572c0cbad8d66237204164a4720663445dbdfb1d,MalwareBazaar,2026-09-03 06:29:00 UTC,"{""signature"": ""VIPKeylogger"", ""file_name"": ""WIRE CONFIRMATION.vbe""}"
+hash,8232145d45309566af8e5692d76d0dcb9dff02fe46bf4759b04062ab31bb03bc,MalwareBazaar,2026-09-03 06:28:42 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""RVC F-1500 endwall round steel parts.vbs""}"
+hash,18f498e29410161187d958beb83cb06c92f3de7c9c3d71919a3e064d79e7fc77,MalwareBazaar,2026-09-03 06:28:31 UTC,"{""signature"": ""AgentTesla"", ""file_name"": ""Itinerary details.vbs""}"
+hash,8fe0d12dfe394ec458d3025253792edc762360f65dc05ac13c7067b6f16430f6,MalwareBazaar,2026-09-03 06:28:10 UTC,"{""signature"": ""XWorm"", ""file_name"": ""RFQ87365267TS.vbs""}"
+hash,d7e9c5bfd19064d1acfcc08474350be0468ae55ca533fc4265a411db0c0505ce,MalwareBazaar,2026-09-03 06:27:58 UTC,"{""signature"": ""AgentTesla"", ""file_name"": ""Itinerary List.vbs""}"
+hash,6fdd045437150976588530dd4bb1c5cce51313c10d2f4fe8f2c48cb688e4d8e2,MalwareBazaar,2026-09-03 06:27:55 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""FedEx8080675545shipping Doc.vbs""}"
+hash,c40317bafe39ec13bd944009bd6c53e6db8430c488433fdace6a3527b26588bb,MalwareBazaar,2026-09-03 06:21:28 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""client.ps1""}"
+hash,c9ddb200f3d9a8dee8830108c613e42b51d78576f1e9f9cc4349983d1418344e,MalwareBazaar,2026-09-03 06:13:02 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""imageshippingdocu72625443.xls""}"
+hash,28d65f871d2b7aabc8fe8a13dfca6a48b2d87a49e80773d9e62cbb955beb0761,MalwareBazaar,2026-09-03 06:11:51 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""6c13dfb410af585f6d03540dd9597ab2.exe""}"
+hash,642eced0b049866305ed010d59316f1408811a0af9f0d1deda36d53fbc0e8cea,MalwareBazaar,2026-09-03 06:03:37 UTC,"{""signature"": ""Formbook"", ""file_name"": ""Notification.js""}"
+hash,252f94e8ae17237b19cb38dd3b82e8c09f53c33a323d4a6a6ddd202dd4b59435,MalwareBazaar,2026-09-03 06:02:06 UTC,"{""signature"": ""AgentTesla"", ""file_name"": ""Orden n.\u00ba HCFT-001-23.exe""}"
+hash,8c4e740dc79ca4c99e67d3ccf030a1ce18803fcc30d49481de27fd27a8f2d983,MalwareBazaar,2026-09-03 05:39:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""obn2b6lh""}"
+hash,6fe88f738adef21d9570db7f871f4f98e6f8b3e0c57f8be799d9189af46f0430,MalwareBazaar,2026-09-03 05:36:15 UTC,"{""signature"": ""Vidar"", ""file_name"": ""6fe88f738adef21d9570db7f871f4f98e6f8b3e0c57f8be799d9189af46f0430.bin""}"
+hash,ef684ef8bf90c0d89217b3373f64253dc8056dab0dd871555e5fcabe7671cbf4,MalwareBazaar,2026-09-03 04:34:35 UTC,"{""signature"": ""Vidar"", ""file_name"": ""ef684ef8bf90c0d89217b3373f64253dc8056dab0dd871555e5fcabe7671cbf4.bin""}"
+hash,d8f869b3431dcbcb0acda45675798b496b2ece53c064723828abae155537badf,MalwareBazaar,2026-09-03 03:55:49 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm7""}"
+hash,cb56319e8492f14166c7d6928e5f2baf1e7f09320d27ffbc6cd894c5e0978c43,MalwareBazaar,2026-09-03 03:53:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""spc""}"
+hash,fc419a7b5035aba342a1031c68dd7879f5df3184291b440def4e78fc87bf70ca,MalwareBazaar,2026-09-03 03:37:40 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm6""}"
+hash,17c6cd29b51c34627cbccb1add64fad17909d1f1e96ac374f4573281aa5dd9a1,MalwareBazaar,2026-09-03 03:36:53 UTC,"{""signature"": ""Vidar"", ""file_name"": ""17c6cd29b51c34627cbccb1add64fad17909d1f1e96ac374f4573281aa5dd9a1.bin""}"
+hash,6e284e5a451cedcb0c4098cc52898e41cbc7fdd6b3398003d87aabb4199ef8e3,MalwareBazaar,2026-09-03 03:18:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ppc""}"
+hash,85814a9cb07115a91cedfd92d09430ececaed70ba63f1ff89d2a39284345311c,MalwareBazaar,2026-09-03 03:06:48 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86""}"
+hash,b33780a313eea2c5357072b2cf80dbb6ee260d4a9edb6dd15c5281f8bfebbb0d,MalwareBazaar,2026-09-03 03:03:56 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86_64""}"
+hash,6b72d0a9ad92880093950575d538c51689070f7e6513dae7c682f35ee51eb7e8,MalwareBazaar,2026-09-03 02:57:37 UTC,"{""signature"": ""Moobot"", ""file_name"": ""arm5""}"
+hash,0e65ee89ff5fc6b61425c9e1419b3c528d1ab8ddfda5943916815c7708d1a800,MalwareBazaar,2026-09-03 02:57:36 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sh4""}"
+hash,1081a33b778532e62bbd9c7a820c1cb3e7aaa7f8eb530f051bfdfff1df4c26ee,MalwareBazaar,2026-09-03 02:54:34 UTC,"{""signature"": ""Mirai"", ""file_name"": ""m68k""}"
+hash,505f5cb7c7f77e79627c8c5131bb3907a58924fae413a0166412598a2bda4491,MalwareBazaar,2026-09-03 02:54:33 UTC,"{""signature"": ""Moobot"", ""file_name"": ""arm""}"
+hash,e63465a408f710767942b9e7dd7a81c6aa28832f528f47ee4963f8f2b6468f46,MalwareBazaar,2026-09-03 02:39:33 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,b7de6647c4ef8606dbbdf967b66c4367d326e096f09bb2f6aea97b3bc9f1560f,MalwareBazaar,2026-09-03 02:12:12 UTC,"{""signature"": ""Formbook"", ""file_name"": ""Agency_Appointment_MT_Griya_Bugis_Letter.js""}"
+hash,faddaa67db9ba8110597b04ffecba8e37c8a54c1b257d98701e0a85035224c08,MalwareBazaar,2026-09-03 02:01:40 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""RFQ_LINKER MARINE SERVICE RefN0_LMS_03.09.2026.js""}"
+hash,b9608f3bdd4fb928a28027ae60f5a974d5eea6f0a3b6867e978884adf945ec98,MalwareBazaar,2026-09-03 01:52:27 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""b9608f3bdd4fb928a28027ae60f5a974d5eea6f0a3b6867e978884adf945ec98.exe""}"
+hash,ebcd6dd0aeeb568b1010b8c664c2c9590b973af8d7b919b182e7d990c9dcc717,MalwareBazaar,2026-09-03 01:37:31 UTC,"{""signature"": ""Vidar"", ""file_name"": ""ebcd6dd0aeeb568b1010b8c664c2c9590b973af8d7b919b182e7d990c9dcc717.bin""}"
+hash,a105ff3e50426f85385f6ab0cecfc01aecdae51a8aabf4f787ab5bf6cd8506bd,MalwareBazaar,2026-09-03 01:37:20 UTC,"{""signature"": ""Vidar"", ""file_name"": ""a105ff3e50426f85385f6ab0cecfc01aecdae51a8aabf4f787ab5bf6cd8506bd.bin""}"
+hash,866b1b1fa53cc6798f43564f5c54826c3fa03731f1b1ca0ae323643ccd40a66e,MalwareBazaar,2026-09-03 01:37:11 UTC,"{""signature"": ""Vidar"", ""file_name"": ""866b1b1fa53cc6798f43564f5c54826c3fa03731f1b1ca0ae323643ccd40a66e.bin""}"
+hash,d21d068229f4202115346c53e44c5128cbb5cabc708ea9485471e9067983b5f0,MalwareBazaar,2026-09-03 01:37:03 UTC,"{""signature"": ""Vidar"", ""file_name"": ""d21d068229f4202115346c53e44c5128cbb5cabc708ea9485471e9067983b5f0.bin""}"
+hash,065f8b64455be57d5997f5f4f0c21b181b417ac1d5f66043caa5ac19e24d6660,MalwareBazaar,2026-09-03 01:36:56 UTC,"{""signature"": ""Vidar"", ""file_name"": ""065f8b64455be57d5997f5f4f0c21b181b417ac1d5f66043caa5ac19e24d6660.bin""}"
+hash,affbb003f93d939eada88497d6bdd4e335fa32e5d8cfacb1486acbc2cce1b1c5,MalwareBazaar,2026-09-03 01:36:49 UTC,"{""signature"": ""Vidar"", ""file_name"": ""affbb003f93d939eada88497d6bdd4e335fa32e5d8cfacb1486acbc2cce1b1c5.bin""}"
+hash,bb6afa93514e75276745b5ee7aaf8308d1dabe2ac40f1a1dbec76d0db48066a4,MalwareBazaar,2026-09-03 01:36:43 UTC,"{""signature"": ""Vidar"", ""file_name"": ""bb6afa93514e75276745b5ee7aaf8308d1dabe2ac40f1a1dbec76d0db48066a4.bin""}"
+hash,7fdd4c3e1a3f88b723d381468107540349533d0665fbc569c6daa739a37c8efc,MalwareBazaar,2026-09-03 01:36:40 UTC,"{""signature"": ""Vidar"", ""file_name"": ""7fdd4c3e1a3f88b723d381468107540349533d0665fbc569c6daa739a37c8efc.bin""}"
+hash,b968e449be596e2ddd2de3b3fba621b2d805a61831256202699f81cb3310c012,MalwareBazaar,2026-09-03 01:36:38 UTC,"{""signature"": ""Vidar"", ""file_name"": ""b968e449be596e2ddd2de3b3fba621b2d805a61831256202699f81cb3310c012.bin""}"
+hash,586a770f60fb43e916edd98ded65621c38aa6ba0a6488e445e5fab8258779a99,MalwareBazaar,2026-09-03 01:36:32 UTC,"{""signature"": ""Vidar"", ""file_name"": ""586a770f60fb43e916edd98ded65621c38aa6ba0a6488e445e5fab8258779a99.bin""}"
+hash,8761ae715595e4ccc4b0de0413ab136120f5efe17fa386dec5e506f4b2433e42,MalwareBazaar,2026-09-03 01:36:25 UTC,"{""signature"": ""Vidar"", ""file_name"": ""8761ae715595e4ccc4b0de0413ab136120f5efe17fa386dec5e506f4b2433e42.bin""}"
+hash,2679d8e62411ea12c57b0e12f9c5b49331c94d7748ccb9d2ab79df39b48e1c37,MalwareBazaar,2026-09-03 01:36:19 UTC,"{""signature"": ""Vidar"", ""file_name"": ""2679d8e62411ea12c57b0e12f9c5b49331c94d7748ccb9d2ab79df39b48e1c37.bin""}"
+hash,8ec9b81c2be13a2a89158a3b7d11628543a939d68b59dcccd56c722a57a1647b,MalwareBazaar,2026-09-03 01:36:12 UTC,"{""signature"": ""Vidar"", ""file_name"": ""8ec9b81c2be13a2a89158a3b7d11628543a939d68b59dcccd56c722a57a1647b.bin""}"
+hash,2af024203c58f63a805fecfd68e1d05cddde45e2de6f7ec94c45afca7af22d26,MalwareBazaar,2026-09-03 01:36:11 UTC,"{""signature"": ""Vidar"", ""file_name"": ""2af024203c58f63a805fecfd68e1d05cddde45e2de6f7ec94c45afca7af22d26.bin""}"
+hash,31dca2b9c929b787e1cf3bddd2b396cd5c3ddf4031274c9ebcccfcf0e5015d92,MalwareBazaar,2026-09-03 01:36:09 UTC,"{""signature"": ""Vidar"", ""file_name"": ""31dca2b9c929b787e1cf3bddd2b396cd5c3ddf4031274c9ebcccfcf0e5015d92.bin""}"
+hash,50b80355b83bce83fb36acf2cdc0cf03f341066dcbd6194c2d8681a207b24f30,MalwareBazaar,2026-09-03 01:36:01 UTC,"{""signature"": ""Vidar"", ""file_name"": ""50b80355b83bce83fb36acf2cdc0cf03f341066dcbd6194c2d8681a207b24f30.bin""}"
+hash,173aa53eac2c81dde77791ee6c13f2531d7f3d1ffb8105573a39fb1d4210c32d,MalwareBazaar,2026-09-03 01:35:51 UTC,"{""signature"": ""Vidar"", ""file_name"": ""173aa53eac2c81dde77791ee6c13f2531d7f3d1ffb8105573a39fb1d4210c32d.bin""}"
+hash,be5a7f27fdbe89bdf760c46c460047362176dcdc350abedfd801c230bd7e3532,MalwareBazaar,2026-09-03 01:35:42 UTC,"{""signature"": ""Vidar"", ""file_name"": ""be5a7f27fdbe89bdf760c46c460047362176dcdc350abedfd801c230bd7e3532.bin""}"
+hash,d4429b3ea619c4c4c90bd5d82dcfc8b2c800d3975cfc9b529d49461c7001d350,MalwareBazaar,2026-09-03 01:35:35 UTC,"{""signature"": ""Vidar"", ""file_name"": ""d4429b3ea619c4c4c90bd5d82dcfc8b2c800d3975cfc9b529d49461c7001d350.bin""}"
+hash,ff1aeefd1b5b454c353834f28c6e9f7bfab957a1c3a32e8e262f6d856dad40af,MalwareBazaar,2026-09-03 01:34:20 UTC,"{""signature"": ""Vidar"", ""file_name"": ""ff1aeefd1b5b454c353834f28c6e9f7bfab957a1c3a32e8e262f6d856dad40af.bin""}"
+hash,d5fa2e2050df64c22d199fbc883cea114253d778765a41503ce26eab1397c3bb,MalwareBazaar,2026-09-03 01:22:23 UTC,"{""signature"": ""SilentNet"", ""file_name"": ""meteorclient.live__meteor-client-1.21.11-86c1d3.jar""}"
+hash,6dd9cbb836647f0028f8569c5c1aa9594501dec9922e1f20c4b3b7ab43f3014f,MalwareBazaar,2026-09-03 00:52:09 UTC,"{""signature"": ""Formbook"", ""file_name"": ""file""}"
+hash,67af64ccdb246c4bf9a50d813d2ca01c6f7c3272c08a6abcdc12761dad2ffa67,MalwareBazaar,2026-09-02 23:32:20 UTC,"{""signature"": ""Mirai"", ""file_name"": ""67af64ccdb246c4bf9a50d813d2ca01c6f7c3272c08a6abcdc12761dad2ffa67.elf""}"
+hash,bb15153a05516064114ea1d783dd58c8284e901c8db0647b48e7ff3ff5e22040,MalwareBazaar,2026-09-02 23:29:38 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mpsl""}"
+hash,c58e18034de47fa16597b11ae1c058ee866a8f6d0d8cf4682d0215af07a9ae24,MalwareBazaar,2026-09-02 23:22:03 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""file""}"
+hash,0b8a6ea5423f6ce14b85258248e144f414c1fab2733aba3734af09eeabb9f4a9,MalwareBazaar,2026-09-02 23:04:31 UTC,"{""signature"": ""Vidar"", ""file_name"": ""0b8a6ea5423f6ce14b85258248e144f414c1fab2733aba3734af09eeabb9f4a9.bin""}"
+hash,daf4250ed250279bfe11e81526759922f67ea98af275f92b718d47ff2640a046,MalwareBazaar,2026-09-02 23:04:23 UTC,"{""signature"": ""Vidar"", ""file_name"": ""daf4250ed250279bfe11e81526759922f67ea98af275f92b718d47ff2640a046.bin""}"
+hash,58aceed329e0410ffaadd64051e5646b76051d7fee7389a423b98fbf7acbe163,MalwareBazaar,2026-09-02 23:04:16 UTC,"{""signature"": ""Vidar"", ""file_name"": ""58aceed329e0410ffaadd64051e5646b76051d7fee7389a423b98fbf7acbe163.bin""}"
+hash,aba3cc5c9e97db4eb32c8ad07bf35a9d4f73906daa6a78cb3b5e6bdac3946552,MalwareBazaar,2026-09-02 23:04:10 UTC,"{""signature"": ""Vidar"", ""file_name"": ""aba3cc5c9e97db4eb32c8ad07bf35a9d4f73906daa6a78cb3b5e6bdac3946552.bin""}"
+hash,07077ec5e760d7387a43de0784b55b4529a8a2c1497d137ffc6a005c23cf10ca,MalwareBazaar,2026-09-02 23:04:08 UTC,"{""signature"": ""Vidar"", ""file_name"": ""07077ec5e760d7387a43de0784b55b4529a8a2c1497d137ffc6a005c23cf10ca.bin""}"
+hash,d425d527f4bf5fa168c5672508b6c5dc358c58c7f865a43f8c77c692d784a2b9,MalwareBazaar,2026-09-02 23:04:02 UTC,"{""signature"": ""Vidar"", ""file_name"": ""d425d527f4bf5fa168c5672508b6c5dc358c58c7f865a43f8c77c692d784a2b9.bin""}"
+hash,3932795771fe8fcb4580771d9e478951af7cdc22870e8c723191a6dfe2de28ec,MalwareBazaar,2026-09-02 22:47:40 UTC,"{""signature"": ""ConnectWise"", ""file_name"": ""file""}"
+hash,0910fc3c5cb222b5b43eef9b187784e36e484728acaa1198b41fb54707c3e167,MalwareBazaar,2026-09-02 22:32:49 UTC,"{""signature"": ""AgentTesla"", ""file_name"": ""orden de compra.exe""}"
+hash,0026d4ecdb0b8eeda2f86c5d8e4442abb5f6601a8976ae1621a44ecbdc202e4e,MalwareBazaar,2026-09-02 22:27:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""0026d4ecdb0b8eeda2f86c5d8e4442abb5f6601a8976ae1621a44ecbdc202e4e.elf""}"
+hash,084a1a1431eca54254a61f6c5c330f08b68654fab510bbeb2c1cd72a97326d6b,MalwareBazaar,2026-09-02 22:23:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm5""}"
+hash,02f01bb20d47400abd0b37895a0c8b0ad6d7785c326f0bda61c0cc8fd32284fa,MalwareBazaar,2026-09-02 22:20:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86_64""}"
+hash,6ece7c73a89d0aea67a9f38a49b7589b54e7e07ff4dd6cf1c4b7ff0905d15880,MalwareBazaar,2026-09-02 22:02:50 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,96fbc96352571c3af1230bda2ab42b23aed9ed239232ae71db074a616e1d5a9c,MalwareBazaar,2026-09-02 20:47:32 UTC,"{""signature"": ""Vidar"", ""file_name"": ""96fbc96352571c3af1230bda2ab42b23aed9ed239232ae71db074a616e1d5a9c.bin""}"
+hash,298fed4ed5f4f5c7a3a6722436be6172b1f4c81e1f274720f9b0b65d7f0b341a,MalwareBazaar,2026-09-02 20:39:17 UTC,"{""signature"": ""AsyncRAT"", ""file_name"": ""pago corporativo;FE94876;01;.js""}"
+hash,de48b45702c25d939ae1ecdd8ab9f5c79dfa530ee81a64bd7af564440ab46146,MalwareBazaar,2026-09-02 20:17:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""de48b45702c25d939ae1ecdd8ab9f5c79dfa530ee81a64bd7af564440ab46146.elf""}"
+hash,632483ffc92cf6cf7aa1900f312ec8a89af06bc3ce8edab8147013cee68510dc,MalwareBazaar,2026-09-02 20:15:06 UTC,"{""signature"": ""NanoCore"", ""file_name"": ""14e53f177fc328f845b1847b5cab0703.exe""}"
+hash,3dc0efeaf17700be3cc94b762d377b31e94744ce67cfd3fb8c9e58c03c093fea,MalwareBazaar,2026-09-02 20:07:22 UTC,"{""signature"": ""Mirai"", ""file_name"": ""3dc0efeaf17700be3cc94b762d377b31e94744ce67cfd3fb8c9e58c03c093fea.elf""}"
+hash,b98c9031c643b5c8f432c41df3512f5862e5e7272a117066b478eb137ffaccc3,MalwareBazaar,2026-09-02 20:02:21 UTC,"{""signature"": ""Mirai"", ""file_name"": ""b98c9031c643b5c8f432c41df3512f5862e5e7272a117066b478eb137ffaccc3.elf""}"
+hash,14b0fdba2beb047d7796352ce56ceabeebb1a70863f29f088a046ca05246196f,MalwareBazaar,2026-09-02 19:55:46 UTC,"{""signature"": ""Vidar"", ""file_name"": ""file""}"
+hash,c381052b7db304df78fe1964ddd318b1df808f89f81ea78bf63c8e4927356985,MalwareBazaar,2026-09-02 19:49:06 UTC,"{""signature"": ""Vidar"", ""file_name"": ""c381052b7db304df78fe1964ddd318b1df808f89f81ea78bf63c8e4927356985.bin""}"
+hash,54620981fdf60ef62541fc467aacf3acdcfbdc9df8de23e2dd0fbe33e3489c96,MalwareBazaar,2026-09-02 19:49:02 UTC,"{""signature"": ""Vidar"", ""file_name"": ""54620981fdf60ef62541fc467aacf3acdcfbdc9df8de23e2dd0fbe33e3489c96.bin""}"
+hash,6b290e28bce7de325c98067c618e42432d43ec7708028cec3908982285c00f65,MalwareBazaar,2026-09-02 19:47:32 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""6b290e28bce7de325c98067c618e42432d43ec7708028cec3908982285c00f65.exe""}"
+hash,bc94f10c4b7da185b319cf4b6195321d4d456ff877324d905867df810880c22c,MalwareBazaar,2026-09-02 19:07:47 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips64b""}"
+hash,b90022410dcee12e45e73327a6e1d9288aeeb175db0895445453e14f146d0c0f,MalwareBazaar,2026-09-02 18:52:30 UTC,"{""signature"": ""Vidar"", ""file_name"": ""b90022410dcee12e45e73327a6e1d9288aeeb175db0895445453e14f146d0c0f.bin""}"
+hash,d4df270ea5a146713de213817b88ba95e575c2eea4c1e66f4c070cacc6ae1272,MalwareBazaar,2026-09-02 18:52:28 UTC,"{""signature"": ""Vidar"", ""file_name"": ""d4df270ea5a146713de213817b88ba95e575c2eea4c1e66f4c070cacc6ae1272.bin""}"
+hash,85a2a141e838b0ab2d506444430b75870919caec56768af7631d1c8f83dee2e8,MalwareBazaar,2026-09-02 18:52:24 UTC,"{""signature"": ""Vidar"", ""file_name"": ""85a2a141e838b0ab2d506444430b75870919caec56768af7631d1c8f83dee2e8.bin""}"
+hash,a8b95815956cae833e1798b4f0f18f17c232c8f7e391bc577207dd6fd450211f,MalwareBazaar,2026-09-02 18:50:25 UTC,"{""signature"": ""Prometei"", ""file_name"": ""a8b95815956cae833e1798b4f0f18f17c232c8f7e391bc577207dd6fd450211f""}"
+hash,58255df7f21ff3b8adc0fd20e3f1b37eeac44d5a81fbff62e1d45535ac3b6e64,MalwareBazaar,2026-09-02 18:35:22 UTC,"{""signature"": ""Ngioweb"", ""file_name"": ""netlogd_armv5""}"
+hash,33e97dd40b3f1bcb68d265121a10a40b20496e3a1c768bc1ec00e820a02e2e5f,MalwareBazaar,2026-09-02 18:28:55 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""ISIS.sh""}"
+hash,05e00002a765a9dac6da434bfeb49ad8ae6e8f3c110e1889779a694cf2fc06a0,MalwareBazaar,2026-09-02 18:28:19 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""a-r.m-5.ISIS""}"
+hash,2ad80a619e8853a3ed437a286e5f9101fad8fba2374bdc0623b1804d76bef47d,MalwareBazaar,2026-09-02 18:28:19 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""p-p.c-.ISIS""}"
+hash,fdff1ef6d6670bbeffbce1264965e2c197625f39a40b656dcd233ace08a18af1,MalwareBazaar,2026-09-02 18:28:19 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""i-5.8-6.ISIS""}"
+hash,93d4bf13c06815a23eb506f7cbe75e7c225350b2f14eda56b414dcaefae7bb18,MalwareBazaar,2026-09-02 18:28:18 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""a-r.m-7.ISIS""}"
+hash,4c8056feafdea02cf45cec2af9fc9dac10df6f7fc7af0170440a18fce0a98b88,MalwareBazaar,2026-09-02 18:28:18 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""x-3.2-.ISIS""}"
+hash,eb34e28c8b728a640126d15b442f1de63e53a7b7cae199ba2f580bc3ca9f6944,MalwareBazaar,2026-09-02 18:28:17 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""x-8.6-.ISIS""}"
+hash,d271eb431bf19e27b29c014954a39cc563b8661bf332975440470bffe431758f,MalwareBazaar,2026-09-02 18:28:17 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""a-r.m-6.ISIS""}"
+hash,ab78c81419d8bf371c48f65011e031ba9a6c0c134a66eedf49e045a51f3587cc,MalwareBazaar,2026-09-02 18:28:16 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""s-h.4-.ISIS""}"
+hash,9e49107ff23ff55bb0b32bc0bec57094e51b7033118c135d1d26b9e0ad9519f4,MalwareBazaar,2026-09-02 18:28:16 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""m-p.s-l.ISIS""}"
+hash,24c463bd0919d41457362760d101f3b05ad7ba2b3951e8e0d1ae82e41acf32a4,MalwareBazaar,2026-09-02 18:28:14 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""m-i.p-s.ISIS""}"
+hash,7a9a1e1b81067fd714d273f8826d57375dfcbf4300d1a3927ce3364e93f53633,MalwareBazaar,2026-09-02 18:18:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""reflect.spc""}"
+hash,b0c70b062b571af021c03d569b3b2df80ef1ab4642925ec1f60737d74528dce2,MalwareBazaar,2026-09-02 18:17:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""riscv32""}"
+hash,d614181ee12ed34bab141ccbf1f4dff0d2b4199f19c3f396db58c61be3d603d4,MalwareBazaar,2026-09-02 18:17:50 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm8""}"
+hash,1f49886b6944440b8be61136c0c7be995db9c22d173382302fb67fe11cba150a,MalwareBazaar,2026-09-02 18:17:36 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mipsel""}"
+hash,4c05e3e80d6e2340c623b5bb8341cee85bf23143dde689a2f91ce680a473a9d0,MalwareBazaar,2026-09-02 18:17:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""Services.apk""}"
+hash,0aee454555fdc788b8741da1663d66521cf3b530df9a34364513ef9af081ed19,MalwareBazaar,2026-09-02 18:17:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android-arm""}"
+hash,8ecd08ebe917efcfbe78c041a71c56d0c5ae7df8597c153caf051cdac0a1a60f,MalwareBazaar,2026-09-02 18:17:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""s390x""}"
+hash,a9c571dbe59b3e5936596b331f762c455913b224d0c962b12f84cf56c321c921,MalwareBazaar,2026-09-02 18:17:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android-arm64""}"
+hash,bad21a8bc3d283748fda74fef397e599918664b0ae8d9b278964f174ddab5363,MalwareBazaar,2026-09-02 18:17:00 UTC,"{""signature"": ""Mirai"", ""file_name"": ""riscv64""}"
+hash,8a9a141f0f9651ff636f1082bd09177a77cca705dc49ea8e52bce2ea0915a91a,MalwareBazaar,2026-09-02 18:16:59 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ppc64""}"
+hash,e3d2a6c05f723614f37d83c17b4691f6dceaf92e3e9f80541ed1940ed72de735,MalwareBazaar,2026-09-02 18:16:57 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mipsel""}"
+hash,71d0907f230b52f9adaaa738cec602d0c49ef058aefd5b7589f66447d035dc53,MalwareBazaar,2026-09-02 18:16:54 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips64""}"
+hash,e457fab4be7dd77e4b401e726b86008afab05bb3420d42bc2fae30fc74f6420d,MalwareBazaar,2026-09-02 18:11:56 UTC,"{""signature"": ""SalatStealer"", ""file_name"": ""file""}"
+hash,05d8a8bf7f3f3aa43a58fdbf7268c5564c7fe73bca052592f25714775d4fc95b,MalwareBazaar,2026-09-02 18:09:49 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86_64""}"
+hash,1ee865eb9c9cf33db318764ee26aba9bf83cde397dd2b9e951f909db7102bad1,MalwareBazaar,2026-09-02 18:09:47 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86""}"
+hash,7ecdc67739cd9e682415a222dd6242debf73afe07a0fb89f72d3ab3e3ddaf7ab,MalwareBazaar,2026-09-02 18:09:44 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc""}"
+hash,31975c1e0c753d3467044ebb7b659ceeb848d7f77e8385ff3e647bdf596a2d9b,MalwareBazaar,2026-09-02 18:09:42 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc64""}"
+hash,c79f4f4d7bb8340fd6c7753b6134d8d1597f43bca564dbceb0d4fc7022a2b6e3,MalwareBazaar,2026-09-02 18:09:40 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mipsel""}"
+hash,c2033e7e1fa418f9f84801d94db2a495eef686aa1a983d7e136d3f7a631aac36,MalwareBazaar,2026-09-02 18:09:38 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mips""}"
+hash,b0ff7176114e176a748720a331d8a567670edec99b1e7ddacde46be4a84df948,MalwareBazaar,2026-09-02 18:09:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm8""}"
+hash,8b64c6dfdb53e006b83f5108e7c33374653a6b567ca04734fa1a7051f86f8438,MalwareBazaar,2026-09-02 18:09:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm7""}"
+hash,efd2db57bf24fb6b65ed71b3529ec611843a54ee713e3c93e01679be435ab55a,MalwareBazaar,2026-09-02 18:09:30 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm""}"
+hash,7244d8f48ecb496020d4de0192fc9377bd013572d1eecde227472b27e0629703,MalwareBazaar,2026-09-02 18:08:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86_64""}"
+hash,1f959f6aa6ffafa144811ebf6bb127592060ece9f588d9993ceb1d273f2ca766,MalwareBazaar,2026-09-02 18:08:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86""}"
+hash,c7c243ae7f2496c83d680b6c5ed8e9eaf03560bcaa9d0d1ba5127ec469b5ed4d,MalwareBazaar,2026-09-02 18:08:31 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc""}"
+hash,1749fff2ba901c6008cce0ef003df4314910e53183348cdcbbb50b81686387d2,MalwareBazaar,2026-09-02 18:08:30 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc64""}"
+hash,15a3eead944a09c87b7cfee036850d84dfa2c462b61321db5f747a3b999dcc34,MalwareBazaar,2026-09-02 18:08:29 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mipsel""}"
+hash,73a4a5baa5a433036a79907132904325f2f0b4bcf6d6573751345756f7c36f95,MalwareBazaar,2026-09-02 18:08:29 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mips""}"
+hash,4dbff7088053d227edfc749ed48e29d90f9b686fced816f60333257fe93d9b44,MalwareBazaar,2026-09-02 18:08:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm8""}"
+hash,95ca6596a568a7d0c8a2fab1768926662ddb33e0bd100e6aa6ef8bee69ec44ec,MalwareBazaar,2026-09-02 18:08:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.m68k""}"
+hash,48b176789f1fd7e7b9ea7cb0c389e145b59e46fa56b29c2d3b31f5cd7e56e93d,MalwareBazaar,2026-09-02 18:08:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm7""}"
+hash,f3f4cdd0e555489d531a3bc837e0cb26e20db5cdbeabc4e8dcdcfffb32f4fefc,MalwareBazaar,2026-09-02 18:08:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm""}"
+hash,a0764484eb467b367e342ce448f2a15d2be637e907a524ea087a633dd5d599d8,MalwareBazaar,2026-09-02 18:04:01 UTC,"{""signature"": ""Mirai"", ""file_name"": ""android_arm64""}"
+hash,34ba6af3458a2886bb231ab93fca8504a3e2847fc5c27fe0a8227e66b08e56ae,MalwareBazaar,2026-09-02 18:04:00 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86""}"
+hash,2bf3207637c0d85d13e2e6be88085c2c37be84d4759d82fc68efcc63c351a4d2,MalwareBazaar,2026-09-02 18:04:00 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm6""}"
+hash,8794146ebab918bf0da10ccdd843185448ccb83df46a287cc909403ed37c1f8e,MalwareBazaar,2026-09-02 18:03:59 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv7l""}"
+hash,122fd1fe94758812f28836558a77306a3874c5faee1c412a51221d726b0e4671,MalwareBazaar,2026-09-02 18:03:59 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm5""}"
+hash,97db6ed39f50aadb63b56234c66a39458aa9c6aef9cae28a9398a8d3a46b25d7,MalwareBazaar,2026-09-02 18:03:59 UTC,"{""signature"": ""Mirai"", ""file_name"": ""amd64""}"
+hash,974c6888c5bf6cb0c079e40b9231c54237453ed4a4d449e5f1cae16e8b3432b9,MalwareBazaar,2026-09-02 18:03:58 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm64""}"
+hash,729bdc17693cecc71d6c5963523a579e9df07b70206f3d9ef986f470236e9615,MalwareBazaar,2026-09-02 18:03:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""bins.sh""}"
+hash,d39533a34886d6d9c387453f6edaa6a3c950a1b181da1f6e15bfda3b9546b1f6,MalwareBazaar,2026-09-02 18:02:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""nz.mips""}"
+hash,2c8dd9bd42b7a7db6fb53db2377e9b519d8f5fc144a68850b0db0c792ba08dbe,MalwareBazaar,2026-09-02 18:02:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""adbpersist.arm7""}"
+hash,3ef94abf1e178ac49ddcccd474eb883e248237f2854e220de69216fb3d196a13,MalwareBazaar,2026-09-02 18:02:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""nz.mpsl""}"
+hash,0a8bcb2218d7b618bfdc24c1ad80b5af82458341d46a7f215fc1dea0493e9531,MalwareBazaar,2026-09-02 17:59:57 UTC,"{""signature"": ""Mirai"", ""file_name"": ""wget.sh""}"
+hash,6ae1f4606638c32a6f2c728fd17d730100db7dcbe8ffa995d57af8512b8f877f,MalwareBazaar,2026-09-02 17:59:56 UTC,"{""signature"": ""Mirai"", ""file_name"": ""c.sh""}"
+hash,abdc8e3e53c5c9b33da7d0bc1c25ca005802e39c86b88fcf18f4524d76e54c72,MalwareBazaar,2026-09-02 17:59:53 UTC,"{""signature"": ""Mirai"", ""file_name"": ""cache""}"
+hash,4d80e50e552afd5bbf41ab84d845af4f3c341f70cac63e00aa37dbca91d2dd49,MalwareBazaar,2026-09-02 17:59:38 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.arm5""}"
+hash,a69adca11b2ae199c00bd0d3d74535bb5aa3680b7e0de357f3d3c1428fb29aaa,MalwareBazaar,2026-09-02 17:59:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.arm""}"
+hash,cda83543753c272fe863864f34ac08d58683728775e23e012e95c6444330cb27,MalwareBazaar,2026-09-02 17:59:36 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.arm7""}"
+hash,e103ac29edb9ccc98a0e98c70b7de87c88eae785ad02f6749eb8b56847bb138a,MalwareBazaar,2026-09-02 17:59:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.arc""}"
+hash,691a464914194f0afc7524c2b1e4b555c28acbbc8ac8ce7c33d461f3806084ec,MalwareBazaar,2026-09-02 17:59:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.arm6""}"
+hash,2df5084ae76cb1ed6ad44febbc7dee9e3dc77afe4299e4013c9c4a38fc8cac0c,MalwareBazaar,2026-09-02 17:59:31 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.i486""}"
+hash,0de0aa09779fc1dc5339d362dcfc40453a0b8747d52913487088f54b45798af9,MalwareBazaar,2026-09-02 17:59:31 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.i686""}"
+hash,0bbece3dc42199a2cc3db4e7685e5e6078084203e51e9ef6df657038cf79b306,MalwareBazaar,2026-09-02 17:59:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.mips""}"
+hash,af3ef8ab9299f332e26daa23770cd35182fc4df18344121b3987f4ad7f9685da,MalwareBazaar,2026-09-02 17:59:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.m68k""}"
+hash,f76b038b85f69142fe80b5a143b9f491cf0761988056d5b3eb3537b675c2f90f,MalwareBazaar,2026-09-02 17:59:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.ppc""}"
+hash,b689280b4f803b16c44dfec32d1090db70bafb18e35555d118519b79a5b7db4a,MalwareBazaar,2026-09-02 17:59:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.mpsl""}"
+hash,f6436608095cd0d25dde490e6ce7b23c9bad762f278efae6aa0201a9a68b3cba,MalwareBazaar,2026-09-02 17:59:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.x86""}"
+hash,2d25f6667a62114c9baf23023b73ae11e82b970c092db36f8914cc3f0b26e835,MalwareBazaar,2026-09-02 17:59:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.sh4""}"
+hash,824a99f86dfe040a4df41bbc5af8b48070e8926d405d078dca8f54a03de73659,MalwareBazaar,2026-09-02 17:59:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.x86_64""}"
+hash,09710f936607bd3d1a1bc98f2117da196c55f6aed502f956eb0d915e960dacd5,MalwareBazaar,2026-09-02 17:59:22 UTC,"{""signature"": ""Mirai"", ""file_name"": ""MMaaRRiiOisecTanee.spc""}"
+hash,b8cac756683b8059805e527cda9147f0c80f465278c301596162ed6c1b0ce963,MalwareBazaar,2026-09-02 17:57:51 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm7""}"
+hash,85c9f1d57ea3264a32d63a9298eb7d607c1e6eaaa8c4c24f1fd7773c4abb3744,MalwareBazaar,2026-09-02 17:57:49 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.mpsl""}"
+hash,c2bf92ef471032c080477021659ad6b509f19cef2bf79d840813b664b27927ae,MalwareBazaar,2026-09-02 17:57:47 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.mips""}"
+hash,33f791f5f197330165e52d96073f72c51977e50ab004ef8d1eb74d29c986d27c,MalwareBazaar,2026-09-02 17:57:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.ppc""}"
+hash,fa139bd93ac4c771ed6ed4b2986da9a4726400ed92ba4cda2a82ed5b15c101fc,MalwareBazaar,2026-09-02 17:57:42 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm6""}"
+hash,8de7b0e4c2eabdb56f1e773b2b5cb89b7c77ae66d11d94e71823601492404dbc,MalwareBazaar,2026-09-02 17:57:41 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm5""}"
+hash,344f2b618c3afe0ef3890a98d11e09b824501786387423490a9d6b26fa8ff698,MalwareBazaar,2026-09-02 17:57:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm""}"
+hash,375f0f4148216505d1fb46f70a728d058f9845982d0ff5668a36637fabe1d6d4,MalwareBazaar,2026-09-02 17:57:09 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ohshit.sh""}"
+hash,78e6be4b42f91994927633295f95f835596ba9224be5715202b1f88dd4e2b99a,MalwareBazaar,2026-09-02 17:57:04 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.sh4""}"
+hash,c502a9629f7965bd776de4de6edd5e8ca39d4b733e1f9d1e7cbadc7875c3eb6b,MalwareBazaar,2026-09-02 17:57:04 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.m68k""}"
+hash,364a8bba8180110e83d813d40f515cff2c4e60d42cbf01aae78f088746801202,MalwareBazaar,2026-09-02 17:57:03 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm7""}"
+hash,a9b98abe6786827d37a453ec9ce674bd8c3bda12d54bbcbd87f448530d41aa1a,MalwareBazaar,2026-09-02 17:57:03 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.mpsl""}"
+hash,93f12ec8366674bbf31242fc684bb8fa79b5545fa37b655439c1e1c4baeeb942,MalwareBazaar,2026-09-02 17:57:02 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.x86""}"
+hash,64b70e287e2f7745b90e94f5b2fe48ddacfaeaa71b4b4db0168327bac9c461f6,MalwareBazaar,2026-09-02 17:57:02 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.mips""}"
+hash,9dd29d1e317598ff6114c98c01d30d355009ae334ae0c0f937e2954eb0f4b463,MalwareBazaar,2026-09-02 17:57:02 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.ppc""}"
+hash,4b8c3e7964709ed08ce026a532f7cfbab9977c3dd0a00e4b5d510baafb589161,MalwareBazaar,2026-09-02 17:57:01 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm6""}"
+hash,79ea0ecd31200873d67fa12f83023b21c4baba9f655a837c44afb71d29d727fb,MalwareBazaar,2026-09-02 17:57:01 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm5""}"
+hash,089780e0521b94d4507e7e42ab4feacb1e94817daf92bee270d9412b792ac5d6,MalwareBazaar,2026-09-02 17:56:59 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.arm""}"
+hash,454961c200d8d618695e6670eda49771f172b44e66702bdbc07cefd41e026c5a,MalwareBazaar,2026-09-02 17:56:58 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sora.spc""}"
+hash,4d7a22b069c067690b721c63efc9ff9dd56808c4016663706ca2e69eb0b7ef43,MalwareBazaar,2026-09-02 17:53:42 UTC,"{""signature"": ""Mirai"", ""file_name"": ""i686""}"
+hash,30c9608ac7fcec4a73477b5dcf319f838866bfdac0175d18c104b8da01025d29,MalwareBazaar,2026-09-02 17:53:40 UTC,"{""signature"": ""Mirai"", ""file_name"": ""dbg""}"
+hash,a6164bf533ade3230f49611c74680d9d8fdc276ec54e5fb85dcff656f20e6201,MalwareBazaar,2026-09-02 17:53:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""spc""}"
+hash,f88e058fc4346aa5e3268e32d3ce6ffa4f944475b6455ce3c9ace70cee071159,MalwareBazaar,2026-09-02 17:53:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,c27fd566c8e1b0efa48b3f36ca5546f4bac3182f4c6706c39133aef39670868d,MalwareBazaar,2026-09-02 17:51:22 UTC,"{""signature"": ""Mirai"", ""file_name"": ""wget.sh""}"
+hash,f1520d833fd64ebbd66ed00655a4c51de609f4cc55912a8b81e4d0ff247388cd,MalwareBazaar,2026-09-02 17:47:28 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86_64""}"
+hash,046931a758f583cda28f5d0ab99e264af776d070486541ce063401dda4524584,MalwareBazaar,2026-09-02 17:47:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mipsel""}"
+hash,3a90ea3486caa01761d90a335e3ad0e62f507550471d1893d7107c16951d3160,MalwareBazaar,2026-09-02 17:47:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,34f8ea48f1404199b7444b4b8feadb77a87513c840ce64aa4cba36f844acd701,MalwareBazaar,2026-09-02 17:46:39 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86""}"
+hash,a4c9f3a81eaced11ce42f093fb2fce7638bbd2cd0c183e44f258c55650524d5a,MalwareBazaar,2026-09-02 17:46:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""s390x""}"
+hash,e31f2a0091d83188f30951252e548e7d555f23bad9807a94c6d85594c2bf2dad,MalwareBazaar,2026-09-02 17:46:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ppc64""}"
+hash,90f6d7ca30a617d97012174b52e6a6ee31becd10b168fd46dd27c8f3cd80e556,MalwareBazaar,2026-09-02 17:46:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86_64""}"
+hash,28fa4489e716e5c7928271d86ce8d20593f90c44d6ceac01b16f1edbcaf89a36,MalwareBazaar,2026-09-02 17:46:34 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mipsel""}"
+hash,ff4fd3e50ef09e350e3b232da1ff54d8c676ed72ddf34d53cd65f4b9296fe866,MalwareBazaar,2026-09-02 17:46:34 UTC,"{""signature"": ""Mirai"", ""file_name"": ""riscv64""}"
+hash,9350346cc044ab46f009e288fadbe1c7ac32f0c5cc56be0cf418acca768bb59a,MalwareBazaar,2026-09-02 17:46:34 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ppc""}"
+hash,9a69962df2b20e0686144c308a62a2a7b017e5e144e14a3b51b90751e242ced1,MalwareBazaar,2026-09-02 17:46:33 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips64""}"
+hash,0d639f3022035a5da5081074b2f19f1d6bac7b16a73bffa691c59fb0440c15c8,MalwareBazaar,2026-09-02 17:46:33 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,afb1d872ed8cbac8b6f752f9847b0ea105543dfb85b8c9be5f2d1c956b92afd1,MalwareBazaar,2026-09-02 17:46:33 UTC,"{""signature"": ""Mirai"", ""file_name"": ""m68k""}"
+hash,605becae45ee269e3e09f7b666b076f37b899003161d6f14a0b5ee0b5f99a99d,MalwareBazaar,2026-09-02 17:46:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm""}"
+hash,c64ec9e4a79ec153769a661f0079bb40afb6296aee4c5da3eb72844e151c48b7,MalwareBazaar,2026-09-02 17:46:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""arm7""}"
+hash,117f9a47f04cbcd20e669753fbe0742520c1a215b527dc6104f4763f71a93319,MalwareBazaar,2026-09-02 17:40:53 UTC,"{""signature"": ""Vidar"", ""file_name"": ""117f9a47f04cbcd20e669753fbe0742520c1a215b527dc6104f4763f71a93319.bin""}"
+hash,54f357085654328bd580509c209789143d7ecd360e706cfab00e40071de6c3f5,MalwareBazaar,2026-09-02 17:40:51 UTC,"{""signature"": ""Vidar"", ""file_name"": ""54f357085654328bd580509c209789143d7ecd360e706cfab00e40071de6c3f5.bin""}"
+hash,a415b68903698f63cc942a73d415993dee8c21992adb4b838a393b9f6a77cd93,MalwareBazaar,2026-09-02 17:40:46 UTC,"{""signature"": ""Vidar"", ""file_name"": ""a415b68903698f63cc942a73d415993dee8c21992adb4b838a393b9f6a77cd93.bin""}"
+hash,7581f94ed30a78b108deaed16847e564da7633d7e186a17c43fa265b5f6f04c9,MalwareBazaar,2026-09-02 17:40:43 UTC,"{""signature"": ""Vidar"", ""file_name"": ""7581f94ed30a78b108deaed16847e564da7633d7e186a17c43fa265b5f6f04c9.bin""}"
+hash,fcae3cb0b004cbf82e2e8c8a3a3eebceaba5284cece60b3dd08acf64afdf0987,MalwareBazaar,2026-09-02 17:12:37 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86""}"
+hash,72c024758a35475241b0ea5649b646c70dbaf0de42b1192b5f5c7cf9f12d17d3,MalwareBazaar,2026-09-02 17:12:35 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc64""}"
+hash,3214e3fbeac7dcaf539960268b51b84e3b12ba25cb7d47cd9b483b61382718e5,MalwareBazaar,2026-09-02 17:12:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86_64""}"
+hash,0e95004841dabc2111097f5845e66a2f09aa3e9e79f16c5b6dff08e9912c4266,MalwareBazaar,2026-09-02 17:12:30 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mips""}"
+hash,2f05bde28bfade565ce457a9242fd156a0b90f111a854d86a89349df0722920c,MalwareBazaar,2026-09-02 17:12:27 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mipsel""}"
+hash,e03b252083637d22860636b2fd15878490d98ddaf614812f4589d94be45ac52a,MalwareBazaar,2026-09-02 17:12:25 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc""}"
+hash,1fbec4a4146cf379499986230d4a93ff71349b08c9e1829a33636d33d195fa10,MalwareBazaar,2026-09-02 17:12:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm7""}"
+hash,4efbcd4de5c82624f29a244c7281b13f4320e56aedf4a54f4807e98bfca8b978,MalwareBazaar,2026-09-02 17:12:20 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm8""}"
+hash,af3c0a6dfd4cd9cd7c04c37aaa88d6223e08a8afd6c99284c30356c1171e3369,MalwareBazaar,2026-09-02 17:12:17 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm""}"
+hash,6f6fdd0bb12ebe8a3d3471a99d4fde2f94222dfbf2c66416e55ae8646310b7de,MalwareBazaar,2026-09-02 17:11:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86""}"
+hash,eb56b26a4b55e6d0d7405e052861bdbdafa36ada2b73ccbb1f32fe0ff6c8197f,MalwareBazaar,2026-09-02 17:11:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc64""}"
+hash,cf3a2657c94d50d00f96dd8d864690f68a027188e76207c263134f8e7460da00,MalwareBazaar,2026-09-02 17:11:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.x86_64""}"
+hash,6a156187e79ee55d5dc79b5403602c9812dc9577afb3223994166ea804b6ca27,MalwareBazaar,2026-09-02 17:11:26 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mips""}"
+hash,c9ccc5a26c2226dc4ff595af21db15018d6cb02f663df845ca3a498e6346e1e8,MalwareBazaar,2026-09-02 17:11:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.mipsel""}"
+hash,482cc1cfc4b817c414777283ca77d31e7c4f7eed6ba8e6772aab602134a5d4b3,MalwareBazaar,2026-09-02 17:11:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.ppc""}"
+hash,29d80f1c5ad6c643b9cd7ced479e5b581326c5e60e7a2a457de4287eebdd8aa4,MalwareBazaar,2026-09-02 17:11:24 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.m68k""}"
+hash,49b4866d6a9cbf918d5e9608e22fc5e3adf38f9d4767df65100285a5edd957bd,MalwareBazaar,2026-09-02 17:11:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm7""}"
+hash,e9d152da4fb7066979efc4e832d36383ddafff1112546a54ddcef51313076f54,MalwareBazaar,2026-09-02 17:11:23 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm8""}"
+hash,96384b2d9d0f1bc413ebf494ee50ff9de981e36384fb14af4731c67edddb0809,MalwareBazaar,2026-09-02 17:11:22 UTC,"{""signature"": ""Mirai"", ""file_name"": ""flutter.arm""}"
+hash,d4b8ac9cb8ff14afe906cfe610a026fb299b044119233885d6ee800b1b301332,MalwareBazaar,2026-09-02 16:38:33 UTC,"{""signature"": ""Gafgyt"", ""file_name"": ""vegeta888""}"
+hash,85fd36bbf0dad6c49045b6c96d1ea2c7f0007659b22405d0416265acd0e1fc10,MalwareBazaar,2026-09-02 16:38:31 UTC,"{""signature"": ""Mirai"", ""file_name"": ""vegeta777""}"
+hash,a7879fa112b4b5cf2a19b226e37b60df5e65ddf29ad2597b50164d0e292d7753,MalwareBazaar,2026-09-02 16:31:03 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""bolts""}"
+hash,ecb767b39fd44b5a1d469ef8dd0f5ae4184b517c9a582ad07ba0e10105d21a33,MalwareBazaar,2026-09-02 16:25:47 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,80a855cd0a2a5c9f04cf067f451981aff6cea3f3cc3e3a5377e183fa9d4b73c6,MalwareBazaar,2026-09-02 16:25:46 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv6l""}"
+hash,2d98b52d5a7415acdddb848542e4f96cd0c7952bf6e6ee2b0d39f5a120236d57,MalwareBazaar,2026-09-02 16:23:50 UTC,"{""signature"": ""Vidar"", ""file_name"": ""2d98b52d5a7415acdddb848542e4f96cd0c7952bf6e6ee2b0d39f5a120236d57.bin""}"
+hash,6e0be4286b64a2550897b08ea8ba6a219391e02d1d70c199eaf1f5d08dfc3823,MalwareBazaar,2026-09-02 16:23:48 UTC,"{""signature"": ""Vidar"", ""file_name"": ""6e0be4286b64a2550897b08ea8ba6a219391e02d1d70c199eaf1f5d08dfc3823.bin""}"
+hash,881ed53187b35c148a2d0af484acb8ef7f69c7c93df2c6676764a085c255a9cb,MalwareBazaar,2026-09-02 16:17:32 UTC,"{""signature"": ""Mirai"", ""file_name"": ""m68k""}"
+hash,64f38eb83535d5a8af3060091f0f42e70e3dd2899496600fb53ae58df63faf63,MalwareBazaar,2026-09-02 16:04:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv7l""}"
+hash,a24b38a0156e3a08186382f80332f203c25312d1a45002392d8fc7afc759c44b,MalwareBazaar,2026-09-02 16:04:44 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""task.js""}"
+hash,cda5d00fa17f8bb45f183954128dca4adbc8d6f3f8f0765e70f4e1f771d297e5,MalwareBazaar,2026-09-02 16:04:40 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""task.vbs""}"
+hash,79eaae1564c6c7cd8a7dd779e124225c9bbeed4b34a59ce8441531231a936748,MalwareBazaar,2026-09-02 16:03:25 UTC,"{""signature"": ""Vidar"", ""file_name"": ""3aa39c83e94b66d7437bcba4f9c38f9f7131937d4f3e2d0f1e89a3fa84d21ace.exe""}"
+hash,3aa39c83e94b66d7437bcba4f9c38f9f7131937d4f3e2d0f1e89a3fa84d21ace,MalwareBazaar,2026-09-02 16:02:25 UTC,"{""signature"": ""Vidar"", ""file_name"": ""3aa39c83e94b66d7437bcba4f9c38f9f7131937d4f3e2d0f1e89a3fa84d21ace.exe""}"
+hash,975fd3d1c84a8e20cd67066a7fb27cc6ce3b301a89ead5bd6850f39b4dee804e,MalwareBazaar,2026-09-02 16:01:36 UTC,"{""signature"": ""Vidar"", ""file_name"": ""file.exe""}"
+hash,17669a9a117ab8bfc130cbfd61a12918a1d67c5183ecd2fdb534bb2a934e2d8f,MalwareBazaar,2026-09-02 16:01:16 UTC,"{""signature"": ""Mirai"", ""file_name"": ""x86""}"
+hash,a06640a646e810a679fb059e288e8083912022147209ab83d345c06ad72e5633,MalwareBazaar,2026-09-02 16:01:06 UTC,"{""signature"": ""Vidar"", ""file_name"": ""file.exe""}"
+hash,3e4edea73034a6c38930330413d745cddc0c4c0bf206cb259bc4a827fd13d6d3,MalwareBazaar,2026-09-02 15:55:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips""}"
+hash,ec7b0a91e2e616e4d3be5c4d43f8df09a391b2d8311bcc953b54581e0a5a6328,MalwareBazaar,2026-09-02 15:54:04 UTC,"{""signature"": ""LummaStealer"", ""file_name"": ""file""}"
+hash,bb6ef1b031e6b4025fa9e19889bd02f49dada6854daf8124d2e18a68c940524f,MalwareBazaar,2026-09-02 15:53:49 UTC,"{""signature"": ""Mirai"", ""file_name"": ""xtensa""}"
+hash,f1b1b4d3466c1b3662348f0289808928ed000ea684b94811a4d870eba9be35a2,MalwareBazaar,2026-09-02 15:49:48 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips64l""}"
+hash,ce4fc73dd266d2e4c3cb6639ee0fb8eb19c69a9b7651f7084551b7ec672dca43,MalwareBazaar,2026-09-02 15:46:00 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mpsl""}"
+hash,070bad5936b40252880733ec4d89c4b73c628d26a717c165fecff0ba52422d42,MalwareBazaar,2026-09-02 15:43:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mpsl""}"
+hash,afca9e94ffa167267fb6f4f71fe7dbc207db89130a35a03bbd1f2aba33313c51,MalwareBazaar,2026-09-02 15:41:55 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv5l""}"
+hash,255c60e601b638d0a836c44fdadcf86544cc06ab0cd96f0bfd8d35ec9665524e,MalwareBazaar,2026-09-02 15:33:53 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sh4""}"
+hash,2fc932f4bbb7bfdf0546bc0e402c5421d7a095cf3f486a036311e4a0fedc316a,MalwareBazaar,2026-09-02 15:23:52 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv6l""}"
+hash,65cf31941a05855d1851119a723646416f9758c7fe082794dc4ce2df574fc5ac,MalwareBazaar,2026-09-02 15:07:56 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.armv4l""}"
+hash,cfc70f71f93ee72df74094ac63e5bb3c58755385b49ac4d0c2dafec2242a0a1c,MalwareBazaar,2026-09-02 15:07:51 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.armv5l""}"
+hash,bdaa634ebad60a75af6ed1cdddb3d12fc8868e0134fcc156ac0aab49515fa61a,MalwareBazaar,2026-09-02 15:07:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.armv6l""}"
+hash,47aa1deefb5e33aaa6ae4fb6bd8fcdb5001cd315ce2cd02066b0d9b42a0ff783,MalwareBazaar,2026-09-02 15:07:34 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.i486""}"
+hash,ea1d9b212d0d927c4bea7574efcccb9d66c8be2f486195737832c772bdc00683,MalwareBazaar,2026-09-02 15:07:20 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.i586""}"
+hash,c33331e2c633f82a82ce361ad03d9359c65e28e3558ede874dd3af51b70dee6c,MalwareBazaar,2026-09-02 15:07:14 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.mips""}"
+hash,6267ee46b5da6945fe3cd9dd437eb7a3148c82ce60bd0e2279ae941c881ef94c,MalwareBazaar,2026-09-02 15:07:07 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.powerpc""}"
+hash,d43517a92262346c9dc239c52e52997eeb4dcb6c7deb0e276a9ee38c404f060a,MalwareBazaar,2026-09-02 15:07:00 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.x86_64""}"
+hash,527488ab6204d72b2c1e66e19d77fd801c0284393912b64cbda8962f4aa3af90,MalwareBazaar,2026-09-02 15:06:51 UTC,"{""signature"": ""Mirai"", ""file_name"": ""AGbot.i686""}"
+hash,49d4a70c9c4219089072013665c99b8d726035bab72b66f5a0ca0ae873ea51ed,MalwareBazaar,2026-09-02 15:02:02 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv5l""}"
+hash,0d1c407e12fa6826d6dc2f87fd4628d075e568bb129c53b48f56adc6f9bc6374,MalwareBazaar,2026-09-02 14:57:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""ppc""}"
+hash,c3283f3fe72158227ae7a4e489194f33e46fc87b0983e0f93f4126e7854c7aaf,MalwareBazaar,2026-09-02 14:55:41 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips64b""}"
+hash,a26b16a67433b6bdb655390b6255dac82d57b0749555db1ede1d140368884ce9,MalwareBazaar,2026-09-02 14:53:45 UTC,"{""signature"": ""Mirai"", ""file_name"": ""m68k""}"
+hash,30b05a4e947962577c57a1d0cdceeb7c9fe0090b8ba6f733a9c410292d803689,MalwareBazaar,2026-09-02 14:51:57 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mips64""}"
+hash,04c2ff00f53296810d86e43c6564f22ceed8a00c5b8059ebe7ac621b83b15623,MalwareBazaar,2026-09-02 14:48:12 UTC,"{""signature"": ""Mirai"", ""file_name"": ""armv7l""}"
+hash,e020141bd79e4247118f722aee28ab1d2085e08dae81759febfa878327630812,MalwareBazaar,2026-09-02 14:35:09 UTC,"{""signature"": ""XenoRAT"", ""file_name"": ""023296B811560566C32CA1F2F267B1A8.exe""}"
+hash,071c66484ae758686ada6db2ee7d2d646c252c8fd9d99fafac1f8f9e758ce588,MalwareBazaar,2026-09-02 14:31:00 UTC,"{""signature"": ""Vidar"", ""file_name"": ""file""}"
+hash,c1d8e2829ea63b9dc1cf2c3421a5093406adad4d6622e238376e78e908e0e6e8,MalwareBazaar,2026-09-02 14:04:16 UTC,"{""signature"": ""Mirai"", ""file_name"": ""i686""}"
+hash,e6e113783356446aef66e5296db45b244f318292af7cebc2a9bd76f095a95c4c,MalwareBazaar,2026-09-02 14:04:15 UTC,"{""signature"": ""Mirai"", ""file_name"": ""i586""}"
+hash,f1e107c3ca7d7bc1b8e8b70ebfc1c65f44e2aeed4440008deb5af7ed84d8ce03,MalwareBazaar,2026-09-02 14:04:14 UTC,"{""signature"": ""Mirai"", ""file_name"": ""mass""}"
+hash,512cad03d60dcfd9484cfc331da2650b3d5cb2a9870f8948f314bc29ba952d44,MalwareBazaar,2026-09-02 14:02:31 UTC,"{""signature"": ""Vidar"", ""file_name"": ""512cad03d60dcfd9484cfc331da2650b3d5cb2a9870f8948f314bc29ba952d44.bin""}"
+hash,af5369e04fe3d156599ccb251bc3ae59411d8e1ac6b8ce8bf8aec67add67999e,MalwareBazaar,2026-09-02 14:02:28 UTC,"{""signature"": ""Vidar"", ""file_name"": ""af5369e04fe3d156599ccb251bc3ae59411d8e1ac6b8ce8bf8aec67add67999e.bin""}"
+hash,cf251975d50c2f0bda67c6e6bed41a0c5423928118385869f8a0d5388663ca40,MalwareBazaar,2026-09-02 13:53:40 UTC,"{""signature"": ""Mirai"", ""file_name"": ""sparc""}"
+hash,84086fcf6f9dd77c34bcfc2c7f4077336a29fdf6c6ad7200025f24f24362faff,MalwareBazaar,2026-09-02 13:52:18 UTC,"{""signature"": ""Mirai"", ""file_name"": ""84086fcf6f9dd77c34bcfc2c7f4077336a29fdf6c6ad7200025f24f24362faff.elf""}"
+hash,a4205dadfe0537be4e1ecd8440aa32dfea0d4fdbcff17e08fc36b8ad1f189fcd,MalwareBazaar,2026-09-02 13:43:44 UTC,"{""signature"": ""RustyStealer"", ""file_name"": ""file""}"
+hash,444c8577b447fdb15671f8a8eb5b9f9f925f8b91876d87e4596bf5d297f7c293,MalwareBazaar,2026-09-02 13:42:24 UTC,"{""signature"": ""CoinMiner"", ""file_name"": ""444c8577b447fdb15671f8a8eb5b9f9f925f8b91876d87e4596bf5d297f7c293.exe""}"
+hash,f41ff860abd5c8d4c742f063542b9014c53a9f926dedb130ce3b74cb2e0ffc21,MalwareBazaar,2026-09-02 13:34:00 UTC,"{""signature"": ""WSHRAT"", ""file_name"": ""ORDER-26902-36548.PDF.vbs""}"
+hash,ff1c4a02c1ca3679158bee4817e60d469f206a3ab09b29bd7658efed181b1ded,MalwareBazaar,2026-09-02 13:13:26 UTC,"{""signature"": ""RemcosRAT"", ""file_name"": ""ZAPYTANIE_OFERTOWE_42000061_POWER_STEEL.JS""}"
+hash,6f73f5d8d8e7843414f4af4d1325841cf07dd769e9661462df3368083819a975,MalwareBazaar,2026-09-02 13:02:06 UTC,"{""signature"": ""Phorpiex"", ""file_name"": ""file""}"
+hash,e75f90aba387b5eef8747b15fb4ae0c077e228a8d6352cea99d38ff07241d556,MalwareBazaar,2026-09-02 12:57:18 UTC,"{""signature"": ""Vidar"", ""file_name"": ""e75f90aba387b5eef8747b15fb4ae0c077e228a8d6352cea99d38ff07241d556.bin""}"
+hash,8060a9a0a7322f64f04eee5de6aefec36ce85d3dd053f9068f934b86db5c214c,MalwareBazaar,2026-09-02 12:57:10 UTC,"{""signature"": ""Vidar"", ""file_name"": ""8060a9a0a7322f64f04eee5de6aefec36ce85d3dd053f9068f934b86db5c214c.bin""}"
+hash,dd636eb84556eddabf60c647fe520e26c639515f1de521cb975b73d4192af5a5,MalwareBazaar,2026-09-02 12:57:02 UTC,"{""signature"": ""Vidar"", ""file_name"": ""dd636eb84556eddabf60c647fe520e26c639515f1de521cb975b73d4192af5a5.bin""}"
+hash,f07608ecce2b4636b873f794c119270815770a977ac92ca7e3ca1645b585889d,MalwareBazaar,2026-09-02 12:56:54 UTC,"{""signature"": ""Vidar"", ""file_name"": ""f07608ecce2b4636b873f794c119270815770a977ac92ca7e3ca1645b585889d.bin""}"
+hash,153541a23b1f938e3a3ef7a69a58dcf8f44ad6b367e77dd14aacfc2ad6237a89,MalwareBazaar,2026-09-02 12:56:45 UTC,"{""signature"": ""Vidar"", ""file_name"": ""153541a23b1f938e3a3ef7a69a58dcf8f44ad6b367e77dd14aacfc2ad6237a89.bin""}"
+hash,b5037ada86ea040c2637dda3652299af9d5fc583b0db9fd7acd28b1590bca681,MalwareBazaar,2026-09-02 12:56:36 UTC,"{""signature"": ""Vidar"", ""file_name"": ""b5037ada86ea040c2637dda3652299af9d5fc583b0db9fd7acd28b1590bca681.bin""}"
+hash,33c7f0cdcafd94b6edb5cdb529c3cac89186ecc73e2ef03344be3abdc5af6eac,MalwareBazaar,2026-09-02 12:56:29 UTC,"{""signature"": ""Vidar"", ""file_name"": ""33c7f0cdcafd94b6edb5cdb529c3cac89186ecc73e2ef03344be3abdc5af6eac.bin""}"
+hash,ac02ca9999601566b5b154e0fdbc19bb8676cffb132bfd2a37a4a704cf47d963,MalwareBazaar,2026-09-02 12:56:21 UTC,"{""signature"": ""Vidar"", ""file_name"": ""ac02ca9999601566b5b154e0fdbc19bb8676cffb132bfd2a37a4a704cf47d963.bin""}"
+hash,267c97282ba9ccdf873889164153aac1bdcdd89da448b9302c2ce2ec6908090e,MalwareBazaar,2026-09-02 12:56:15 UTC,"{""signature"": ""Vidar"", ""file_name"": ""267c97282ba9ccdf873889164153aac1bdcdd89da448b9302c2ce2ec6908090e.bin""}"
+url,http://www.apple-fruit.xyz/,OpenPhish,2026-09-04T12:36:50.885605,{}
+url,https://kxlrq170nhw-fghzdfyn-3y8x0g-wp611a.pages.dev/welcome_aboard?welcome=1004568689256840&token248=1004568689256840&name_token136=FoodieLand%20-%20Portland,OpenPhish,2026-09-04T12:36:50.885613,{}
+url,https://sso-trezor-com-start-x-auth.typedream.app/en-us,OpenPhish,2026-09-04T12:36:50.885615,{}
+url,http://www.mart-homebd.com/,OpenPhish,2026-09-04T12:36:50.885616,{}
+url,https://www.roblox.ly/games/8737602449/PLS-DONATE?privateServerLinkCode=49536050381234738964619792612634,OpenPhish,2026-09-04T12:36:50.885617,{}
+url,https://newgenerationlandscapesltd.com/taxs,OpenPhish,2026-09-04T12:36:50.885618,{}
+url,http://bruceleephilosophy.com/texts/,OpenPhish,2026-09-04T12:36:50.885619,{}
+url,https://hedsdc.nnhwm.com/?Kq6mLAI,OpenPhish,2026-09-04T12:36:50.885620,{}
+url,https://mgpxq.com/ggCcQZ,OpenPhish,2026-09-04T12:36:50.885621,{}
+url,http://www.layanan-shopee33.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885622,{}
+url,https://www.sendusdtbsc.vercel.app/,OpenPhish,2026-09-04T12:36:50.885622,{}
+url,http://www.facebook-trial.vercel.app/,OpenPhish,2026-09-04T12:36:50.885623,{}
+url,https://notifications.microsoft-ssl.com/,OpenPhish,2026-09-04T12:36:50.885624,{}
+url,https://uniswap-interface.vercel.app/,OpenPhish,2026-09-04T12:36:50.885625,{}
+url,https://www.uniswap-interface.vercel.app/,OpenPhish,2026-09-04T12:36:50.885626,{}
+url,https://www.trust-wallet-liart.vercel.app/,OpenPhish,2026-09-04T12:36:50.885627,{}
+url,http://waltester-official-program.vercel.app/,OpenPhish,2026-09-04T12:36:50.885628,{}
+url,https://garam168.com/,OpenPhish,2026-09-04T12:36:50.885628,{}
+url,https://easybank-landing-page-six-phi.vercel.app/,OpenPhish,2026-09-04T12:36:50.885629,{}
+url,https://www.easybank-landing-page-six-phi.vercel.app/,OpenPhish,2026-09-04T12:36:50.885630,{}
+url,https://www.amatteroflaw.com.au/know/index.html.html,OpenPhish,2026-09-04T12:36:50.885631,{}
+url,https://copyright-infringement-review-support.netlify.app/1653629651334864,OpenPhish,2026-09-04T12:36:50.885632,{}
+url,https://goo.su/IvMWQ,OpenPhish,2026-09-04T12:36:50.885633,{}
+url,http://sp23ct-ravel-biz-kunor-melix.pages.dev/,OpenPhish,2026-09-04T12:36:50.885634,{}
+url,http://mentaclean.com/wp-content/plugins/nmsicdi/boalink.html,OpenPhish,2026-09-04T12:36:50.885635,{}
+url,http://hse-ire.com/,OpenPhish,2026-09-04T12:36:50.885636,{}
+url,https://www.spotify-clone-psi-two.vercel.app/,OpenPhish,2026-09-04T12:36:50.885637,{}
+url,https://enjoyhiltonhead.com/wp-includes/Text/hxsvmpt/nveakdw/qmiprfh/boavmo.html,OpenPhish,2026-09-04T12:36:50.885638,{}
+url,https://s4w.in/roblox-com-users-40437314312275-profile,OpenPhish,2026-09-04T12:36:50.885639,{}
+url,https://www.roblox.com.ml/users/404373312275/profile,OpenPhish,2026-09-04T12:36:50.885640,{}
+url,https://www.undian-shopee553.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885641,{}
+url,https://alawifns2026terma.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885642,{}
+url,http://www.alawifns2026terma.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885643,{}
+url,http://sendusdtbsc.vercel.app/,OpenPhish,2026-09-04T12:36:50.885644,{}
+url,http://jfhdgsbfvkjhbghn-dpgmzktm6lx5.edgeone.dev/,OpenPhish,2026-09-04T12:36:50.885645,{}
+url,http://uniparkpay.shop/,OpenPhish,2026-09-04T12:36:50.885646,{}
+url,https://id51395813.cfd/277403064,OpenPhish,2026-09-04T12:36:50.885647,{}
+url,https://id51395813.cfd/200032788,OpenPhish,2026-09-04T12:36:50.885648,{}
+url,https://netflix-clone-tau-orpin-83.vercel.app/,OpenPhish,2026-09-04T12:36:50.885649,{}
+url,https://www.netflix-clone-tau-orpin-83.vercel.app/,OpenPhish,2026-09-04T12:36:50.885650,{}
+url,http://www.v884.cc/,OpenPhish,2026-09-04T12:36:50.885651,{}
+url,http://identcivfy.top/,OpenPhish,2026-09-04T12:36:50.885652,{}
+url,https://www.discordclone-smoky.vercel.app/,OpenPhish,2026-09-04T12:36:50.885653,{}
+url,https://goo.su/ykRQA,OpenPhish,2026-09-04T12:36:50.885653,{}
+url,http://www.roblox.ly/users/9711617243/profile/,OpenPhish,2026-09-04T12:36:50.885654,{}
+url,https://www.shopee-848.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885655,{}
+url,http://www.hadiahshopee3434.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885656,{}
+url,https://vodafone-on-line.it/lonato-cc-il-leone-shopping-center,OpenPhish,2026-09-04T12:36:50.885657,{}
+url,https://lonato-cc-il-leone-shopping-center.vodafone-on-line.it/,OpenPhish,2026-09-04T12:36:50.885658,{}
+url,https://www.interbank.protected-request.com/,OpenPhish,2026-09-04T12:36:50.885659,{}
+url,http://www.phantom-phi.vercel.app/,OpenPhish,2026-09-04T12:36:50.885659,{}
+url,https://formidable-ivory-hy7ukyrb.edgeone.dev/,OpenPhish,2026-09-04T12:36:50.885660,{}
+url,http://www.shopee-id127.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885661,{}
+url,http://www.roblox.com.mu/communities/4467290837/Arts-Designers/,OpenPhish,2026-09-04T12:36:50.885662,{}
+url,http://pemenang-shopee4.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885663,{}
+url,http://sp22ct-tavur-biz-pemi-loku-a9z.pages.dev/,OpenPhish,2026-09-04T12:36:50.885664,{}
+url,http://sp23ct-lunav-biz-kerol-zavim.pages.dev/,OpenPhish,2026-09-04T12:36:50.885665,{}
+url,http://www.hadiahshopee63.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885666,{}
+url,https://www.roblox.com.am/users/171429286053/profile,OpenPhish,2026-09-04T12:36:50.885667,{}
+url,https://pemenang-shopee96.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885668,{}
+url,https://www.pemenang-shopee96.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885669,{}
+url,http://zmb73-97owi-hwn64-669hwn-1v7t9g-tdr52-58p.pages.dev/,OpenPhish,2026-09-04T12:36:50.885670,{}
+url,https://proxy-test-001.pages.dev/en-us/my-support,OpenPhish,2026-09-04T12:36:50.885671,{}
+url,https://proxy-test-001.pages.dev/iphone,OpenPhish,2026-09-04T12:36:50.885672,{}
+url,https://proxy-test-001.pages.dev/repair-products,OpenPhish,2026-09-04T12:36:50.885673,{}
+url,https://proxy-test-001.pages.dev/en-us/docs,OpenPhish,2026-09-04T12:36:50.885674,{}
+url,https://proxy-test-001.pages.dev/apple-vision-pro,OpenPhish,2026-09-04T12:36:50.885675,{}
+url,https://proxy-test-001.pages.dev/choose-country-region,OpenPhish,2026-09-04T12:36:50.885676,{}
+url,https://proxy-test-001.pages.dev/iphone-14-plus-service-program-for-rear-camera-issue,OpenPhish,2026-09-04T12:36:50.885677,{}
+url,https://proxy-test-001.pages.dev/en-us/120933,OpenPhish,2026-09-04T12:36:50.885678,{}
+url,https://135461223.site/sv/2014/45468a99-2889-433a-a486-763e3a3049e7/755770,OpenPhish,2026-09-04T12:36:50.885679,{}
+url,https://hadiahshopee63.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885680,{}
+url,https://135461223.site/sv/2014/45468a99-2889-433a-a486-763e3a3049e7/755770/x,OpenPhish,2026-09-04T12:36:50.885681,{}
+url,https://135461223.site/2014/45468a99-2889-433a-a486-763e3a3049e7/755770,OpenPhish,2026-09-04T12:36:50.885682,{}
+url,https://webmail-eastlink-cai.weebly.com/,OpenPhish,2026-09-04T12:36:50.885683,{}
+url,http://www.webmail-eastlink-cai.weebly.com/,OpenPhish,2026-09-04T12:36:50.885684,{}
+url,http://www.whatapp.speak-whatapp.com.cn/,OpenPhish,2026-09-04T12:36:50.885685,{}
+url,https://www.uspssmartpackagelockers.com/package-recipients,OpenPhish,2026-09-04T12:36:50.885686,{}
+url,https://smartparcellocker.tech/package-recipients,OpenPhish,2026-09-04T12:36:50.885687,{}
+url,https://easybank-landing-page-fm.vercel.app/,OpenPhish,2026-09-04T12:36:50.885688,{}
+url,https://www.easybank-landing-page-fm.vercel.app/,OpenPhish,2026-09-04T12:36:50.885690,{}
+url,https://infolayanan-shopee47.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885691,{}
+url,http://www.infolayanan-shopee47.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885693,{}
+url,https://wingrace.co.jp/images/avifbdl/qycedlv/alkpzyg/inte.html?eta=elar1@93d0d087fb3774b3ad3518767e3c4e5a28ed.com,OpenPhish,2026-09-04T12:36:50.885694,{}
+url,http://m93g57n8y-dpi68p6e0a00.edgeone.dev/,OpenPhish,2026-09-04T12:36:50.885695,{}
+url,https://home-ndax-docx.zapier.app/,OpenPhish,2026-09-04T12:36:50.885696,{}
+url,https://www.3656vip4.cc/,OpenPhish,2026-09-04T12:36:50.885697,{}
+url,http://facebookprofilelinks.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885699,{}
+url,https://sp30ct-nemix-biz-zulor-kadex.pages.dev/,OpenPhish,2026-09-04T12:36:50.885700,{}
+url,https://anjalimaurya27.github.io/Amazon-Clone,OpenPhish,2026-09-04T12:36:50.885700,{}
+url,https://vmi3544099.contaboserver.net/fix/sen/rena/card.php,OpenPhish,2026-09-04T12:36:50.885701,{}
+url,https://spotify-anniversary30th.com/,OpenPhish,2026-09-04T12:36:50.885702,{}
+url,http://p46y.top/,OpenPhish,2026-09-04T12:36:50.885703,{}
+url,https://free-5555167.webadorsite.com/,OpenPhish,2026-09-04T12:36:50.885704,{}
+url,https://www.free-5555167.webadorsite.com/,OpenPhish,2026-09-04T12:36:50.885705,{}
+url,https://erscstattungih85.site/success-login/neues26a2sui55ss/aos566a2cd5a477w85a63c22a45.php?ID-connect?q=df&ehome&j-oin-us.x=75619cf85936cdc11c0d8028f776e55c75619cf85936cdc11c0d8028f776e55c,OpenPhish,2026-09-04T12:36:50.885706,{}
+url,https://msgg-serves.surge.sh/,OpenPhish,2026-09-04T12:36:50.885707,{}
+url,https://www.msgg-serves.surge.sh/,OpenPhish,2026-09-04T12:36:50.885707,{}
+url,https://www.bet73099.com/,OpenPhish,2026-09-04T12:36:50.885708,{}
+url,https://finaznauto.es/Fctura/SmcltFctra/,OpenPhish,2026-09-04T12:36:50.885709,{}
+url,https://www.mobile-xfinity.vercel.app/,OpenPhish,2026-09-04T12:36:50.885710,{}
+url,http://xfinitis.weebly.com/,OpenPhish,2026-09-04T12:36:50.885711,{}
+url,https://s4w.in/www-roblox-com-users-2720722367831-profile,OpenPhish,2026-09-04T12:36:50.885712,{}
+url,https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z840a3aaf1230191bab0f0a14_f1028cc22c2d12d8d_d20260819_m141437_c005_v0501036_t0044_u01787148877538,OpenPhish,2026-09-04T12:36:50.885713,{}
+url,http://xcomcasttt.weebly.com/,OpenPhish,2026-09-04T12:36:50.885714,{}
+url,https://ivvvaaannaaalaaawiiiiifamilly.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885715,{}
+url,http://www.ivvvaaannaaalaaawiiiiifamilly.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885716,{}
+url,http://www.whatsapp-iamsuyash.vercel.app/,OpenPhish,2026-09-04T12:36:50.885718,{}
+url,http://zoomin-a0x.pages.dev/,OpenPhish,2026-09-04T12:36:50.885719,{}
+url,https://obw3sixfive.cc/revali/click.html,OpenPhish,2026-09-04T12:36:50.885720,{}
+url,http://j172a.vip/,OpenPhish,2026-09-04T12:36:50.885721,{}
+url,https://www.roblox.com.gr/users/461139408704/profile,OpenPhish,2026-09-04T12:36:50.885722,{}
+url,https://ocbdc.com/herre/ive24meet/,OpenPhish,2026-09-04T12:36:50.885723,{}
+url,https://25fthr77.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885725,{}
+url,http://www.25fthr77.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885726,{}
+url,http://www.aaofrx1mfv-76a5a3a10d.vercel.app/,OpenPhish,2026-09-04T12:36:50.885727,{}
+url,https://u.to/roblox-com-users-726462984-profile/9qSsIg,OpenPhish,2026-09-04T12:36:50.885728,{}
+url,https://www.pink-porcupine-845141.hostingersite.com/,OpenPhish,2026-09-04T12:36:50.885729,{}
+url,https://www.projeto-coinbase.vercel.app/,OpenPhish,2026-09-04T12:36:50.885731,{}
+url,https://www.roblox.ly/users/9260917351/profile,OpenPhish,2026-09-04T12:36:50.885732,{}
+url,https://www.one.audios-whatapp.hl.cn/,OpenPhish,2026-09-04T12:36:50.885733,{}
+url,https://www.roblox.com.am/users/372854263429/profile,OpenPhish,2026-09-04T12:36:50.885734,{}
+url,http://pemenangshopee37.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885735,{}
+url,http://www.one.connect-whatapp.com.cn/,OpenPhish,2026-09-04T12:36:50.885736,{}
+url,https://stardustottawa.com/omo/aldom.html/,OpenPhish,2026-09-04T12:36:50.885737,{}
+url,https://processitau.vercel.app/,OpenPhish,2026-09-04T12:36:50.885738,{}
+url,https://www.processitau.vercel.app/,OpenPhish,2026-09-04T12:36:50.885739,{}
+url,http://www.67850.xyz/,OpenPhish,2026-09-04T12:36:50.885740,{}
+url,http://www.pusat-shopee577.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885740,{}
+url,https://www.rfrancis.synology.me/cgi-bin/home.ha,OpenPhish,2026-09-04T12:36:50.885741,{}
+url,https://www.rfrancis.synology.me/,OpenPhish,2026-09-04T12:36:50.885742,{}
+url,https://nexus-capital-online.vercel.app/,OpenPhish,2026-09-04T12:36:50.885743,{}
+url,https://www.nexus-capital-online.vercel.app/,OpenPhish,2026-09-04T12:36:50.885744,{}
+url,http://steamcommunitly-glockbalancework.shop/,OpenPhish,2026-09-04T12:36:50.885745,{}
+url,http://www.undian-shopee-2024.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885746,{}
+url,https://dolaition-bit.github.io/Log-in-instagram-/,OpenPhish,2026-09-04T12:36:50.885747,{}
+url,https://cn.instagram-g.com.cn/,OpenPhish,2026-09-04T12:36:50.885748,{}
+url,https://www.safe365apps.com/AccountSelection/c?c=0fd0fef3-a109-451d-b38d-2c08402e336f,OpenPhish,2026-09-04T12:36:50.885748,{}
+url,http://www.undian-shopee-2020.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885749,{}
+url,http://www.xn--linkein-ko3c.com/,OpenPhish,2026-09-04T12:36:50.885750,{}
+url,https://easybank-landing-page-saakar.vercel.app/,OpenPhish,2026-09-04T12:36:50.885751,{}
+url,http://www.easybank-landing-page-saakar.vercel.app/,OpenPhish,2026-09-04T12:36:50.885752,{}
+url,http://www.72031.xyz/,OpenPhish,2026-09-04T12:36:50.885753,{}
+url,https://cherokee-carage-inc.s3.us-east-2.amazonaws.com/DropBox.html,OpenPhish,2026-09-04T12:36:50.885754,{}
+url,https://1xbetbk1.com/en/block,OpenPhish,2026-09-04T12:36:50.885755,{}
+url,https://1xbetbk1.com/en,OpenPhish,2026-09-04T12:36:50.885756,{}
+url,https://www.90803.xyz/,OpenPhish,2026-09-04T12:36:50.885756,{}
+url,http://www.nietflix.nl/,OpenPhish,2026-09-04T12:36:50.885757,{}
+url,http://0ki94-nvz-bhpf-bzxc-our4.pages.dev/,OpenPhish,2026-09-04T12:36:50.885758,{}
+url,https://u60se6hv.authlnk.com/l/uCRVid7cRZhc46d4DXPDvN5xpwJ4KPOD5EnG/,OpenPhish,2026-09-04T12:36:50.885760,{}
+url,https://lnk.ink/2myPv,OpenPhish,2026-09-04T12:36:50.885761,{}
+url,https://www.roblox.com.mu/users/210081846/profile,OpenPhish,2026-09-04T12:36:50.885762,{}
+url,https://mobile-intelligent-33998764300.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885763,{}
+url,http://www.mobile-intelligent-33998764300.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885763,{}
+url,https://shopee-id-1010.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885764,{}
+url,https://www.kombijdhl.nl/,OpenPhish,2026-09-04T12:36:50.885765,{}
+url,https://easybanklanding.vercel.app/,OpenPhish,2026-09-04T12:36:50.885766,{}
+url,https://www.easybanklanding.vercel.app/,OpenPhish,2026-09-04T12:36:50.885767,{}
+url,https://www.b35yyy.com/,OpenPhish,2026-09-04T12:36:50.885768,{}
+url,http://www.fbsoporte.vercel.app/,OpenPhish,2026-09-04T12:36:50.885769,{}
+url,https://wenaxe.com/aa/login.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-email&email=verarpro@43504d341bd8f8a77e506b1b4c2f82aba0a2.org/,OpenPhish,2026-09-04T12:36:50.885770,{}
+url,http://www.blogerinstagr.iceiy.com/,OpenPhish,2026-09-04T12:36:50.885771,{}
+url,http://pembatalan-pinjamaanz.resmi-qui.my.id/,OpenPhish,2026-09-04T12:36:50.885772,{}
+url,https://advanced-monitoring9378.co/verify/8A-9mNIDA0pAfdEkmrDgINPRPy_AO5Gv,OpenPhish,2026-09-04T12:36:50.885773,{}
+url,https://jcvware.com/Ane-MariJaneczko/truenorthpackaging.html,OpenPhish,2026-09-04T12:36:50.885774,{}
+url,https://www.gemini-project.eu/,OpenPhish,2026-09-04T12:36:50.885774,{}
+url,http://www.hadiah-shopee2023.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885775,{}
+url,https://www.hunnnnpgs28.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885776,{}
+url,http://m.jinwanglai.com/,OpenPhish,2026-09-04T12:36:50.885777,{}
+url,http://newxfinitycomcast.weebly.com/,OpenPhish,2026-09-04T12:36:50.885778,{}
+url,https://www.my-new-bnb-bsccoin.surge.sh/,OpenPhish,2026-09-04T12:36:50.885779,{}
+url,http://xcomcastlogin.weebly.com/,OpenPhish,2026-09-04T12:36:50.885780,{}
+url,http://www.gebyar-shopee2026.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885781,{}
+url,https://www.kejutanshopee-2023.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885782,{}
+url,https://facebook-seks-29.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885783,{}
+url,https://www.facebook-seks-29.blogspot.com/?m=1,OpenPhish,2026-09-04T12:36:50.885783,{}
+url,http://a2agroup.com/Number/preload-centered-backup.html,OpenPhish,2026-09-04T12:36:50.885784,{}
+url,https://advanced-monitoring9378.co/verify/Zv7A527segu1lU9bUeue-R1lhuL9Zoj2,OpenPhish,2026-09-04T12:36:50.885785,{}
+url,https://wamigo.top/,OpenPhish,2026-09-04T12:36:50.885786,{}
+url,https://www.phantom-eight-nu.vercel.app/,OpenPhish,2026-09-04T12:36:50.885787,{}
+url,https://auth.properties/E.BS5nkDoiDwN1yoKtuA?/file.php?document=NzYxMG1pa2EuYWFsdG9AaG94aHVudC5jb20zNDA4,OpenPhish,2026-09-04T12:36:50.885788,{}
+url,https://e.vg/kyZkznxJ,OpenPhish,2026-09-04T12:36:50.885789,{}
+url,https://newcomc.weeblysite.com/,OpenPhish,2026-09-04T12:36:50.885790,{}
+url,https://newcomc.weebly.com/,OpenPhish,2026-09-04T12:36:50.885791,{}
+url,http://www.iniciamazon.com.br/,OpenPhish,2026-09-04T12:36:50.885792,{}
+url,http://alert-navyfederal.firebaseapp.com/,OpenPhish,2026-09-04T12:36:50.885793,{}
+url,https://stardustottawa.com/omo/aldom.html,OpenPhish,2026-09-04T12:36:50.885793,{}
+url,https://www.rblxgiffter-limitedtime.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885794,{}
+url,https://www.roblox.com.pt/games/87341346192053/Huge-Update-Dig-or-Die?privateServerLinkCode=99382535900423182128231632453729,OpenPhish,2026-09-04T12:36:50.885795,{}
+url,http://secrrr---walllttt-----uphlddd.pages.dev/,OpenPhish,2026-09-04T12:36:50.885796,{}
+url,https://hongwuwujin.com/,OpenPhish,2026-09-04T12:36:50.885797,{}
+url,https://geotehnica.com/docusignreader/e-sign.php,OpenPhish,2026-09-04T12:36:50.885798,{}
+url,http://www.shopee77bombastis.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885799,{}
+url,https://undian-shopee-2024.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885800,{}
+url,http://www.info-layananshopee89.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885801,{}
+url,https://newbreedlifearts.org/content/korea.html,OpenPhish,2026-09-04T12:36:50.885801,{}
+url,https://kejutanshopee-2023.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885802,{}
+url,https://progran-shopee53.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885803,{}
+url,https://advanced-monitoring9378.co/verify/tGjwd2nnDFQKF-uxHCPb1KmAhjDMxWHT,OpenPhish,2026-09-04T12:36:50.885804,{}
+url,https://gebyar-shopee2026.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885805,{}
+url,https://summers-base-2898.bubroufrezoutti-9378.workers.dev/granduer##,OpenPhish,2026-09-04T12:36:50.885806,{}
+url,https://lnk.ink/zttVv,OpenPhish,2026-09-04T12:36:50.885806,{}
+url,https://tb-meli-challenge.vercel.app/,OpenPhish,2026-09-04T12:36:50.885807,{}
+url,http://www.tb-meli-challenge.vercel.app/,OpenPhish,2026-09-04T12:36:50.885808,{}
+url,https://www.roblox.com.bn/users/310332141614/profile,OpenPhish,2026-09-04T12:36:50.885809,{}
+url,http://shopee77bombastis.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885810,{}
+url,http://hadiah-shopee2023.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885811,{}
+url,https://ehyyopwzlwyytjaqong.vercel.app/nbs4e5rbseatnbsdgfbxcvrexzw,OpenPhish,2026-09-04T12:36:50.885812,{}
+url,https://ehyyopwzlwyytjaqong.vercel.app/nbs4e5rbseatnbsdgfbxcvrexzw.html,OpenPhish,2026-09-04T12:36:50.885812,{}
+url,http://gebyar-shopee2023.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885813,{}
+url,https://orange-verfication.vercel.app/,OpenPhish,2026-09-04T12:36:50.885814,{}
+url,https://b39754157-8c2d-4f50-9816-b95d6f17147a.netlify.app/1653629651334864,OpenPhish,2026-09-04T12:36:50.885815,{}
+url,https://copyright-advertising-issue-review.netlify.app/1653629651334864,OpenPhish,2026-09-04T12:36:50.885816,{}
+url,https://goo.su/ETzhh,OpenPhish,2026-09-04T12:36:50.885817,{}
+url,https://goo.su/8SuwU,OpenPhish,2026-09-04T12:36:50.885818,{}
+url,http://friendsoflembongan.org/,OpenPhish,2026-09-04T12:36:50.885818,{}
+url,http://quaentchen-glueck.de/,OpenPhish,2026-09-04T12:36:50.885819,{}
+url,http://solarbayernmuc.de/,OpenPhish,2026-09-04T12:36:50.885820,{}
+url,http://novix24.de/,OpenPhish,2026-09-04T12:36:50.885821,{}
+url,http://nicopolzin.de/,OpenPhish,2026-09-04T12:36:50.885822,{}
+url,http://hc-krass.de/,OpenPhish,2026-09-04T12:36:50.885823,{}
+url,http://rc-dienstleistungen.de/,OpenPhish,2026-09-04T12:36:50.885824,{}
+url,http://10x8photography.com/,OpenPhish,2026-09-04T12:36:50.885825,{}
+url,http://sabineschoening.de/,OpenPhish,2026-09-04T12:36:50.885825,{}
+url,http://mftb-concerts.de/,OpenPhish,2026-09-04T12:36:50.885826,{}
+url,http://freiburger-gruendertage.de/,OpenPhish,2026-09-04T12:36:50.885827,{}
+url,http://redcyan.de/,OpenPhish,2026-09-04T12:36:50.885828,{}
+url,http://namwood.de/,OpenPhish,2026-09-04T12:36:50.885829,{}
+url,http://mobiletechdoc.de/,OpenPhish,2026-09-04T12:36:50.885830,{}
+url,http://3s1inc.com/,OpenPhish,2026-09-04T12:36:50.885830,{}
+url,http://quickstep-le.de/,OpenPhish,2026-09-04T12:36:50.885831,{}
+url,http://neue-probleme.de/,OpenPhish,2026-09-04T12:36:50.885832,{}
+url,https://www.custoezcenyr.dynv6.net/,OpenPhish,2026-09-04T12:36:50.885833,{}
+url,https://havredufaubourg.vercel.app/,OpenPhish,2026-09-04T12:36:50.885834,{}
+url,https://albertasportshall.vercel.app/,OpenPhish,2026-09-04T12:36:50.885835,{}
+url,http://www.havredufaubourg.vercel.app/,OpenPhish,2026-09-04T12:36:50.885836,{}
+url,http://www.albertasportshall.vercel.app/,OpenPhish,2026-09-04T12:36:50.885837,{}
+url,https://swanvalleycoop.vercel.app/,OpenPhish,2026-09-04T12:36:50.885837,{}
+url,https://www.swanvalleycoop.vercel.app/,OpenPhish,2026-09-04T12:36:50.885838,{}
+url,https://page-portal-access-94e8b6.vercel.app/accounts-center,OpenPhish,2026-09-04T12:36:50.885839,{}
+url,https://page-portal-alert-gcx3fk.vercel.app/accounts-center,OpenPhish,2026-09-04T12:36:50.885840,{}
+url,https://page-portal-integrity-phxsqr.vercel.app/accounts-center,OpenPhish,2026-09-04T12:36:50.885841,{}
+url,https://verification-operations-page.vercel.app/accounts-center,OpenPhish,2026-09-04T12:36:50.885842,{}
+url,https://page-portal-access-94e8b6.vercel.app/,OpenPhish,2026-09-04T12:36:50.885843,{}
+url,https://page-portal-alert-gcx3fk.vercel.app/,OpenPhish,2026-09-04T12:36:50.885844,{}
+url,https://page-portal-integrity-phxsqr.vercel.app/,OpenPhish,2026-09-04T12:36:50.885845,{}
+url,https://verification-operations-page.vercel.app/,OpenPhish,2026-09-04T12:36:50.885846,{}
+url,http://iphoneapplepaycharged-contacthelpdesk-vwvwnsnh.on-forge.com/,OpenPhish,2026-09-04T12:36:50.885847,{}
+url,http://chargesfoundcalluandtakeaction-xiw3etfz.on-forge.com/,OpenPhish,2026-09-04T12:36:50.885848,{}
+url,https://task-partners.vercel.app/,OpenPhish,2026-09-04T12:36:50.885849,{}
+url,https://bc8.vercel.app/,OpenPhish,2026-09-04T12:36:50.885850,{}
+url,https://otkacess.vercel.app/,OpenPhish,2026-09-04T12:36:50.885851,{}
+url,http://www.task-partners.vercel.app/,OpenPhish,2026-09-04T12:36:50.885852,{}
+url,http://www.euaworldinfo.vercel.app/,OpenPhish,2026-09-04T12:36:50.885853,{}
+url,http://www.bc8.vercel.app/,OpenPhish,2026-09-04T12:36:50.885854,{}
+url,https://www.tkacess.vercel.app/,OpenPhish,2026-09-04T12:36:50.885855,{}
+url,https://www.otkacess.vercel.app/,OpenPhish,2026-09-04T12:36:50.885856,{}
+url,http://euaworldinfo.vercel.app/,OpenPhish,2026-09-04T12:36:50.885857,{}
+url,http://tkacess.vercel.app/,OpenPhish,2026-09-04T12:36:50.885857,{}
+url,https://www.allegroab.com/,OpenPhish,2026-09-04T12:36:50.885858,{}
+url,https://www.allegrobusinesshub.com/,OpenPhish,2026-09-04T12:36:50.885859,{}
+url,https://www.allegrooffice.com/,OpenPhish,2026-09-04T12:36:50.885860,{}
+url,https://free-5532335.webadorsite.com/,OpenPhish,2026-09-04T12:36:50.885861,{}
+url,http://www.free-5532335.webadorsite.com/,OpenPhish,2026-09-04T12:36:50.885862,{}
+url,https://www.25000686365.com/,OpenPhish,2026-09-04T12:36:50.885863,{}
+url,http://www.mgbet553.vip/,OpenPhish,2026-09-04T12:36:50.885864,{}
+url,https://www.trezor.autos/,OpenPhish,2026-09-04T12:36:50.885865,{}
+url,http://wqdegnhwas.on-forge.com/,OpenPhish,2026-09-04T12:36:50.885866,{}
+url,https://sdfsdas.shop/,OpenPhish,2026-09-04T12:36:50.885867,{}
+url,https://amazon-project-theta.vercel.app/orders.html,OpenPhish,2026-09-04T12:36:50.885867,{}
+url,https://midasnews.mobileaccesx-events.com/,OpenPhish,2026-09-04T12:36:50.885868,{}
+url,https://appeal-case.about-help.com/secret=xs/,OpenPhish,2026-09-04T12:36:50.885869,{}
+url,https://rent-house-app-phi.vercel.app/,OpenPhish,2026-09-04T12:36:50.885870,{}
+url,http://www.rent-house-app-phi.vercel.app/,OpenPhish,2026-09-04T12:36:50.885871,{}
+url,http://layanan-undian66.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885872,{}
+url,https://swedberg-hodgkinson.s3.eu-north-1.amazonaws.com/Auth.download2026.html,OpenPhish,2026-09-04T12:36:50.885873,{}
+url,https://just2iconic.com/icccccccccccccccccccc/index.html,OpenPhish,2026-09-04T12:36:50.885873,{}
+url,https://h57365.cc/,OpenPhish,2026-09-04T12:36:50.885874,{}
+url,https://fidlerontheroofkccom.s3.us-east-2.amazonaws.com/fidlerontheroofk.com.html,OpenPhish,2026-09-04T12:36:50.885875,{}
+url,http://www.trustwallet-source.vercel.app/,OpenPhish,2026-09-04T12:36:50.885876,{}
+url,http://hadiahshopee552.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885877,{}
+url,https://www.sparkasse-dortmund.de/de/home.html,OpenPhish,2026-09-04T12:36:50.885878,{}
+url,http://www.sparkasse-dortmund.app/,OpenPhish,2026-09-04T12:36:50.885879,{}
+url,https://djdkkdjbdhshaww.weebly.com/,OpenPhish,2026-09-04T12:36:50.885881,{}
+url,http://www.djdkkdjbdhshaww.weebly.com/,OpenPhish,2026-09-04T12:36:50.885885,{}
+url,http://www.hadiah-shopee1111.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885886,{}
+url,http://www.0ut927-lve828-365k.iceiy.com/,OpenPhish,2026-09-04T12:36:50.885888,{}
+url,http://done4you.tv/following/disclosures.html,OpenPhish,2026-09-04T12:36:50.885890,{}
+url,https://www.l86365.com/,OpenPhish,2026-09-04T12:36:50.885891,{}
+url,https://advanced-monitoring9378.co/verify/eVyK5bZfSDGOhEc_4eXAncQ29VFWGzWY,OpenPhish,2026-09-04T12:36:50.885893,{}
+url,https://wqg.ru.com/FirstCommunity/FirstCommunity.php,OpenPhish,2026-09-04T12:36:50.885894,{}
+url,https://wqg.ru.com/FirstCommunity/login2.php,OpenPhish,2026-09-04T12:36:50.885896,{}
+url,https://wqg.ru.com/FirstCommunity/cod.php,OpenPhish,2026-09-04T12:36:50.885897,{}
+url,https://www.zeta-facebook.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885899,{}
+url,http://gandhibali.org/Scripts/aldom.html,OpenPhish,2026-09-04T12:36:50.885900,{}
+url,https://incrementoautomatico.firebaseapp.com/,OpenPhish,2026-09-04T12:36:50.885901,{}
+url,https://averrafashion.shop/,OpenPhish,2026-09-04T12:36:50.885903,{}
+url,http://www.amanduhhs.blogspot.com/,OpenPhish,2026-09-04T12:36:50.885904,{}
+url,https://www.roblox.ly/users/7910383666/profile,OpenPhish,2026-09-04T12:36:50.885905,{}
+url,http://wp.qwogpd.com/accessme/accessme/viewnowpls.html,OpenPhish,2026-09-04T12:36:50.885906,{}
